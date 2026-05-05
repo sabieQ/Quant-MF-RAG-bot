@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Scheme Source Metadata",
+  "type": "object",
+  "description": "Metadata schema for each scraped mutual fund scheme document.",
+  "properties": {
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "The exact URL from which the data was scraped."
+    },
+    "scheme_name": {
+      "type": "string",
+      "description": "The full name of the mutual fund scheme."
+    },
+    "category": {
+      "type": "string",
+      "description": "Category of the fund (e.g., Small Cap, ELSS)."
+    },
+    "document_type": {
+      "type": "string",
+      "description": "Type of the document, typically 'HTML' for Groww pages."
+    },
+    "scrape_date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 formatted date and time when the document was scraped."
+    },
+    "elss_lock_in": {
+      "type": ["string", "null"],
+      "description": "Lock-in period for ELSS funds. Null for non-ELSS funds (Edge Case 1.A.4 mitigation)."
+    }
+  },
+  "required": ["source_url", "scheme_name", "category", "document_type", "scrape_date"]
+}

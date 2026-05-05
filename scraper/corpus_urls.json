@@ -1,0 +1,32 @@
+[
+  {
+    "id": "quant_small_cap",
+    "scheme_name": "Quant Small Cap Fund – Direct Plan Growth",
+    "category": "Small Cap",
+    "url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth"
+  },
+  {
+    "id": "quant_elss",
+    "scheme_name": "Quant ELSS Tax Saver Fund – Direct Growth",
+    "category": "ELSS",
+    "url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth"
+  },
+  {
+    "id": "quant_multi_asset",
+    "scheme_name": "Quant Multi Asset Allocation Fund – Direct Growth",
+    "category": "Multi Asset",
+    "url": "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth"
+  },
+  {
+    "id": "quant_mid_cap",
+    "scheme_name": "Quant Mid Cap Fund – Direct Growth",
+    "category": "Mid Cap",
+    "url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth"
+  },
+  {
+    "id": "quant_flexi_cap",
+    "scheme_name": "Quant Flexi Cap Fund – Direct Growth",
+    "category": "Flexi Cap",
+    "url": "https://groww.in/mutual-funds/quant-flexi-cap-fund-direct-growth"
+  }
+]

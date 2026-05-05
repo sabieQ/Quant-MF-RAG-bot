@@ -1,0 +1,47 @@
+[
+  {
+    "scheme_id": "quant_small_cap",
+    "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+    "scheme_name": "Quant Small Cap Fund – Direct Plan Growth",
+    "category": "Small Cap",
+    "document_type": "HTML",
+    "scrape_date": "2026-05-03T10:07:44.450715+00:00",
+    "elss_lock_in": null
+  },
+  {
+    "scheme_id": "quant_elss",
+    "source_url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
+    "scheme_name": "Quant ELSS Tax Saver Fund – Direct Growth",
+    "category": "ELSS",
+    "document_type": "HTML",
+    "scrape_date": "2026-05-03T10:07:47.865443+00:00",
+    "elss_lock_in": "3 Years"
+  },
+  {
+    "scheme_id": "quant_multi_asset",
+    "source_url": "https://groww.in/mutual-funds/quant-multi-asset-allocation-fund-direct-growth",
+    "scheme_name": "Quant Multi Asset Allocation Fund – Direct Growth",
+    "category": "Multi Asset",
+    "document_type": "HTML",
+    "scrape_date": "2026-05-03T10:07:51.333302+00:00",
+    "elss_lock_in": null
+  },
+  {
+    "scheme_id": "quant_mid_cap",
+    "source_url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
+    "scheme_name": "Quant Mid Cap Fund – Direct Growth",
+    "category": "Mid Cap",
+    "document_type": "HTML",
+    "scrape_date": "2026-05-03T10:07:55.592963+00:00",
+    "elss_lock_in": null
+  },
+  {
+    "scheme_id": "quant_flexi_cap",
+    "source_url": "https://groww.in/mutual-funds/quant-flexi-cap-fund-direct-growth",
+    "scheme_name": "Quant Flexi Cap Fund – Direct Growth",
+    "category": "Flexi Cap",
+    "document_type": "HTML",
+    "scrape_date": "2026-05-03T10:07:59.702613+00:00",
+    "elss_lock_in": null
+  }
+]
