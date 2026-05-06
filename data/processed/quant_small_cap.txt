@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+21.27
++21.71
 %
 3Y annualised
-+0.04
++0.37
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 30 Apr '26
-₹280.48
+NAV: 05 May '26
+₹284.66
 Min. for SIP
 ₹1,000
 Fund size (AUM)
 ₹25,820.99 Cr
 Expense ratio
-0.70%
+0.71%
 Rating
 4
 Return calculator
@@ -88,10 +88,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹62,205 |  | + 3.67 %
-3 years | ₹1,80,000 | ₹2,06,052 |  | + 14.47 %
-5 years | ₹3,00,000 | ₹4,53,740 |  | + 51.25 %
-10 years | ₹6,00,000 | ₹21,37,289 |  | + 256.21 %
+1 year | ₹60,000 | ₹62,925 |  | + 4.88 %
+3 years | ₹1,80,000 | ₹2,06,456 |  | + 14.70 %
+5 years | ₹3,00,000 | ₹4,56,394 |  | + 52.13 %
+10 years | ₹6,00,000 | ₹21,76,275 |  | + 262.71 %
 [TABLE END]
 Holdings (
 114
@@ -231,7 +231,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +21.3% | +23.3% | +19.9% | +17.1%
+Fund returns | +21.7% | +22.9% | +20.0% | +17.3%
 Category average ( Equity Small Cap ) | +19.7% | +22.6% | +16.1% | --
 Rank ( Equity Small Cap ) | 15 | 4 | -- | --
 [TABLE END]
@@ -259,11 +259,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +15.13% | +32.17% | 20,129.67
- | Invesco India Smallcap Fund Direct Growth | +12.62% | +25.82% | 9,207.58
- | Nippon India Small Cap Fund Direct Growth | +11.19% | +22.04% | 61,808.85
- | Sundaram Small Cap Fund Direct Growth | +17.01% | +21.81% | 2,982.57
- | Quant Small Cap Fund Direct Plan Growth | +9.37% | +21.27% | 25,820.99
+ | Bandhan Small Cap Fund Direct Growth | +15.57% | +32.14% | 20,129.67
+ | Invesco India Smallcap Fund Direct Growth | +13.46% | +25.98% | 9,207.58
+ | Sundaram Small Cap Fund Direct Growth | +17.18% | +21.94% | 2,982.57
+ | Nippon India Small Cap Fund Direct Growth | +11.26% | +21.88% | 61,808.85
+ | Quant Small Cap Fund Direct Plan Growth | +9.58% | +21.71% | 25,820.99
 Compare
 [TABLE END]
 Fund management
@@ -538,7 +538,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 30 Apr 2026 is ₹280.48.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 05 May 2026 is ₹284.66.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
@@ -616,7 +616,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.5.8
+7.5.9
 Share Market
 Indices
 F&O
@@ -782,7 +782,7 @@ MF Screener
 Debt Mutual Funds
 Best Multicap Mutual funds
 Best Contra Mutual funds
-Best Conservative Mutual funds
+Best Conservative Hybrid Mutual funds
 SBI Contra Fund
 Nippon India Nifty 500 Momentum 50 Index Fund
 HDFC Balanced Advantage Fund
@@ -800,7 +800,7 @@ Shriram
 Compare Mutual Funds
 Best Debt Mutual funds
 Best Large Cap Mutual funds
-Best Value Mutual funds
+Best Value Oriented Mutual funds
 Parag Parikh Flexi Cap Fund
 HDFC Mid Cap Opportunities Fund
 Motilal Oswal Nifty India Defence Index Fund
@@ -855,8 +855,8 @@ Navi
 PGIM
 Mutual Funds Categories
 Best MidCap Mutual funds
-Best Sector Mutual funds
-Best Aggressive Mutual funds
+Best Sectoral Mutual funds
+Best Aggressive Hybrid Mutual funds
 Quant Small Cap Fund
 SBI Magnum Children's Benefit Fund
 UTI Nifty 50 Index Fund

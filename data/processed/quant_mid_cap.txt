@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+17.96
++18.42
 %
 3Y annualised
--0.75
++0.08
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 30 Apr '26
-₹240.54
+NAV: 05 May '26
+₹242.96
 Min. for SIP
 ₹1,000
 Fund size (AUM)
 ₹7,001.82 Cr
 Expense ratio
-0.74%
+1.82%
 Rating
 2
 Return calculator
@@ -88,10 +88,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,866 |  | + 3.11 %
-3 years | ₹1,80,000 | ₹1,97,498 |  | + 9.72 %
-5 years | ₹3,00,000 | ₹4,20,911 |  | + 40.30 %
-10 years | ₹6,00,000 | ₹17,15,084 |  | + 185.85 %
+1 year | ₹60,000 | ₹62,599 |  | + 4.33 %
+3 years | ₹1,80,000 | ₹1,97,133 |  | + 9.52 %
+5 years | ₹3,00,000 | ₹4,21,438 |  | + 40.48 %
+10 years | ₹6,00,000 | ₹17,33,051 |  | + 188.84 %
 [TABLE END]
 Holdings (
 41
@@ -158,7 +158,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +18.0% | +20.5% | +18.2% | +16.7%
+Fund returns | +18.4% | +19.9% | +18.4% | +16.8%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
 Rank ( Equity Mid Cap ) | 35 | 9 | -- | --
 [TABLE END]
@@ -188,11 +188,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | WhiteOak Capital Mid Cap Fund Direct Growth | +16.74% | +27.50% | 4,490.64
- | Nippon India Growth Mid Cap Fund Direct Growth | +13.18% | +26.45% | 39,676.13
- | Edelweiss Mid Cap Direct Plan Growth | +12.15% | +26.40% | 13,553.62
- | Sundaram Mid Cap Fund Direct Growth | +12.24% | +25.20% | 11,898.19
- | HDFC Mid Cap Fund Direct Growth | +11.39% | +24.36% | 85,357.92
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +16.88% | +27.60% | 4,490.64
+ | Edelweiss Mid Cap Direct Plan Growth | +12.39% | +26.39% | 13,553.62
+ | Nippon India Growth Mid Cap Fund Direct Growth | +13.10% | +26.24% | 39,676.13
+ | Sundaram Mid Cap Fund Direct Growth | +12.27% | +25.16% | 11,898.19
+ | HDFC Mid Cap Fund Direct Growth | +10.74% | +23.97% | 85,357.92
 Compare
 [TABLE END]
 Fund management
@@ -467,7 +467,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 30 Apr 2026 is ₹240.54.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 05 May 2026 is ₹242.96.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
@@ -545,7 +545,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.5.8
+7.5.9
 Share Market
 Indices
 F&O
@@ -711,7 +711,7 @@ MF Screener
 Debt Mutual Funds
 Best Multicap Mutual funds
 Best Contra Mutual funds
-Best Conservative Mutual funds
+Best Conservative Hybrid Mutual funds
 SBI Contra Fund
 Nippon India Nifty 500 Momentum 50 Index Fund
 HDFC Balanced Advantage Fund
@@ -729,7 +729,7 @@ Shriram
 Compare Mutual Funds
 Best Debt Mutual funds
 Best Large Cap Mutual funds
-Best Value Mutual funds
+Best Value Oriented Mutual funds
 Parag Parikh Flexi Cap Fund
 HDFC Mid Cap Opportunities Fund
 Motilal Oswal Nifty India Defence Index Fund
@@ -784,8 +784,8 @@ Navi
 PGIM
 Mutual Funds Categories
 Best MidCap Mutual funds
-Best Sector Mutual funds
-Best Aggressive Mutual funds
+Best Sectoral Mutual funds
+Best Aggressive Hybrid Mutual funds
 Quant Small Cap Fund
 SBI Magnum Children's Benefit Fund
 UTI Nifty 50 Index Fund
