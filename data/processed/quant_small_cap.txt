@@ -94,122 +94,121 @@ Over the past | Total investment | Would've become | Historic returns | Returns
 10 years | ₹6,00,000 | ₹22,29,636 |  | + 271.61 %
 [TABLE END]
 Holdings (
-114
+113
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Reliance Industries Ltd. | Energy | Equity | 9.66%
-RBL Bank Ltd. | Financial | Equity | 4.25%
-Adani Power Ltd. | Energy | Equity | 3.52%
-Sun TV Network Ltd. | Services | Equity | 3.22%
-Piramal Finance Ltd. | Financial | Equity | 3.08%
-Aster DM Healthcare Ltd. | Healthcare | Equity | 2.93%
-Anand Rathi Wealth Ltd. | Financial | Equity | 2.79%
-JIO Financial Services Ltd. | Financial | Equity | 2.68%
-HFCL Ltd. | Communication | Equity | 2.36%
-Aurobindo Pharma Ltd. | Healthcare | Futures | 2.09%
-Bikaji Foods International Ltd. | Consumer Staples | Equity | 2.09%
-Aegis Logistics Ltd. | Services | Equity | 2.02%
-Poly Medicure Ltd. | Healthcare | Equity | 2.01%
-ICICI Bank Ltd. | Financial | Equity | 1.99%
-Capri Global Capital Ltd. | Financial | Equity | 1.96%
+Reliance Industries Ltd. | Energy | Equity | 9.47%
+RBL Bank Ltd. | Financial | Equity | 4.75%
+Adani Power Ltd. | Energy | Equity | 4.38%
+HFCL Ltd. | Communication | Equity | 3.44%
+Sun TV Network Ltd. | Services | Equity | 2.92%
+Piramal Finance Ltd. | Financial | Equity | 2.85%
+Anand Rathi Wealth Ltd. | Financial | Equity | 2.81%
+Aster DM Healthcare Ltd. | Healthcare | Equity | 2.61%
+Adani Green Energy Ltd. | Capital Goods | Equity | 2.20%
+Adani Enterprises Ltd. | Services | Equity | 2.19%
+Poly Medicure Ltd. | Healthcare | Equity | 2.17%
 Arvind Ltd. | Textiles | Equity | 1.94%
-Adani Enterprises Ltd. | Services | Equity | 1.88%
-Bayer CropScience Ltd. | Chemicals | Equity | 1.87%
-Ventive Hospitality Ltd. | Services | Equity | 1.79%
-Adani Green Energy Ltd. | Capital Goods | Equity | 1.70%
-Viyash Scientific Limited | Healthcare | Equity | 1.70%
-HDFC Bank Ltd. | Financial | Futures | 1.68%
-Pfizer Ltd. | Healthcare | Equity | 1.67%
-Usha Martin Ltd. | Metals & Mining | Equity | 1.62%
-Zydus Wellness Ltd. | Consumer Staples | Equity | 1.49%
-NBCC (India) Ltd. | Construction | Equity | 1.47%
-Manappuram Finance Ltd. | Financial | Equity | 1.45%
-Minda Corporation Ltd. | Automobile | Equity | 1.40%
-Aditya Birla Lifestyle Brands Ltd. | Services | Equity | 1.36%
-Welspun Corp Ltd. | Metals & Mining | Equity | 1.36%
-Strides Pharma Science Ltd. | Healthcare | Equity | 1.29%
-The Karnataka Bank Ltd. | Financial | Equity | 1.27%
-Welspun Enterprises Ltd. | Construction | Equity | 1.08%
-Samvardhana Motherson International Ltd. | Automobile | Equity | 1.08%
-Marathon Nextgen Realty Ltd. | Construction | Equity | 0.99%
-Anthem Biosciences Ltd. | Healthcare | Equity | 0.94%
-Jubilant Pharmova Ltd. | Healthcare | Equity | 0.93%
-Gland Pharma Ltd. | Healthcare | Equity | 0.90%
-Keystone Realtors Ltd | Construction | Equity | 0.90%
-NCC Ltd. | Construction | Equity | 0.88%
-E.I.D. - Parry (India) Ltd. | Consumer Staples | Equity | 0.82%
-JM Financial Ltd. | Financial | Equity | 0.74%
-Just Dial Ltd. | Services | Equity | 0.72%
-Afcons Infrastructure Ltd. | Construction | Equity | 0.70%
-Alivus Life Sciences Ltd | Healthcare | Equity | 0.66%
-Orchid Pharma Ltd. | Healthcare | Equity | 0.65%
-Aarti Industries Ltd. | Chemicals | Equity | 0.65%
-IRB Infrastructure Developers Ltd. | Construction | Equity | 0.63%
-EPL Ltd. | Chemicals | Equity | 0.63%
-HDFC Bank Ltd. | Financial | Equity | 0.61%
-HDFC Life Insurance Co Ltd. | Insurance | Equity | 0.53%
+Bikaji Foods International Ltd. | Consumer Staples | Equity | 1.93%
+Capri Global Capital Ltd. | Financial | Equity | 1.93%
+Aurobindo Pharma Ltd. | Healthcare | Futures | 1.90%
+Aegis Logistics Ltd. | Services | Equity | 1.84%
+Welspun Corp Ltd. | Metals & Mining | Equity | 1.80%
+ICICI Bank Ltd. | Financial | Equity | 1.77%
+Ventive Hospitality Ltd. | Services | Equity | 1.72%
+Bayer CropScience Ltd. | Chemicals | Equity | 1.63%
+Viyash Scientific Limited | Healthcare | Equity | 1.61%
+Usha Martin Ltd. | Metals & Mining | Equity | 1.59%
+Zydus Wellness Ltd. | Consumer Staples | Equity | 1.51%
+NBCC (India) Ltd. | Construction | Equity | 1.48%
+Manappuram Finance Ltd. | Financial | Equity | 1.44%
+Pfizer Ltd. | Healthcare | Equity | 1.42%
+Aditya Birla Lifestyle Brands Ltd. | Services | Equity | 1.35%
+The Karnataka Bank Ltd. | Financial | Equity | 1.30%
+Strides Pharma Science Ltd. | Healthcare | Equity | 1.23%
+Welspun Enterprises Ltd. | Construction | Equity | 1.16%
+Samvardhana Motherson International Ltd. | Automobile | Equity | 1.06%
+Marathon Nextgen Realty Ltd. | Construction | Equity | 1.04%
+RBL Bank Ltd. | Financial | Futures | 1.02%
+NCC Ltd. | Construction | Equity | 0.93%
+Anthem Biosciences Ltd. | Healthcare | Equity | 0.92%
+Jubilant Pharmova Ltd. | Healthcare | Equity | 0.90%
+Keystone Realtors Ltd | Construction | Equity | 0.80%
+Gland Pharma Ltd. | Healthcare | Equity | 0.79%
+JM Financial Ltd. | Financial | Equity | 0.77%
+E.I.D. - Parry (India) Ltd. | Consumer Staples | Equity | 0.76%
+Afcons Infrastructure Ltd. | Construction | Equity | 0.74%
+Orchid Pharma Ltd. | Healthcare | Equity | 0.71%
+Just Dial Ltd. | Services | Equity | 0.65%
+Black Box Ltd. | Technology | Equity | 0.62%
+Alivus Life Sciences Ltd | Healthcare | Equity | 0.60%
+EPL Ltd. | Chemicals | Equity | 0.59%
+IRB Infrastructure Developers Ltd. | Construction | Equity | 0.52%
 Welspun Living Ltd. | Consumer Discretionary | Equity | 0.51%
-Reserve Bank of India | Financial | T-Bills | 0.48%
-Black Box Ltd. | Technology | Equity | 0.48%
-TVS Srichakra Ltd. | Automobile | Equity | 0.47%
-Aurobindo Pharma Ltd. | Healthcare | Equity | 0.45%
-Juniper Hotels Ltd. | Services | Equity | 0.44%
-K.P.R. Mill Ltd. | Textiles | Equity | 0.42%
-Gujarat State Fertilizers & Chemicals Ltd. | Chemicals | Equity | 0.41%
-Apeejay Surrendra Park Hotels Ltd. | Services | Equity | 0.40%
+TVS Srichakra Ltd. | Automobile | Equity | 0.48%
+Minda Corporation Ltd. | Automobile | Equity | 0.47%
+HDFC Life Insurance Co Ltd. | Insurance | Equity | 0.45%
+Gujarat State Fertilizers & Chemicals Ltd. | Chemicals | Equity | 0.43%
+Apeejay Surrendra Park Hotels Ltd. | Services | Equity | 0.43%
+Nitin Spinners Ltd. | Textiles | Equity | 0.42%
+Aurobindo Pharma Ltd. | Healthcare | Equity | 0.41%
+Reserve Bank of India | Financial | T-Bills | 0.41%
+Juniper Hotels Ltd. | Services | Equity | 0.40%
 Aditya Birla Fashion and Retail Ltd. | Services | Equity | 0.38%
-Balrampur Chini Mills Ltd. | Consumer Staples | Equity | 0.37%
-Nitin Spinners Ltd. | Textiles | Equity | 0.36%
+Lloyds Metals & Energy Ltd. | Metals & Mining | Equity | 0.34%
+Suven Life Sciences Ltd. | Healthcare | Equity | 0.33%
+Balrampur Chini Mills Ltd. | Consumer Staples | Equity | 0.33%
 Manappuram Finance Ltd. | Financial | Futures | 0.30%
-Maharashtra Seamless Ltd. | Metals & Mining | Equity | 0.28%
-Aptus Value Housing Finance India Ltd. | Financial | Equity | 0.27%
-SMS Pharmaceuticals Ltd. | Healthcare | Equity | 0.27%
-Indoco Remedies Ltd. | Healthcare | Equity | 0.27%
-Rishabh Instruments Ltd. | Capital Goods | Equity | 0.26%
+Rishabh Instruments Ltd. | Capital Goods | Equity | 0.29%
+Indoco Remedies Ltd. | Healthcare | Equity | 0.29%
+Maharashtra Seamless Ltd. | Metals & Mining | Equity | 0.27%
 NBCC (India) Ltd. | Construction | Futures | 0.25%
-Suven Life Sciences Ltd. | Healthcare | Equity | 0.24%
-Reserve Bank of India | Financial | T-Bills | 0.23%
-Sula Vineyards Ltd. | Consumer Staples | Equity | 0.23%
+SMS Pharmaceuticals Ltd. | Healthcare | Equity | 0.25%
+Sula Vineyards Ltd. | Consumer Staples | Equity | 0.24%
+Man Infraconstruction Ltd. | Construction | Equity | 0.24%
+Himadri Speciality Chemical Ltd. | Chemicals | Equity | 0.23%
+K.P.R. Mill Ltd. | Textiles | Equity | 0.22%
 S.P. Apparels Ltd. | Textiles | Equity | 0.22%
-Reserve Bank of India | Financial | T-Bills | 0.21%
-Castrol India Ltd. | Energy | Equity | 0.21%
 Bata India Ltd. | Consumer Staples | Equity | 0.21%
-Himadri Speciality Chemical Ltd. | Chemicals | Equity | 0.20%
-Reserve Bank of India | Financial | T-Bills | 0.19%
-Vinati Organics Ltd. | Chemicals | Equity | 0.19%
-Man Infraconstruction Ltd. | Construction | Equity | 0.18%
+Oswal Pumps Ltd. | Capital Goods | Equity | 0.20%
+Castrol India Ltd. | Energy | Equity | 0.19%
 Reserve Bank of India | Financial | T-Bills | 0.18%
-Prime Securities Ltd. | Financial | Equity | 0.17%
-Oswal Pumps Ltd. | Capital Goods | Equity | 0.16%
-Capacit'e Infraprojects Ltd. | Construction | Equity | 0.16%
-Reserve Bank of India | Financial | T-Bills | 0.15%
-Orissa Minerals Development Company Ltd. | Metals & Mining | Equity | 0.13%
-Exicom Tele-Systems Ltd. | Energy | Equity | 0.13%
-Embassy Developments Ltd. | Construction | Equity | 0.12%
-Reserve Bank of India | Financial | T-Bills | 0.12%
+BlackBuck Ltd. | Services | Equity | 0.18%
+Triveni Turbine Ltd. | Construction | Equity | 0.17%
+Capacit'e Infraprojects Ltd. | Construction | Equity | 0.17%
+Exicom Tele-Systems Ltd. | Energy | Equity | 0.17%
+Reserve Bank of India | Financial | T-Bills | 0.16%
+Reserve Bank of India | Financial | T-Bills | 0.16%
+Prime Securities Ltd. | Financial | Equity | 0.15%
+Orissa Minerals Development Company Ltd. | Metals & Mining | Equity | 0.15%
+Reserve Bank of India | Financial | T-Bills | 0.13%
 Intellect Design Arena Ltd. | Technology | Equity | 0.12%
-Graphite India Ltd. | Capital Goods | Equity | 0.11%
+Embassy Developments Ltd. | Construction | Equity | 0.12%
 Ravindra Energy Ltd. | Capital Goods | Equity | 0.11%
-Reserve Bank of India | Financial | T-Bills | 0.09%
-Mahindra Holidays & Resorts India Ltd. | Services | Equity | 0.09%
-BASF India Ltd. | Chemicals | Equity | 0.09%
-Indian Hume Pipe Company Ltd. | Construction | Equity | 0.08%
-Emami Ltd. | Consumer Staples | Equity | 0.08%
-Ethos Ltd. | Services | Equity | 0.08%
-Sanofi India Ltd. | Healthcare | Equity | 0.08%
+Reserve Bank of India | Financial | T-Bills | 0.10%
+Graphite India Ltd. | Capital Goods | Equity | 0.10%
+Praj Industries Ltd. | Capital Goods | Equity | 0.10%
+Digitide Solutions Ltd. | Services | Equity | 0.09%
 Newgen Software Technologies Ltd. | Technology | Equity | 0.08%
-Digitide Solutions Ltd. | Services | Equity | 0.08%
+Sai Parenteral’s Ltd. | Healthcare | Equity | 0.08%
+Mahindra Holidays & Resorts India Ltd. | Services | Equity | 0.08%
+PTC India Ltd. | Energy | Equity | 0.08%
+Emami Ltd. | Consumer Staples | Equity | 0.08%
 Reserve Bank of India | Financial | T-Bills | 0.08%
+Ethos Ltd. | Services | Equity | 0.08%
+Vishnu Prakash R Punglia Ltd. | Construction | Equity | 0.07%
+Sanofi India Ltd. | Healthcare | Equity | 0.07%
 Sai Silks (Kalamandir) Ltd. | Textiles | Equity | 0.07%
-Oriental Hotels Ltd. | Services | Equity | 0.06%
-Vishnu Prakash R Punglia Ltd. | Construction | Equity | 0.06%
-Onesource Specialty Pharma Ltd. | Healthcare | Equity | 0.06%
-Safari Industries (India) Ltd. | Consumer Discretionary | Equity | 0.05%
-Gillette India Ltd. | Consumer Staples | Equity | 0.04%
+BASF India Ltd. | Chemicals | Equity | 0.07%
+Oriental Hotels Ltd. | Services | Equity | 0.07%
 Best Agrolife Ltd. | Chemicals | Equity | 0.04%
+Safari Industries (India) Ltd. | Consumer Discretionary | Equity | 0.04%
+Reserve Bank of India | Financial | T-Bills | 0.04%
+Gillette India Ltd. | Consumer Staples | Equity | 0.04%
 Sudeep Pharma Ltd. | Healthcare | Equity | 0.03%
 Primo Chemicals Ltd. | Chemicals | Equity | 0.03%
+Kalyani Steels Ltd. | Metals & Mining | Equity | 0.01%
 Om Infra Ltd. | Construction | Equity | 0.00%
 Quant Gilt Fund Direct - Growth | -- | Mutual Fund | 0.00%
 [TABLE END]

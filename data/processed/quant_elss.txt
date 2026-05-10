@@ -94,39 +94,37 @@ Over the past | Total investment | Would've become | Historic returns | Returns
 10 years | ₹6,00,000 | ₹18,58,133 |  | + 209.69 %
 [TABLE END]
 Holdings (
-31
+29
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Reliance Industries Ltd. | Energy | Equity | 9.57%
-Adani Power Ltd. | Energy | Equity | 8.56%
-Aurobindo Pharma Ltd. | Healthcare | Equity | 7.97%
-Larsen & Toubro Ltd. | Construction | Equity | 7.51%
-Samvardhana Motherson International Ltd. | Automobile | Equity | 7.20%
-Tata Power Company Ltd. | Energy | Equity | 5.08%
-Britannia Industries Ltd. | Consumer Staples | Equity | 4.90%
-JIO Financial Services Ltd. | Financial | Equity | 4.72%
-Life Insurance Corporation of India | Insurance | Equity | 4.54%
-HDFC Life Insurance Co Ltd. | Insurance | Equity | 4.34%
-Bajaj Auto Ltd. | Automobile | Equity | 4.13%
-ICICI Bank Ltd. | Financial | Equity | 3.78%
-Grasim Industries Ltd. | Construction | Equity | 3.49%
-Adani Green Energy Ltd. | Capital Goods | Equity | 3.39%
-Kotak Mahindra Bank Ltd. | Financial | Equity | 3.02%
-DLF Ltd. | Construction | Equity | 2.17%
-Adani Enterprises Ltd. | Services | Equity | 2.06%
-Capri Global Capital Ltd. | Financial | Equity | 1.92%
-ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.15%
-Bharti Airtel Ltd. | Communication | Equity | 0.98%
-Swan Defence and Heavy Industries Ltd. | Capital Goods | Equity | 0.95%
-Himadri Speciality Chemical Ltd. | Chemicals | Equity | 0.95%
+Reliance Industries Ltd. | Energy | Equity | 9.96%
+Adani Power Ltd. | Energy | Equity | 9.28%
+ICICI Bank Ltd. | Financial | Equity | 8.98%
+Larsen & Toubro Ltd. | Construction | Equity | 7.55%
+Aurobindo Pharma Ltd. | Healthcare | Equity | 7.46%
+Samvardhana Motherson International Ltd. | Automobile | Equity | 7.29%
+Tata Power Company Ltd. | Energy | Equity | 5.24%
+Adani Green Energy Ltd. | Capital Goods | Equity | 4.53%
+Life Insurance Corporation of India | Insurance | Equity | 4.38%
+HDFC Life Insurance Co Ltd. | Insurance | Equity | 3.79%
+Grasim Industries Ltd. | Construction | Equity | 3.35%
+Kotak Mahindra Bank Ltd. | Financial | Equity | 2.87%
+Adani Enterprises Ltd. | Services | Equity | 2.48%
+DLF Ltd. | Construction | Equity | 2.21%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 2.15%
+Capri Global Capital Ltd. | Financial | Equity | 1.88%
+Dixon Technologies (India) Ltd. | Capital Goods | Equity | 1.88%
+Bharti Airtel Ltd. | Communication | Equity | 1.83%
+Bharat Heavy Electricals Ltd. | Capital Goods | Equity | 1.48%
+Himadri Speciality Chemical Ltd. | Chemicals | Equity | 1.15%
+Swan Defence and Heavy Industries Ltd. | Capital Goods | Equity | 0.97%
+Lloyds Metals & Energy Ltd. | Metals & Mining | Equity | 0.93%
 Ventive Hospitality Ltd. | Services | Equity | 0.69%
-HDFC Bank Ltd. | Financial | Equity | 0.63%
-Lloyds Metals & Energy Ltd. | Metals & Mining | Equity | 0.49%
-Afcons Infrastructure Ltd. | Construction | Equity | 0.30%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.26%
-Krystal Integrated Services Ltd. | Services | Equity | 0.24%
-Juniper Hotels Ltd. | Services | Equity | 0.23%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.67%
+Afcons Infrastructure Ltd. | Construction | Equity | 0.33%
+Krystal Integrated Services Ltd. | Services | Equity | 0.25%
+Juniper Hotels Ltd. | Services | Equity | 0.22%
 Embassy Developments Ltd. | Construction | Equity | 0.19%
 Welspun Living Ltd. | Consumer Discretionary | Equity | 0.15%
 [TABLE END]
