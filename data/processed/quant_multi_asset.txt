@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+24.64
++25.06
 %
 3Y annualised
-+1.13
++1.08
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 13 May '26
-₹177.95
+NAV: 14 May '26
+₹179.87
 Min. for SIP
 ₹1,000
 Fund size (AUM)
 ₹5,257.41 Cr
 Expense ratio
-0.62%
+3.17%
 Rating
 5
 Return calculator
@@ -88,79 +88,73 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹65,450 |  | + 9.08 %
-3 years | ₹1,80,000 | ₹2,38,406 |  | + 32.45 %
-5 years | ₹3,00,000 | ₹4,99,829 |  | + 66.61 %
-10 years | ₹6,00,000 | ₹19,33,999 |  | + 222.33 %
+1 year | ₹60,000 | ₹66,083 |  | + 10.14 %
+3 years | ₹1,80,000 | ₹2,40,818 |  | + 33.79 %
+5 years | ₹3,00,000 | ₹5,04,916 |  | + 68.31 %
+10 years | ₹6,00,000 | ₹19,53,750 |  | + 225.63 %
 [TABLE END]
 Holdings (
-63
+57
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Nippon India ETF Gold BeES | -- | Mutual Fund | 9.77%
-HDFC Bank Ltd. | Financial | Equity | 8.54%
-ICICI Bank Ltd. | Financial | Equity | 7.12%
-Kotak Mahindra Bank Ltd. | Financial | Equity | 6.38%
-HDFC Life Insurance Co Ltd. | Insurance | Equity | 5.61%
-Aurobindo Pharma Ltd. | Healthcare | Equity | 4.97%
-Premier Energies Ltd. | Energy | Equity | 4.48%
-Bajaj Finance Ltd. | Financial | Equity | 3.77%
-ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 3.70%
-Adani Green Energy Ltd. | Capital Goods | Equity | 2.64%
-Reliance Industries Ltd. | Energy | Equity | 2.41%
-National Bank For Agriculture & Rural Development | Financial | CD | 1.99%
-Larsen & Toubro Ltd. | Construction | Equity | 1.90%
+Nippon India ETF Gold BeES | -- | Mutual Fund | 10.22%
+ICICI Bank Ltd. | Financial | Equity | 8.52%
+Adani Green Energy Ltd. | Capital Goods | Equity | 7.43%
+HDFC Bank Ltd. | Financial | Equity | 6.72%
+Kotak Mahindra Bank Ltd. | Financial | Equity | 6.26%
+Reliance Industries Ltd. | Energy | Equity | 5.32%
+HDFC Life Insurance Co Ltd. | Insurance | Equity | 5.05%
+Aurobindo Pharma Ltd. | Healthcare | Equity | 4.79%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 4.73%
+Premier Energies Ltd. | Energy | Equity | 4.63%
+Larsen & Toubro Ltd. | Construction | Equity | 1.97%
+National Bank For Agriculture & Rural Development | Financial | CD | 1.81%
+PB Fintech Ltd. | Services | Equity | 1.74%
+Black Box Ltd. | Technology | Equity | 1.72%
 Tata Steel Ltd. | Metals & Mining | Equity | 1.54%
-Export-Import Bank Of India | Financial | CD | 1.51%
-Hindustan Unilever Ltd. | Consumer Staples | Equity | 1.41%
-Black Box Ltd. | Technology | Equity | 1.33%
-GOI | Sovereign | GOI Sec | 1.33%
-Bharti Airtel Ltd. | Communication | Equity | 1.32%
-Tata Motors Passenger Vehicles Ltd. | Automobile | Equity | 1.21%
-Reserve Bank of India | Financial | T-Bills | 1.01%
-Ventive Hospitality Ltd. | Services | Equity | 0.92%
-DLF Ltd. | Construction | Equity | 0.85%
-HDFC Asset Management Company Ltd. | Financial | Equity | 0.82%
-Vedanta Ltd. | Metals & Mining | Equity | 0.78%
-GOI | Sovereign | GOI Sec | 0.72%
-Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.70%
-GOI | Sovereign | GOI Sec | 0.68%
-Biocon Ltd. | Healthcare | Equity | 0.64%
-Bajaj Finserv Ltd. | Financial | Equity | 0.63%
-Power Grid Corporation Of India Ltd. | Energy | Equity | 0.63%
-Knowledge Realty Trust | Construction | REITs | 0.60%
-Varun Beverages Ltd. | Consumer Staples | Equity | 0.57%
-Godrej Properties Ltd. | Construction | Equity | 0.56%
-Gujarat State | Construction | SDL | 0.52%
-Maharashtra State | Others | SDL | 0.51%
-Capri Global Capital Ltd. | Financial | CP | 0.51%
-Anand Rathi Share and Stock Brokers Ltd. | Financial | Equity | 0.43%
-GOI | Sovereign | GOI Sec | 0.41%
-GOI | Sovereign | GOI Sec | 0.39%
+Export-Import Bank Of India | Financial | CD | 1.38%
+Tata Motors Passenger Vehicles Ltd. | Automobile | Equity | 1.26%
+Bharti Airtel Ltd. | Communication | Equity | 1.26%
+GOI | Sovereign | GOI Sec | 1.20%
+Ventive Hospitality Ltd. | Services | Equity | 0.93%
+Reserve Bank of India | Financial | T-Bills | 0.92%
+DLF Ltd. | Construction | Equity | 0.90%
+Varun Beverages Ltd. | Consumer Staples | Equity | 0.69%
+GOI | Sovereign | GOI Sec | 0.65%
+Godrej Properties Ltd. | Construction | Equity | 0.64%
+GOI | Sovereign | GOI Sec | 0.63%
+Bajaj Finserv Ltd. | Financial | Equity | 0.61%
+Biocon Ltd. | Healthcare | Equity | 0.58%
+Knowledge Realty Trust | Construction | REITs | 0.57%
+Anand Rathi Share and Stock Brokers Ltd. | Financial | Equity | 0.55%
+Capri Global Capital Ltd. | Financial | CP | 0.47%
+Gujarat State | Construction | SDL | 0.46%
+Maharashtra State | Others | SDL | 0.46%
+GOI | Sovereign | GOI Sec | 0.43%
+GOI | Sovereign | GOI Sec | 0.37%
 ITC Ltd. | Consumer Staples | Equity | 0.37%
-GOI | Sovereign | GOI Sec | 0.34%
-Muthoot Finance Ltd. | Financial | CP | 0.30%
-GOI | Sovereign | GOI Sec | 0.27%
+GOI | Sovereign | GOI Sec | 0.35%
+GOI | Sovereign | GOI Sec | 0.30%
+Muthoot Finance Ltd. | Financial | CP | 0.28%
 GOI | Sovereign | GOI Sec | 0.24%
-GOI | Sovereign | GOI Sec | 0.21%
-GOI | Sovereign | GOI Sec | 0.21%
-Small Industries Devp. Bank of India Ltd. | Financial | CD | 0.20%
+GOI | Sovereign | GOI Sec | 0.22%
+GOI | Sovereign | GOI Sec | 0.19%
+GOI | Sovereign | GOI Sec | 0.19%
+Small Industries Devp. Bank of India Ltd. | Financial | CD | 0.18%
 Reserve Bank of India | Financial | T-Bills | 0.04%
-Quant Gilt Fund Direct - Growth | -- | Mutual Fund | 0.03%
+Quant Gilt Fund Direct - Growth | -- | Mutual Fund | 0.02%
 ITC Ltd. | Consumer Staples | Futures | -0.37%
-Godrej Properties Ltd. | Construction | Futures | -0.56%
-Varun Beverages Ltd. | Consumer Staples | Futures | -0.57%
-Power Grid Corporation Of India Ltd. | Energy | Futures | -0.63%
-Bajaj Finserv Ltd. | Financial | Futures | -0.63%
-Biocon Ltd. | Healthcare | Futures | -0.64%
-Vedanta Ltd. | Metals & Mining | Futures | -0.78%
-DLF Ltd. | Construction | Futures | -0.85%
-Tata Motors Passenger Vehicles Ltd. | Automobile | Futures | -1.21%
-Bharti Airtel Ltd. | Communication | Futures | -1.32%
-Tata Steel Ltd. | Metals & Mining | Futures | -1.55%
-Larsen & Toubro Ltd. | Construction | Futures | -1.91%
-Bajaj Finance Ltd. | Financial | Futures | -3.78%
+Biocon Ltd. | Healthcare | Futures | -0.58%
+Bajaj Finserv Ltd. | Financial | Futures | -0.61%
+Godrej Properties Ltd. | Construction | Futures | -0.64%
+Varun Beverages Ltd. | Consumer Staples | Futures | -0.70%
+DLF Ltd. | Construction | Futures | -0.90%
+Bharti Airtel Ltd. | Communication | Futures | -1.27%
+Tata Motors Passenger Vehicles Ltd. | Automobile | Futures | -1.27%
+Tata Steel Ltd. | Metals & Mining | Futures | -1.54%
+Larsen & Toubro Ltd. | Construction | Futures | -1.98%
+HDFC Bank Ltd. | Financial | Futures | -6.76%
 [TABLE END]
 See All
 Minimum investments
@@ -180,7 +174,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +24.6% | +21.4% | +19.0% | +16.0%
+Fund returns | +25.1% | +21.7% | +19.1% | +16.1%
 Category average ( Hybrid Multi Asset Allocation ) | +17.8% | +16.1% | +11.5% | --
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -210,11 +204,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +22.02% | +24.64% | 5,257.41
- | Nippon India Multi Asset Allocation Fund Direct Growth | +17.91% | +21.35% | 14,737.58
- | SBI Multi Asset Allocation Fund Direct Growth | +17.27% | +18.72% | 17,665.99
- | ICICI Prudential Multi Asset Fund Direct Growth | +7.60% | +17.61% | 83,547.35
- | HDFC Multi Asset Allocation Fund Direct Growth | +6.64% | +13.96% | 5,887.05
+ | Quant Multi Asset Allocation Fund Direct Growth | +23.32% | +25.06% | 5,257.41
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +19.27% | +21.76% | 14,737.58
+ | SBI Multi Asset Allocation Fund Direct Growth | +17.17% | +18.82% | 17,665.99
+ | ICICI Prudential Multi Asset Fund Direct Growth | +8.54% | +17.83% | 83,547.35
+ | HDFC Multi Asset Allocation Fund Direct Growth | +7.02% | +14.17% | 5,887.05
 Compare
 [TABLE END]
 Fund management
@@ -489,7 +483,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Multi Asset Allocation Fund Direct Growth
-Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹177.95.
+Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹179.87.
 The Quant Multi Asset Allocation Fund Direct Growth is rated High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective

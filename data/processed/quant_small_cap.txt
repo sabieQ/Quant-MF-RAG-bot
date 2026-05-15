@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+21.31
++21.57
 %
 3Y annualised
-+0.59
++0.70
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 13 May '26
-₹284.93
+NAV: 14 May '26
+₹286.91
 Min. for SIP
 ₹1,000
 Fund size (AUM)
 ₹30,373.69 Cr
 Expense ratio
-0.71%
+0.70%
 Rating
 4
 Return calculator
@@ -88,10 +88,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹62,847 |  | + 4.75 %
-3 years | ₹1,80,000 | ₹2,06,237 |  | + 14.58 %
-5 years | ₹3,00,000 | ₹4,55,234 |  | + 51.74 %
-10 years | ₹6,00,000 | ₹21,67,843 |  | + 261.31 %
+1 year | ₹60,000 | ₹63,240 |  | + 5.40 %
+3 years | ₹1,80,000 | ₹2,07,591 |  | + 15.33 %
+5 years | ₹3,00,000 | ₹4,58,164 |  | + 52.72 %
+10 years | ₹6,00,000 | ₹21,81,528 |  | + 263.59 %
 [TABLE END]
 Holdings (
 113
@@ -230,9 +230,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +21.3% | +21.5% | +20.0% | +17.2%
+Fund returns | +21.6% | +21.9% | +20.1% | +17.3%
 Category average ( Equity Small Cap ) | +19.7% | +22.6% | +16.1% | --
-Rank ( Equity Small Cap ) | 12 | 5 | -- | --
+Rank ( Equity Small Cap ) | 11 | 5 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -258,11 +258,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +12.49% | +31.23% | 25,345.79
- | Invesco India Smallcap Fund Direct Growth | +10.43% | +25.00% | 11,038.23
- | Sundaram Small Cap Fund Direct Growth | +13.04% | +21.39% | 3,562.91
- | Quant Small Cap Fund Direct Plan Growth | +8.02% | +21.31% | 30,373.69
- | Nippon India Small Cap Fund Direct Growth | +8.51% | +20.94% | 72,672.99
+ | Bandhan Small Cap Fund Direct Growth | +11.32% | +31.35% | 25,345.79
+ | Invesco India Smallcap Fund Direct Growth | +10.16% | +25.32% | 11,038.23
+ | Sundaram Small Cap Fund Direct Growth | +12.17% | +21.71% | 3,562.91
+ | Quant Small Cap Fund Direct Plan Growth | +7.88% | +21.57% | 30,373.69
+ | Nippon India Small Cap Fund Direct Growth | +7.86% | +21.16% | 72,672.99
 Compare
 [TABLE END]
 Fund management
@@ -537,7 +537,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹284.93.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹286.91.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
