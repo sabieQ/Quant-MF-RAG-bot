@@ -80,7 +80,7 @@ Min. for SIP
 Fund size (AUM)
 ₹5,257.41 Cr
 Expense ratio
-5.39%
+0.61%
 Rating
 5
 Return calculator
@@ -205,9 +205,9 @@ Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
  | Quant Multi Asset Allocation Fund Direct Growth | +21.62% | +24.99% | 5,257.41
- | Nippon India Multi Asset Allocation Fund Direct Growth | +17.84% | +21.65% | 14,737.58
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +18.42% | +21.61% | 14,737.58
  | SBI Multi Asset Allocation Fund Direct Growth | +15.62% | +18.47% | 17,665.99
- | ICICI Prudential Multi Asset Fund Direct Growth | +7.83% | +18.04% | 83,547.35
+ | ICICI Prudential Multi Asset Fund Direct Growth | +8.45% | +18.07% | 83,547.35
  | HDFC Multi Asset Allocation Fund Direct Growth | +6.51% | +14.13% | 5,887.05
 Compare
 [TABLE END]
