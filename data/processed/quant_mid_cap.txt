@@ -154,7 +154,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +19.5% | +18.8% | +18.5% | +16.9%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
-Rank ( Equity Mid Cap ) | 35 | 15 | -- | --
+Rank ( Equity Mid Cap ) | 35 | 16 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
