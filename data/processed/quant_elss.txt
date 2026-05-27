@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+19.73
++19.68
 %
 3Y annualised
-+1.75
++0.82
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 25 May '26
-₹444.94
+NAV: 26 May '26
+₹448.60
 Min. for SIP
 ₹500
 Fund size (AUM)
 ₹12,505.69 Cr
 Expense ratio
-2.67%
+1.64%
 Rating
 3
 Return calculator
@@ -88,45 +88,47 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,517 |  | + 7.53 %
-3 years | ₹1,80,000 | ₹2,11,238 |  | + 17.35 %
-5 years | ₹3,00,000 | ₹4,32,298 |  | + 44.10 %
-10 years | ₹6,00,000 | ₹18,58,060 |  | + 209.68 %
+1 year | ₹60,000 | ₹64,958 |  | + 8.26 %
+3 years | ₹1,80,000 | ₹2,12,842 |  | + 18.25 %
+5 years | ₹3,00,000 | ₹4,35,600 |  | + 45.20 %
+10 years | ₹6,00,000 | ₹18,72,156 |  | + 212.03 %
 [TABLE END]
 Holdings (
-29
+31
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Reliance Industries Ltd. | Energy | Equity | 9.96%
-Adani Power Ltd. | Energy | Equity | 9.28%
-ICICI Bank Ltd. | Financial | Equity | 8.98%
-Larsen & Toubro Ltd. | Construction | Equity | 7.55%
-Aurobindo Pharma Ltd. | Healthcare | Equity | 7.46%
-Samvardhana Motherson International Ltd. | Automobile | Equity | 7.29%
-Tata Power Company Ltd. | Energy | Equity | 5.24%
-Adani Green Energy Ltd. | Capital Goods | Equity | 4.53%
-Life Insurance Corporation of India | Insurance | Equity | 4.38%
-HDFC Life Insurance Co Ltd. | Insurance | Equity | 3.79%
-Grasim Industries Ltd. | Construction | Equity | 3.35%
-Kotak Mahindra Bank Ltd. | Financial | Equity | 2.87%
-Adani Enterprises Ltd. | Services | Equity | 2.48%
-DLF Ltd. | Construction | Equity | 2.21%
+Reliance Industries Ltd | Energy & Utilities | Equity | 9.96%
+Adani Power Ltd | Energy & Utilities | Equity | 9.28%
+ICICI Bank Ltd | Financial | Equity | 8.98%
+Larsen & Toubro Ltd | Industrials | Equity | 7.55%
+Aurobindo Pharma Ltd | Healthcare | Equity | 7.46%
+Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 7.29%
+Repo | Unspecified | Repo | 6.01%
+Tata Power Company Ltd | Energy & Utilities | Equity | 5.24%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 4.53%
+Life Insurance Corporation of India | Financial | Equity | 4.38%
+HDFC Life Insurance Co Ltd | Financial | Equity | 3.79%
+Grasim Industries Ltd | Materials | Equity | 3.35%
+Kotak Mahindra Bank Ltd | Financial | Equity | 2.87%
+Adani Enterprises Ltd | Materials | Equity | 2.48%
+DLF Ltd | Real Estate | Equity | 2.21%
 ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 2.15%
-Capri Global Capital Ltd. | Financial | Equity | 1.88%
-Dixon Technologies (India) Ltd. | Capital Goods | Equity | 1.88%
-Bharti Airtel Ltd. | Communication | Equity | 1.83%
-Bharat Heavy Electricals Ltd. | Capital Goods | Equity | 1.48%
-Himadri Speciality Chemical Ltd. | Chemicals | Equity | 1.15%
-Swan Defence and Heavy Industries Ltd. | Capital Goods | Equity | 0.97%
-Lloyds Metals & Energy Ltd. | Metals & Mining | Equity | 0.93%
-Ventive Hospitality Ltd. | Services | Equity | 0.69%
+Capri Global Capital Ltd | Financial | Equity | 1.88%
+Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 1.88%
+Bharti Airtel Ltd | Technology | Equity | 1.83%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 1.48%
+Himadri Speciality Chemical Ltd | Materials | Equity | 1.15%
+Reliance Naval and Engineering Ltd | Industrials | Equity | 0.97%
+Lloyds Metals and Energy Ltd | Materials | Equity | 0.93%
+Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.69%
 LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.67%
-Afcons Infrastructure Ltd. | Construction | Equity | 0.33%
-Krystal Integrated Services Ltd. | Services | Equity | 0.25%
-Juniper Hotels Ltd. | Services | Equity | 0.22%
-Embassy Developments Ltd. | Construction | Equity | 0.19%
-Welspun Living Ltd. | Consumer Discretionary | Equity | 0.15%
+AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.33%
+Krystal Integrated Services Ltd. | Industrials | Equity | 0.25%
+Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.22%
+Indiabulls Real Estate Ltd | Real Estate | Equity | 0.19%
+Welspun India Ltd | Consumer Discretionary | Equity | 0.15%
+Net Payables | Unspecified | Net Payables | -0.13%
 [TABLE END]
 See All
 Minimum investments
@@ -146,7 +148,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +19.7% | +17.9% | +20.9% | +19.9%
+Fund returns | +19.7% | +17.9% | +21.0% | +20.0%
 Category average ( Equity ELSS ) | +16.4% | +16.5% | +14.0% | --
 Rank ( Equity ELSS ) | 4 | 3 | 1 | --
 [TABLE END]
@@ -174,11 +176,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +6.00% | +24.33% | 4,658.52
- | SBI ELSS Tax Saver Fund Direct Growth | +0.54% | +20.66% | 31,093.90
- | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | +1.83% | +19.56% | 450.45
- | HDFC ELSS Tax Saver Fund Direct Plan Growth | -3.07% | +17.57% | 15,559.49
- | Parag Parikh ELSS Tax Saver Fund Direct Growth | -5.77% | +13.24% | 5,617.03
+ | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +6.46% | +24.28% | 4,658.52
+ | SBI ELSS Tax Saver Fund Direct Growth | -0.33% | +20.27% | 31,093.90
+ | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | +1.45% | +19.23% | 450.45
+ | HDFC ELSS Tax Saver Fund Direct Plan Growth | -3.86% | +17.24% | 15,559.49
+ | Parag Parikh ELSS Tax Saver Fund Direct Growth | -6.46% | +12.91% | 5,617.03
 Compare
 [TABLE END]
 Fund management
@@ -453,7 +455,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant ELSS Tax Saver Fund Direct Growth
-Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 25 May 2026 is ₹444.94.
+Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 26 May 2026 is ₹448.60.
 The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ;
 Investment Objective
@@ -531,7 +533,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.6.5
+7.6.6
 Share Market
 Indices
 F&O
