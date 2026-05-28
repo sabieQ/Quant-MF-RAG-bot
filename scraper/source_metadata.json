@@ -5,7 +5,7 @@
     "scheme_name": "Quant Small Cap Fund – Direct Plan Growth",
     "category": "Small Cap",
     "document_type": "HTML",
-    "scrape_date": "2026-05-27T02:51:30.397234+00:00",
+    "scrape_date": "2026-05-28T02:36:20.114226+00:00",
     "elss_lock_in": null
   },
   {
@@ -14,7 +14,7 @@
     "scheme_name": "Quant ELSS Tax Saver Fund – Direct Growth",
     "category": "ELSS",
     "document_type": "HTML",
-    "scrape_date": "2026-05-27T02:51:33.010122+00:00",
+    "scrape_date": "2026-05-28T02:36:22.540206+00:00",
     "elss_lock_in": "3 Years"
   },
   {
@@ -23,7 +23,7 @@
     "scheme_name": "Quant Multi Asset Allocation Fund – Direct Growth",
     "category": "Multi Asset",
     "document_type": "HTML",
-    "scrape_date": "2026-05-27T02:51:35.461466+00:00",
+    "scrape_date": "2026-05-28T02:36:24.988519+00:00",
     "elss_lock_in": null
   },
   {
@@ -32,7 +32,7 @@
     "scheme_name": "Quant Mid Cap Fund – Direct Growth",
     "category": "Mid Cap",
     "document_type": "HTML",
-    "scrape_date": "2026-05-27T02:51:37.817258+00:00",
+    "scrape_date": "2026-05-28T02:36:27.479811+00:00",
     "elss_lock_in": null
   },
   {
@@ -41,7 +41,7 @@
     "scheme_name": "Quant Flexi Cap Fund – Direct Growth",
     "category": "Flexi Cap",
     "document_type": "HTML",
-    "scrape_date": "2026-05-27T02:51:40.331601+00:00",
+    "scrape_date": "2026-05-28T02:36:29.918457+00:00",
     "elss_lock_in": null
   }
 ]
