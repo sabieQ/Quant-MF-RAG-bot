@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 27 May '26
-₹451.86
+NAV: 29 May '26
+₹449.94
 Min. for SIP
 ₹500
 Fund size (AUM)
 ₹12,505.69 Cr
 Expense ratio
-0.72%
+1.24%
 Rating
 3
 Return calculator
@@ -88,10 +88,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹65,345 |  | + 8.91 %
-3 years | ₹1,80,000 | ₹2,14,263 |  | + 19.04 %
-5 years | ₹3,00,000 | ₹4,38,526 |  | + 46.18 %
-10 years | ₹6,00,000 | ₹18,84,631 |  | + 214.11 %
+1 year | ₹60,000 | ₹65,047 |  | + 8.41 %
+3 years | ₹1,80,000 | ₹2,13,262 |  | + 18.48 %
+5 years | ₹3,00,000 | ₹4,36,368 |  | + 45.46 %
+10 years | ₹6,00,000 | ₹18,74,676 |  | + 212.45 %
 [TABLE END]
 Holdings (
 31
@@ -455,7 +455,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant ELSS Tax Saver Fund Direct Growth
-Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 27 May 2026 is ₹451.86.
+Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 29 May 2026 is ₹449.94.
 The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ;
 Investment Objective
