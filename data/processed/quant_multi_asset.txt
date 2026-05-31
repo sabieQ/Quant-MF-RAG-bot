@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+25.81
++25.85
 %
 3Y annualised
-+0.08
+-0.47
 %
 1D
 1M
@@ -80,7 +80,7 @@ Min. for SIP
 Fund size (AUM)
 ₹5,257.41 Cr
 Expense ratio
-2.11%
+0.61%
 Rating
 5
 Return calculator
@@ -174,7 +174,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +25.8% | +22.0% | +19.3% | +16.2%
+Fund returns | +25.9% | +21.6% | +19.3% | +16.2%
 Category average ( Hybrid Multi Asset Allocation ) | +17.8% | +16.1% | +11.5% | --
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -204,10 +204,10 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +23.19% | +25.81% | 5,257.41
- | Nippon India Multi Asset Allocation Fund Direct Growth | +18.19% | +21.65% | 14,737.58
- | SBI Multi Asset Allocation Fund Direct Growth | +16.04% | +18.56% | 17,665.99
- | ICICI Prudential Multi Asset Fund Direct Growth | +8.60% | +18.12% | 83,547.35
+ | Quant Multi Asset Allocation Fund Direct Growth | +21.69% | +25.85% | 5,257.41
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +17.50% | +21.45% | 14,737.58
+ | SBI Multi Asset Allocation Fund Direct Growth | +15.15% | +18.23% | 17,665.99
+ | ICICI Prudential Multi Asset Fund Direct Growth | +7.87% | +17.78% | 83,547.35
  | HDFC Multi Asset Allocation Fund Direct Growth | +5.53% | +13.63% | 5,887.05
 Compare
 [TABLE END]
