@@ -150,7 +150,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +19.0% | +17.2% | +20.6% | +19.9%
 Category average ( Equity ELSS ) | +16.4% | +16.5% | +14.0% | --
-Rank ( Equity ELSS ) | 3 | 2 | 1 | --
+Rank ( Equity ELSS ) | 2 | 2 | 1 | --
 [TABLE END]
 Understand terms
 Expense ratio
