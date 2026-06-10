@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+17.17
++17.50
 %
 3Y annualised
--1.60
++0.86
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 08 Jun '26
-₹242.16
+NAV: 09 Jun '26
+₹244.23
 Min. for SIP
 ₹1,000
 Fund size (AUM)
 ₹7,904.71 Cr
 Expense ratio
-1.64%
+3.96%
 Rating
 2
 Return calculator
@@ -88,51 +88,53 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹62,267 |  | + 3.78 %
-3 years | ₹1,80,000 | ₹1,93,181 |  | + 7.32 %
-5 years | ₹3,00,000 | ₹4,12,949 |  | + 37.65 %
-10 years | ₹6,00,000 | ₹17,02,937 |  | + 183.82 %
+1 year | ₹60,000 | ₹62,766 |  | + 4.61 %
+3 years | ₹1,80,000 | ₹1,94,790 |  | + 8.22 %
+5 years | ₹3,00,000 | ₹4,16,320 |  | + 38.77 %
+10 years | ₹6,00,000 | ₹17,16,618 |  | + 186.10 %
 [TABLE END]
 Holdings (
-35
+37
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Aurobindo Pharma Ltd. | Healthcare | Equity | 9.52%
-Tata Communications Ltd. | Communication | Equity | 8.35%
-Lloyds Metals & Energy Ltd. | Metals & Mining | Equity | 8.19%
-Premier Energies Ltd. | Energy | Equity | 7.69%
-IRB Infrastructure Developers Ltd. | Construction | Equity | 6.80%
-PB Fintech Ltd. | Services | Equity | 5.57%
+Repo | Unspecified | Repo | 14.73%
+Aurobindo Pharma Ltd | Healthcare | Equity | 9.52%
+Tata Communications Ltd | Technology | Equity | 8.35%
+Lloyds Metals and Energy Ltd | Materials | Equity | 8.19%
+Premier Energies Ltd. | Energy & Utilities | Equity | 7.69%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 6.80%
+PB Fintech Ltd | Financial | Equity | 5.57%
 Anthem Biosciences Ltd. | Healthcare | Equity | 4.88%
-ICICI Bank Ltd. | Financial | Equity | 4.18%
-Bharat Heavy Electricals Ltd. | Capital Goods | Futures | 4.16%
-Linde India Ltd. | Chemicals | Equity | 3.98%
-Reliance Industries Ltd. | Energy | Equity | 3.87%
+ICICI Bank Ltd | Financial | Equity | 4.18%
+Bharat Heavy Electricals Ltd. 26-MAY-26 | Industrials | Futures | 4.16%
+Linde India Ltd | Materials | Equity | 3.98%
+Reliance Industries Ltd | Energy & Utilities | Equity | 3.87%
 LG Electronics India Ltd. | Consumer Discretionary | Equity | 3.65%
-Nippon Life India Asset Management Ltd. | Financial | Equity | 3.04%
-Kotak Mahindra Bank Ltd. | Financial | Futures | 2.68%
-Reliance Industries Ltd. | Energy | Futures | 2.39%
-JSW Infrastructure Ltd. | Services | Equity | 2.27%
-Godrej Properties Ltd. | Construction | Futures | 2.08%
-Oracle Financial Services Software Ltd. | Technology | Equity | 1.66%
-Steel Authority Of India Ltd. | Metals & Mining | Equity | 1.47%
-Dixon Technologies (India) Ltd. | Capital Goods | Futures | 1.45%
-United Breweries Ltd. | Consumer Staples | Equity | 1.37%
-AWL Agri Business Ltd. | Consumer Staples | Equity | 1.23%
-Colgate-Palmolive (India) Ltd. | Consumer Staples | Equity | 1.05%
-Life Insurance Corporation of India | Insurance | Equity | 1.00%
-Reserve Bank of India | Financial | T-Bills | 0.95%
-Reserve Bank of India | Financial | T-Bills | 0.76%
-Reserve Bank of India | Financial | T-Bills | 0.50%
-PB Fintech Ltd. | Services | Futures | 0.50%
-Godrej Properties Ltd. | Construction | Equity | 0.48%
-Reserve Bank of India | Financial | T-Bills | 0.44%
-Reserve Bank of India | Financial | T-Bills | 0.44%
-One97 Communications Ltd. | Services | Equity | 0.33%
-Reserve Bank of India | Financial | T-Bills | 0.32%
-Reserve Bank of India | Financial | T-Bills | 0.31%
-Reserve Bank of India | Financial | T-Bills | 0.31%
+Nippon Life India Asset Management Ltd | Financial | Equity | 3.04%
+Kotak Mahindra Bank Ltd. 26-MAY-26 | Financial | Futures | 2.68%
+RELIANCE_(26/05/2026) | Energy & Utilities | Futures | 2.39%
+JSW Infrastructure Ltd | Industrials | Equity | 2.27%
+Godrej Properties Ltd. 26-MAY-26 | Real Estate | Futures | 2.08%
+Oracle Financial Services Software Ltd | Technology | Equity | 1.66%
+Steel Authority Of India Ltd | Materials | Equity | 1.47%
+Dixon Technologies (India) Ltd. 26-MAY-26 | Consumer Discretionary | Futures | 1.45%
+United Breweries Ltd | Consumer Staples | Equity | 1.37%
+Adani Wilmar Ltd | Consumer Staples | Equity | 1.23%
+Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 1.05%
+Life Insurance Corporation of India | Financial | Equity | 1.00%
+GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100 | Financial | Treasury Bills | 0.95%
+GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100 | Financial | Treasury Bills | 0.76%
+GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100 | Financial | Treasury Bills | 0.50%
+PB Fintech Ltd. 26-MAY-26 | Financial | Futures | 0.50%
+Godrej Properties Ltd | Real Estate | Equity | 0.48%
+GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100 | Financial | Treasury Bills | 0.44%
+GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100 | Financial | Treasury Bills | 0.44%
+One 97 Communications Ltd | Industrials | Equity | 0.33%
+GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100 | Financial | Treasury Bills | 0.32%
+GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100 | Financial | Treasury Bills | 0.31%
+GOVERNMENT OF INDIA 37221 091 DAYS TBILL 19JU26 FV RS 100 | Financial | Treasury Bills | 0.31%
+Net Payables | Unspecified | Net Payables | -12.61%
 [TABLE END]
 See All
 Minimum investments
@@ -152,7 +154,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +17.2% | +17.6% | +18.0% | +16.7%
+Fund returns | +17.5% | +18.0% | +18.1% | +16.7%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
@@ -182,11 +184,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | WhiteOak Capital Mid Cap Fund Direct Growth | +8.87% | +24.79% | 5,293.04
- | Edelweiss Mid Cap Direct Plan Growth | +3.47% | +23.64% | 15,910.69
- | Nippon India Growth Mid Cap Fund Direct Growth | +4.06% | +23.02% | 45,820.33
- | Sundaram Mid Cap Fund Direct Growth | +3.07% | +22.22% | 13,378.01
- | HDFC Mid Cap Fund Direct Growth | +3.44% | +21.21% | 94,744.72
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +9.06% | +25.26% | 5,293.04
+ | Edelweiss Mid Cap Direct Plan Growth | +3.60% | +24.09% | 15,910.69
+ | Nippon India Growth Mid Cap Fund Direct Growth | +4.15% | +23.58% | 45,820.33
+ | Sundaram Mid Cap Fund Direct Growth | +3.61% | +22.92% | 13,378.01
+ | HDFC Mid Cap Fund Direct Growth | +3.49% | +21.36% | 97,350.48
 Compare
 [TABLE END]
 Fund management
@@ -461,7 +463,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 08 Jun 2026 is ₹242.16.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 09 Jun 2026 is ₹244.23.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
@@ -539,7 +541,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.7.1
+7.7.2
 Share Market
 Indices
 F&O

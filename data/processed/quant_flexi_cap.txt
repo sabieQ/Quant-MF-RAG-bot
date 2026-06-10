@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+19.32
++19.62
 %
 3Y annualised
--1.60
++0.91
 %
 1D
 1M
@@ -73,14 +73,14 @@ Blog
 3Y
 5Y
 All
-NAV: 08 Jun '26
-₹117.97
+NAV: 09 Jun '26
+₹119.04
 Min. for SIP
 ₹250
 Fund size (AUM)
 ₹6,593.52 Cr
 Expense ratio
-0.67%
+1.05%
 Rating
 2
 Return calculator
@@ -88,59 +88,61 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,980 |  | + 8.30 %
-3 years | ₹1,80,000 | ₹2,10,338 |  | + 16.85 %
-5 years | ₹3,00,000 | ₹4,36,430 |  | + 45.48 %
-10 years | ₹6,00,000 | ₹17,67,246 |  | + 194.54 %
+1 year | ₹60,000 | ₹65,516 |  | + 9.19 %
+3 years | ₹1,80,000 | ₹2,12,163 |  | + 17.87 %
+5 years | ₹3,00,000 | ₹4,40,188 |  | + 46.73 %
+10 years | ₹6,00,000 | ₹17,82,306 |  | + 197.05 %
 [TABLE END]
 Holdings (
-43
+45
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Adani Power Ltd. | Energy | Equity | 9.66%
-Samvardhana Motherson International Ltd. | Automobile | Equity | 7.55%
-Adani Enterprises Ltd. | Services | Equity | 7.40%
+Repo | Unspecified | Repo | 12.21%
+Adani Power Ltd | Energy & Utilities | Equity | 9.66%
+Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 7.55%
+Adani Enterprises Ltd | Materials | Equity | 7.40%
 ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 6.73%
-Aurobindo Pharma Ltd. | Healthcare | Equity | 6.39%
-ICICI Bank Ltd. | Financial | Equity | 6.18%
-Kotak Mahindra Bank Ltd. | Financial | Futures | 4.59%
-Tata Power Company Ltd. | Energy | Equity | 3.96%
-Adani Green Energy Ltd. | Capital Goods | Equity | 3.91%
-Larsen & Toubro Ltd. | Construction | Equity | 3.78%
-Adani Energy Solutions Ltd. | Energy | Equity | 3.59%
-Life Insurance Corporation of India | Insurance | Equity | 3.37%
-Reliance Industries Ltd. | Energy | Equity | 3.26%
-Bharat Electronics Ltd. | Capital Goods | Futures | 2.98%
-Dixon Technologies (India) Ltd. | Capital Goods | Futures | 2.93%
-Aurobindo Pharma Ltd. | Healthcare | Futures | 2.84%
-HDFC Life Insurance Co Ltd. | Insurance | Equity | 2.19%
-Swan Corp Ltd. | Construction | Equity | 2.14%
-K.P.R. Mill Ltd. | Textiles | Equity | 1.88%
-Indus Infra Trust | Construction | InvITs | 1.74%
-Alivus Life Sciences Ltd | Healthcare | Equity | 1.71%
-JSW Infrastructure Ltd. | Services | Equity | 1.65%
-AU Small Finance Bank Ltd. | Financial | Equity | 1.40%
-Piramal Finance Ltd. | Financial | Equity | 1.13%
+Aurobindo Pharma Ltd | Healthcare | Equity | 6.39%
+ICICI Bank Ltd | Financial | Equity | 6.18%
+Kotak Mahindra Bank Ltd. 26-MAY-26 | Financial | Futures | 4.59%
+Tata Power Company Ltd | Energy & Utilities | Equity | 3.96%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 3.91%
+Larsen & Toubro Ltd | Industrials | Equity | 3.78%
+Adani Transmission Ltd | Energy & Utilities | Equity | 3.59%
+Life Insurance Corporation of India | Financial | Equity | 3.37%
+Reliance Industries Ltd | Energy & Utilities | Equity | 3.26%
+Bharat Electronics Ltd. 26-MAY-26 | Industrials | Futures | 2.98%
+Dixon Technologies (India) Ltd. 26-MAY-26 | Consumer Discretionary | Futures | 2.93%
+Aurobindo Pharma Ltd. 26-MAY-26 | Healthcare | Futures | 2.84%
+HDFC Life Insurance Co Ltd | Financial | Equity | 2.19%
+Swan Energy Ltd | Consumer Discretionary | Equity | 2.14%
+KPR Mills Ltd | Consumer Discretionary | Equity | 1.88%
+Bharat Highways InvIT | Industrials | Infrastructure Investment Trust | 1.74%
+Glenmark Life Sciences Ltd | Healthcare | Equity | 1.71%
+JSW Infrastructure Ltd | Industrials | Equity | 1.65%
+AU Small Finance Bank Ltd | Financial | Equity | 1.40%
+DEWAN HOUSING FINANCE CORP. LTD. EQ | Financial | Equity | 1.13%
 LG Electronics India Ltd. | Consumer Discretionary | Equity | 0.94%
-HDFC Life Insurance Co Ltd. | Insurance | Futures | 0.82%
-PB Fintech Ltd. | Services | Equity | 0.79%
-Reserve Bank of India | Financial | T-Bills | 0.76%
-Aditya Birla Lifestyle Brands Ltd. | Services | Equity | 0.62%
-Reserve Bank of India | Financial | T-Bills | 0.60%
-Reserve Bank of India | Financial | T-Bills | 0.53%
-Capital Infra Trust | Construction | InvITs | 0.44%
-NBCC (India) Ltd. | Construction | Equity | 0.42%
-Tata Chemicals Ltd. | Chemicals | Equity | 0.38%
-Lloyds Metals & Energy Ltd. | Metals & Mining | Equity | 0.38%
-Reserve Bank of India | Financial | T-Bills | 0.38%
-Reserve Bank of India | Financial | T-Bills | 0.37%
-Reserve Bank of India | Financial | T-Bills | 0.30%
-Reserve Bank of India | Financial | T-Bills | 0.30%
-Reserve Bank of India | Financial | T-Bills | 0.30%
-Tata Communications Ltd. | Communication | Equity | 0.28%
-Viyash Scientific Limited | Healthcare | Equity | 0.27%
-Tech Mahindra Ltd. | Technology | Futures | 0.20%
+HDFC Life Insurance Company Ltd. 26-MAY-26 | Financial | Futures | 0.82%
+PB Fintech Ltd | Financial | Equity | 0.79%
+GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100 | Financial | Treasury Bills | 0.76%
+Aditya Birla Lifestyle Brands Ltd | Consumer Discretionary | Equity | 0.62%
+GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100 | Financial | Treasury Bills | 0.60%
+GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100 | Financial | Treasury Bills | 0.53%
+Capital Infra Trust | Industrials | Infrastructure Investment Trust | 0.44%
+NBCC India Ltd | Industrials | Equity | 0.42%
+Tata Chemicals Ltd | Materials | Equity | 0.38%
+Lloyds Metals and Energy Ltd | Materials | Equity | 0.38%
+GOVERNMENT OF INDIA 37221 091 DAYS TBILL 19JU26 FV RS 100 | Financial | Treasury Bills | 0.38%
+GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100 | Financial | Treasury Bills | 0.37%
+GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100 | Financial | Treasury Bills | 0.30%
+GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100 | Financial | Treasury Bills | 0.30%
+GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100 | Financial | Treasury Bills | 0.30%
+Tata Communications Ltd | Technology | Equity | 0.28%
+Sequent Scientific Ltd | Healthcare | Equity | 0.27%
+Tech Mahindra Ltd. 26-MAY-26 | Technology | Futures | 0.20%
+Net Payables | Unspecified | Net Payables | -14.21%
 [TABLE END]
 See All
 Minimum investments
@@ -160,7 +162,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +19.3% | +17.2% | +20.3% | +18.6%
+Fund returns | +19.6% | +17.8% | +20.4% | +18.7%
 Category average ( Equity Flexi Cap ) | +16.0% | +15.6% | +13.5% | --
 Rank ( Equity Flexi Cap ) | 4 | -- | -- | --
 [TABLE END]
@@ -192,11 +194,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Flexi Cap Fund Direct Growth | +3.29% | +19.12% | 1,290.33
- | HSBC Flexi Cap Fund Direct Growth | -0.05% | +17.10% | 5,405.12
- | HDFC Flexi Cap Direct Plan Growth | -1.83% | +17.04% | 1,00,479.23
- | Parag Parikh Flexi Cap Fund Direct Growth | -1.19% | +15.12% | 1,40,949.13
- | Franklin India Flexi Cap Fund Direct Growth | -6.94% | +14.09% | 19,049.25
+ | ITI Flexi Cap Fund Direct Growth | +3.81% | +19.71% | 1,290.33
+ | HSBC Flexi Cap Fund Direct Growth | +0.42% | +17.71% | 5,405.12
+ | HDFC Flexi Cap Direct Plan Growth | -1.64% | +17.35% | 1,01,821.82
+ | Parag Parikh Flexi Cap Fund Direct Growth | -3.02% | +15.10% | 1,40,949.13
+ | Franklin India Flexi Cap Fund Direct Growth | -6.63% | +14.40% | 19,049.25
 Compare
 [TABLE END]
 Fund management
@@ -494,7 +496,7 @@ qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
 About
 Quant Flexi Cap Fund Direct Growth
-Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 08 Jun 2026 is ₹117.97.
+Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 09 Jun 2026 is ₹119.04.
 The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -572,7 +574,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.7.1
+7.7.2
 Share Market
 Indices
 F&O
