@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+17.60
++18.11
 %
 3Y annualised
--0.70
++1.66
 %
 1D
 1M
@@ -80,7 +80,7 @@ Min. for SIP
 Fund size (AUM)
 ₹13,070.35 Cr
 Expense ratio
-2.82%
+0.72%
 Rating
 3
 Return calculator
@@ -148,9 +148,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +17.6% | +16.2% | +20.4% | +19.6%
+Fund returns | +18.1% | +16.6% | +20.6% | +19.8%
 Category average ( Equity ELSS ) | +16.4% | +16.5% | +14.0% | --
-Rank ( Equity ELSS ) | 5 | 2 | 1 | --
+Rank ( Equity ELSS ) | 4 | 3 | 1 | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -176,11 +176,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +1.32% | +22.85% | 4,663.26
+ | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +5.97% | +23.76% | 4,663.26
  | SBI ELSS Tax Saver Fund Direct Growth | -1.76% | +18.63% | 30,955.01
  | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | +0.29% | +18.42% | 455.66
- | HDFC ELSS Tax Saver Fund Direct Plan Growth | -6.35% | +15.48% | 15,366.50
- | Parag Parikh ELSS Tax Saver Fund Direct Growth | -10.49% | +11.84% | 5,539.59
+ | HDFC ELSS Tax Saver Fund Direct Plan Growth | -3.85% | +16.01% | 15,366.50
+ | Parag Parikh ELSS Tax Saver Fund Direct Growth | -8.16% | +12.30% | 5,539.59
 Compare
 [TABLE END]
 Fund management

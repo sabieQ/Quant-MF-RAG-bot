@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+18.94
++19.50
 %
 3Y annualised
--0.63
++1.80
 %
 1D
 1M
@@ -80,7 +80,7 @@ Min. for SIP
 Fund size (AUM)
 ₹6,993.58 Cr
 Expense ratio
-0.86%
+0.67%
 Rating
 2
 Return calculator
@@ -162,7 +162,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +18.9% | +17.1% | +20.2% | +18.5%
+Fund returns | +19.5% | +17.6% | +20.4% | +18.7%
 Category average ( Equity Flexi Cap ) | +16.0% | +15.6% | +13.5% | --
 Rank ( Equity Flexi Cap ) | 5 | -- | -- | --
 [TABLE END]
@@ -196,8 +196,8 @@ Compare similar funds
  | Name | 1Y | 3Y | Fund Size(Cr)
  | ITI Flexi Cap Fund Direct Growth | +6.19% | +20.04% | 1,314.38
  | HDFC Flexi Cap Direct Plan Growth | +0.86% | +17.82% | 1,01,821.82
- | HSBC Flexi Cap Fund Direct Growth | -1.96% | +16.81% | 5,538.48
- | Parag Parikh Flexi Cap Fund Direct Growth | -3.62% | +15.11% | 1,41,446.73
+ | HSBC Flexi Cap Fund Direct Growth | +2.03% | +17.74% | 5,538.48
+ | Parag Parikh Flexi Cap Fund Direct Growth | -1.94% | +15.45% | 1,41,446.73
  | Franklin India Flexi Cap Fund Direct Growth | -4.31% | +14.83% | 18,796.71
 Compare
 [TABLE END]
