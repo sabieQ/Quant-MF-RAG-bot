@@ -94,47 +94,49 @@ Over the past | Total investment | Would've become | Historic returns | Returns
 10 years | ₹6,00,000 | ₹17,17,425 |  | + 186.24 %
 [TABLE END]
 Holdings (
-37
+39
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Repo | Unspecified | Repo | 14.73%
-Aurobindo Pharma Ltd | Healthcare | Equity | 9.52%
-Tata Communications Ltd | Technology | Equity | 8.35%
-Lloyds Metals and Energy Ltd | Materials | Equity | 8.19%
-Premier Energies Ltd. | Energy & Utilities | Equity | 7.69%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 6.80%
-PB Fintech Ltd | Financial | Equity | 5.57%
-Anthem Biosciences Ltd. | Healthcare | Equity | 4.88%
-ICICI Bank Ltd | Financial | Equity | 4.18%
-Bharat Heavy Electricals Ltd. 26-MAY-26 | Industrials | Futures | 4.16%
-Linde India Ltd | Materials | Equity | 3.98%
-Reliance Industries Ltd | Energy & Utilities | Equity | 3.87%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 3.65%
-Nippon Life India Asset Management Ltd | Financial | Equity | 3.04%
-Kotak Mahindra Bank Ltd. 26-MAY-26 | Financial | Futures | 2.68%
-RELIANCE_(26/05/2026) | Energy & Utilities | Futures | 2.39%
-JSW Infrastructure Ltd | Industrials | Equity | 2.27%
-Godrej Properties Ltd. 26-MAY-26 | Real Estate | Futures | 2.08%
-Oracle Financial Services Software Ltd | Technology | Equity | 1.66%
-Steel Authority Of India Ltd | Materials | Equity | 1.47%
-Dixon Technologies (India) Ltd. 26-MAY-26 | Consumer Discretionary | Futures | 1.45%
-United Breweries Ltd | Consumer Staples | Equity | 1.37%
-Adani Wilmar Ltd | Consumer Staples | Equity | 1.23%
-Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 1.05%
-Life Insurance Corporation of India | Financial | Equity | 1.00%
-GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100 | Financial | Treasury Bills | 0.95%
-GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100 | Financial | Treasury Bills | 0.76%
-GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100 | Financial | Treasury Bills | 0.50%
-PB Fintech Ltd. 26-MAY-26 | Financial | Futures | 0.50%
-Godrej Properties Ltd | Real Estate | Equity | 0.48%
-GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100 | Financial | Treasury Bills | 0.44%
-GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100 | Financial | Treasury Bills | 0.44%
-One 97 Communications Ltd | Industrials | Equity | 0.33%
-GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100 | Financial | Treasury Bills | 0.32%
+Repo | Unspecified | Repo | 16.24%
+Tata Communications Ltd | Technology | Equity | 10.00%
+Aurobindo Pharma Ltd | Healthcare | Equity | 9.44%
+Lloyds Metals and Energy Ltd | Materials | Equity | 8.16%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 6.51%
+PB Fintech Ltd | Financial | Equity | 5.55%
+Premier Energies Ltd. | Energy & Utilities | Equity | 4.85%
+Indus Towers Ltd. 30-JUN-26 | Technology | Futures | 4.81%
+Bharat Heavy Electricals Limited_30/06/2026 | Industrials | Futures | 4.81%
+Anthem Biosciences Ltd. | Healthcare | Equity | 4.49%
+ICICI Bank Ltd | Financial | Equity | 4.05%
+Linde India Ltd | Materials | Equity | 3.82%
+Reliance Industries Ltd | Energy & Utilities | Equity | 3.48%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 3.41%
+Nippon Life India Asset Management Ltd | Financial | Equity | 3.38%
+Adani Enterprises Ltd. 30-JUN-26 | Materials | Futures | 2.55%
+JSW Infrastructure Ltd | Industrials | Equity | 2.24%
+Reliance Industries Ltd. 30-JUN-26 | Energy & Utilities | Futures | 2.16%
+Adani Transmission Ltd | Energy & Utilities | Equity | 1.99%
+Godrej Properties Ltd. 30-JUN-26 | Real Estate | Futures | 1.96%
+Indus Towers Ltd | Technology | Equity | 1.64%
+Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 1.54%
+DIXON TECHNOLOGIES (INDIA) LTD-30-Jun-2026 | Consumer Discretionary | Futures | 1.47%
+United Breweries Ltd | Consumer Staples | Equity | 1.21%
+Adani Wilmar Ltd | Consumer Staples | Equity | 1.18%
+GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100 | Financial | Treasury Bills | 0.73%
+GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100 | Financial | Treasury Bills | 0.61%
+GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100 | Financial | Treasury Bills | 0.49%
+Godrej Properties Ltd | Real Estate | Equity | 0.45%
+GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100 | Financial | Treasury Bills | 0.43%
+GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100 | Financial | Treasury Bills | 0.43%
 GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100 | Financial | Treasury Bills | 0.31%
 GOVERNMENT OF INDIA 37221 091 DAYS TBILL 19JU26 FV RS 100 | Financial | Treasury Bills | 0.31%
-Net Payables | Unspecified | Net Payables | -12.61%
+GOVERNMENT OF INDIA 37423 091 DAYS TBILL 06AG26 FV RS 100 | Financial | Treasury Bills | 0.31%
+GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100 | Financial | Treasury Bills | 0.30%
+Persistent Systems Ltd | Technology | Equity | 0.23%
+Torrent Pharmaceuticals Ltd | Healthcare | Equity | 0.19%
+Oracle Financial Services Software Ltd | Technology | Equity | 0.16%
+Net Payables | Unspecified | Net Payables | -15.88%
 [TABLE END]
 See All
 Minimum investments
