@@ -80,7 +80,7 @@ Min. for SIP
 Fund size (AUM)
 ₹31,773.74 Cr
 Expense ratio
-0.78%
+0.68%
 Rating
 3
 Return calculator
@@ -238,7 +238,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +21.5% | +21.9% | +20.8% | +17.7%
 Category average ( Equity Small Cap ) | +19.7% | +22.6% | +16.1% | --
-Rank ( Equity Small Cap ) | 9 | 5 | -- | --
+Rank ( Equity Small Cap ) | 9 | 3 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
