@@ -80,7 +80,7 @@ Min. for SIP
 Fund size (AUM)
 ₹6,993.58 Cr
 Expense ratio
-1.61%
+0.66%
 Rating
 2
 Return calculator
@@ -200,7 +200,7 @@ Compare similar funds
  | HDFC Flexi Cap Direct Plan Growth | +2.15% | +18.74% | 1,01,821.82
  | HSBC Flexi Cap Fund Direct Growth | +3.31% | +18.49% | 5,538.48
  | Franklin India Flexi Cap Fund Direct Growth | -2.34% | +15.88% | 18,796.71
- | Parag Parikh Flexi Cap Fund Direct Growth | -1.70% | +15.19% | 1,41,446.73
+ | Parag Parikh Flexi Cap Fund Direct Growth | -2.46% | +15.08% | 1,41,446.73
 Compare
 [TABLE END]
 Fund management
