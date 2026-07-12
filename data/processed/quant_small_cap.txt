@@ -230,7 +230,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +21.7% | +20.4% | +21.0% | +17.9%
 Category average ( Equity Small Cap ) | +19.7% | +22.6% | +16.1% | --
-Rank ( Equity Small Cap ) | 9 | 3 | -- | --
+Rank ( Equity Small Cap ) | 9 | 5 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio

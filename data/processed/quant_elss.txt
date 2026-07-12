@@ -61,10 +61,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+17.14
++17.66
 %
 3Y annualised
-+0.87
++1.16
 %
 1D
 1M
@@ -88,10 +88,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,913 |  | + 8.19 %
-3 years | ₹1,80,000 | ₹2,08,930 |  | + 16.07 %
-5 years | ₹3,00,000 | ₹4,29,432 |  | + 43.14 %
-10 years | ₹6,00,000 | ₹18,47,875 |  | + 207.98 %
+1 year | ₹60,000 | ₹65,602 |  | + 9.34 %
+3 years | ₹1,80,000 | ₹2,11,257 |  | + 17.36 %
+5 years | ₹3,00,000 | ₹4,34,196 |  | + 44.73 %
+10 years | ₹6,00,000 | ₹18,68,170 |  | + 211.36 %
 [TABLE END]
 Holdings (
 31
@@ -148,9 +148,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +17.1% | +16.5% | +20.5% | +19.8%
+Fund returns | +17.7% | +16.7% | +20.6% | +19.9%
 Category average ( Equity ELSS ) | +16.4% | +16.5% | +14.0% | --
-Rank ( Equity ELSS ) | 5 | 4 | 1 | --
+Rank ( Equity ELSS ) | 6 | 4 | 1 | --
 [TABLE END]
 Understand terms
 Expense ratio
