@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+17.73
++17.54
 %
 3Y annualised
-+0.29
++0.33
 %
 1D
 1M
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹65,736 |  | + 9.56 %
-3 years | ₹1,80,000 | ₹2,11,993 |  | + 17.77 %
-5 years | ₹3,00,000 | ₹4,35,484 |  | + 45.16 %
-10 years | ₹6,00,000 | ₹18,72,549 |  | + 212.09 %
+1 year | ₹60,000 | ₹65,902 |  | + 9.84 %
+3 years | ₹1,80,000 | ₹2,12,608 |  | + 18.12 %
+5 years | ₹3,00,000 | ₹4,36,733 |  | + 45.58 %
+10 years | ₹6,00,000 | ₹18,77,556 |  | + 212.93 %
 [TABLE END]
 Holdings (
 32
@@ -151,9 +151,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +17.7% | +16.4% | +20.7% | +20.0%
+Fund returns | +17.5% | +16.4% | +20.7% | +20.0%
 Category average ( Equity ELSS ) | +16.4% | +16.5% | +14.0% | --
-Rank ( Equity ELSS ) | 4 | 3 | 1 | --
+Rank ( Equity ELSS ) | 4 | 4 | 1 | --
 [TABLE END]
 Understand terms
 Expense ratio
