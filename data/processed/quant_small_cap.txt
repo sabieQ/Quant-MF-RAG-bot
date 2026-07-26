@@ -66,7 +66,7 @@ Loan against securities and Personal loan
 +19.33
 %
 3Y annualised
--1.38
+-0.23
 %
 1D
 1M
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹66,298 |  | + 10.50 %
-3 years | ₹1,80,000 | ₹2,13,313 |  | + 18.51 %
-5 years | ₹3,00,000 | ₹4,71,364 |  | + 57.12 %
-10 years | ₹6,00,000 | ₹22,64,849 |  | + 277.47 %
+1 year | ₹60,000 | ₹66,127 |  | + 10.21 %
+3 years | ₹1,80,000 | ₹2,12,784 |  | + 18.21 %
+5 years | ₹3,00,000 | ₹4,70,138 |  | + 56.71 %
+10 years | ₹6,00,000 | ₹22,58,806 |  | + 276.47 %
 [TABLE END]
 Holdings (
 111
