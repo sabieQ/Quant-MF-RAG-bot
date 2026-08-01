@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 30 Jul '26
-₹306.89
+NAV: 31 Jul '26
+₹308.96
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -258,11 +258,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +7.95% | +27.21% | 28,466.18
- | Invesco India Smallcap Fund Direct Growth | +13.88% | +23.88% | 13,384.88
- | Sundaram Small Cap Fund Direct Growth | +10.44% | +18.28% | 3,871.80
- | Nippon India Small Cap Fund Direct Growth | +5.64% | +16.86% | 78,407.03
- | Axis Small Cap Fund Direct Growth | +7.11% | +16.85% | 29,393.79
+ | Bandhan Small Cap Fund Direct Growth | +9.37% | +27.03% | 28,466.18
+ | Invesco India Smallcap Fund Direct Growth | +14.88% | +23.55% | 13,384.88
+ | Sundaram Small Cap Fund Direct Growth | +12.04% | +18.09% | 3,871.80
+ | Nippon India Small Cap Fund Direct Growth | +6.99% | +16.74% | 78,407.03
+ | Axis Small Cap Fund Direct Growth | +7.81% | +16.50% | 29,393.79
 Compare
 [TABLE END]
 Fund management
@@ -537,7 +537,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,01,407 Cr and the Latest NAV as of 30 Jul 2026 is ₹306.89.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,01,407 Cr and the Latest NAV as of 31 Jul 2026 is ₹308.96.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
@@ -615,7 +615,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.8.8
+7.8.9
 Share Market
 Indices
 F&O
