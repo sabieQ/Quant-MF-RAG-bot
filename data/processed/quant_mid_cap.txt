@@ -66,7 +66,7 @@ Loan against securities and Personal loan
 +13.79
 %
 3Y annualised
--0.72
++0.24
 %
 1D
 1M
@@ -82,7 +82,7 @@ Min. for SIP
 Fund size (AUM)
 ₹8,138.18 Cr
 Expense ratio
-1.20%
+1.18%
 Rating
 2
 Return calculator
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,052 |  | + 6.75 %
-3 years | ₹1,80,000 | ₹1,97,049 |  | + 9.47 %
-5 years | ₹3,00,000 | ₹4,19,440 |  | + 39.81 %
-10 years | ₹6,00,000 | ₹17,28,469 |  | + 188.08 %
+1 year | ₹60,000 | ₹64,162 |  | + 6.94 %
+3 years | ₹1,80,000 | ₹1,97,467 |  | + 9.70 %
+5 years | ₹3,00,000 | ₹4,20,244 |  | + 40.08 %
+10 years | ₹6,00,000 | ₹17,31,238 |  | + 188.54 %
 [TABLE END]
 Holdings (
 35

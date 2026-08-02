@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+22.49
++22.48
 %
 3Y annualised
--0.15
++0.30
 %
 1D
 1M
@@ -82,7 +82,7 @@ Min. for SIP
 Fund size (AUM)
 ₹5,980.37 Cr
 Expense ratio
-1.21%
+1.12%
 Rating
 5
 Return calculator
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,649 |  | + 7.75 %
-3 years | ₹1,80,000 | ₹2,33,085 |  | + 29.49 %
-5 years | ₹3,00,000 | ₹4,91,846 |  | + 63.95 %
-10 years | ₹6,00,000 | ₹19,16,050 |  | + 219.34 %
+1 year | ₹60,000 | ₹64,789 |  | + 7.98 %
+3 years | ₹1,80,000 | ₹2,33,647 |  | + 29.80 %
+5 years | ₹3,00,000 | ₹4,93,007 |  | + 64.34 %
+10 years | ₹6,00,000 | ₹19,21,174 |  | + 220.20 %
 [TABLE END]
 Holdings (
 63
@@ -182,7 +182,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +22.5% | +19.7% | +18.9% | +16.0%
+Fund returns | +22.5% | +19.8% | +18.9% | +16.0%
 Category average ( Hybrid Multi Asset Allocation ) | +17.8% | +16.1% | +11.5% | --
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -213,10 +213,10 @@ Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
  | Quant Multi Asset Allocation Fund Direct Growth | +20.56% | +22.48% | 5,980.37
- | Nippon India Multi Asset Allocation Fund Direct Growth | +15.65% | +18.95% | 16,000.16
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +13.38% | +16.63% | 7,107.26
- | SBI Multi Asset Allocation Fund Direct Growth | +12.98% | +15.99% | 19,354.25
- | ICICI Prudential Multi Asset Fund Direct Growth | +8.86% | +15.51% | 84,990.57
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +15.88% | +19.00% | 16,000.16
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +13.48% | +16.64% | 7,107.26
+ | SBI Multi Asset Allocation Fund Direct Growth | +13.25% | +16.06% | 19,354.25
+ | ICICI Prudential Multi Asset Fund Direct Growth | +9.00% | +15.55% | 84,990.57
 Compare
 [TABLE END]
 Fund management
