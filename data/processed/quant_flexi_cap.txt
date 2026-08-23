@@ -168,7 +168,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +17.4% | +16.9% | +19.6% | +18.7%
 Category average ( Equity Flexi Cap ) | +16.0% | +15.6% | +13.5% | --
-Rank ( Equity Flexi Cap ) | 10 | -- | -- | --
+Rank ( Equity Flexi Cap ) | 12 | -- | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -201,7 +201,7 @@ Compare similar funds
  | Bank of India Flexi Cap Fund Direct Growth | +14.87% | +22.02% | 2,786.40
  | ITI Flexi Cap Fund Direct Growth | +14.65% | +20.37% | 1,467.30
  | HDFC Flexi Cap Direct Plan Growth | +4.19% | +17.69% | 1,10,736.41
- | Parag Parikh Flexi Cap Fund Direct Growth | -1.69% | +14.69% | 1,48,429.00
+ | Parag Parikh Flexi Cap Fund Direct Growth | -1.56% | +14.46% | 1,48,429.00
  | Franklin India Flexi Cap Fund Direct Growth | -0.70% | +13.49% | 19,509.44
 Compare
 [TABLE END]
