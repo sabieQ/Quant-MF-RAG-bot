@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+13.97
++13.87
 %
 3Y annualised
-+0.65
+-0.23
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 25 Aug '26
-₹252.34
+NAV: 26 Aug '26
+₹251.77
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -90,51 +90,59 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹63,973 |  | + 6.62 %
-3 years | ₹1,80,000 | ₹1,95,407 |  | + 8.56 %
-5 years | ₹3,00,000 | ₹4,15,695 |  | + 38.56 %
-10 years | ₹6,00,000 | ₹17,15,407 |  | + 185.90 %
+1 year | ₹60,000 | ₹63,826 |  | + 6.38 %
+3 years | ₹1,80,000 | ₹1,94,957 |  | + 8.31 %
+5 years | ₹3,00,000 | ₹4,14,641 |  | + 38.21 %
+10 years | ₹6,00,000 | ₹17,10,730 |  | + 185.12 %
 [TABLE END]
 Holdings (
-35
+43
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Repo | Unspecified | Repo | 14.08%
-Aurobindo Pharma Ltd | Healthcare | Equity | 10.41%
-Tata Communications Ltd | Technology | Equity | 9.50%
-Lloyds Metals and Energy Ltd | Materials | Equity | 8.17%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 6.57%
-Indus Towers Ltd | Technology | Equity | 5.65%
-Premier Energies Ltd. | Energy & Utilities | Equity | 4.79%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 4.72%
-Anthem Biosciences Ltd. | Healthcare | Equity | 4.53%
-Nippon Life India Asset Management Ltd | Financial | Equity | 4.52%
-ICICI Bank Ltd | Financial | Equity | 4.42%
-Linde India Ltd | Materials | Equity | 3.86%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 3.46%
+Repo | Unspecified | Repo | 12.44%
+Aurobindo Pharma Ltd | Healthcare | Equity | 9.95%
+Lloyds Metals and Energy Ltd | Materials | Equity | 9.27%
+Tata Communications Ltd | Technology | Equity | 8.50%
+MIDCAPNIFTY 25/08/2026 | Financial | Index Derivatives | 7.65%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 6.16%
+Indus Towers Ltd | Technology | Equity | 5.95%
+Premier Energies Ltd. | Energy & Utilities | Equity | 5.09%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 4.65%
+ICICI Bank Ltd | Financial | Equity | 4.63%
+Nippon Life India Asset Management Ltd | Financial | Equity | 4.54%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 3.92%
+Godrej Properties Ltd. 25.08.2026 | Real Estate | Futures | 3.69%
+Linde India Ltd | Materials | Equity | 3.57%
+Adani Transmission Ltd | Energy & Utilities | Equity | 3.51%
 JSW Infrastructure Ltd | Industrials | Equity | 2.62%
-Godrej Properties Ltd Futures | Real Estate | Futures | 2.05%
-Adani Transmission Ltd | Energy & Utilities | Equity | 1.96%
-Persistent Systems Ltd | Technology | Equity | 1.32%
-United Breweries Ltd | Consumer Staples | Equity | 1.22%
-Adani Wilmar Ltd | Consumer Staples | Equity | 1.12%
-Nippon Life India Asset Management Limited | Financial | Futures | 1.08%
-Dixon Technologies (India) Limited | Consumer Discretionary | Futures | 1.02%
-GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100 | Financial | Treasury Bills | 0.73%
-GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100 | Financial | Treasury Bills | 0.61%
-Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.59%
-GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100 | Financial | Treasury Bills | 0.49%
-Godrej Properties Ltd | Real Estate | Equity | 0.47%
+Dixon Technologies (India) Ltd. 25/08/2026 | Consumer Discretionary | Futures | 1.93%
+Ipca Laboratories Ltd | Healthcare | Equity | 1.72%
+Persistent Systems Ltd | Technology | Equity | 1.70%
+Oracle Financial Services Software Ltd 25/08/2026 | Technology | Futures | 1.43%
+United Breweries Ltd | Consumer Staples | Equity | 1.30%
+Adani Wilmar Ltd | Consumer Staples | Equity | 1.16%
+UPL Ltd | Materials | Equity | 0.87%
+GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100 | Financial | Treasury Bills | 0.74%
+GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100 | Financial | Treasury Bills | 0.62%
+UPL Ltd. 25.08.2026 | Materials | Futures | 0.60%
+L&T Technology Services Ltd | Technology | Equity | 0.56%
+Godrej Properties Ltd | Real Estate | Equity | 0.54%
+GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.49%
+Cochin Shipyard Ltd | Industrials | Equity | 0.48%
 91 DAYS T-BILL - 24SEP2026 | Financial | Treasury Bills | 0.44%
-GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100 | Financial | Treasury Bills | 0.43%
 GOVERNMENT OF INDIA 37477 091 DAYS TBILL 03SP26 FV RS 100 | Financial | Treasury Bills | 0.43%
-L&T Technology Services Ltd | Technology | Equity | 0.40%
-91 Days Tbill (MD 17/09/2026) | Financial | Treasury Bills | 0.36%
+91 Days Tbill (MD 17/09/2026) | Financial | Treasury Bills | 0.37%
+Ambuja Cements Ltd | Materials | Equity | 0.34%
+Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 0.33%
 GOVERNMENT OF INDIA 37423 091 DAYS TBILL 06AG26 FV RS 100 | Financial | Treasury Bills | 0.31%
-GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100 | Financial | Treasury Bills | 0.30%
-GOVERNMENT OF INDIA 37490 091 DAYS TBILL 10SP26 FV RS 100 | Financial | Treasury Bills | 0.30%
-Net Payables | Unspecified | Net Payables | -2.93%
+GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100 | Financial | Treasury Bills | 0.31%
+GOVERNMENT OF INDIA 37490 091 DAYS TBILL 10SP26 FV RS 100 | Financial | Treasury Bills | 0.31%
+Nippon Life India Asset Management Ltd 25/08/2026 | Financial | Futures | 0.25%
+GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.24%
+GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.24%
+Reserve Bank of India 91-D | Financial | Treasury Bills | 0.24%
+Net Payables | Unspecified | Net Payables | -14.09%
 [TABLE END]
 See All
 Minimum investments
@@ -154,9 +162,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +14.0% | +17.8% | +18.4% | +16.7%
+Fund returns | +13.9% | +17.7% | +18.4% | +16.7%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
-Rank ( Equity Mid Cap ) | 35 | 15 | -- | --
+Rank ( Equity Mid Cap ) | 34 | 16 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -184,11 +192,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | WhiteOak Capital Mid Cap Fund Direct Growth | +17.00% | +24.19% | 6,792.14
- | Edelweiss Mid Cap Direct Plan Growth | +10.34% | +23.32% | 18,693.49
- | Sundaram Mid Cap Fund Direct Growth | +10.83% | +21.33% | 14,504.36
- | Nippon India Growth Mid Cap Fund Direct Growth | +11.19% | +21.28% | 50,750.81
- | HDFC Mid Cap Fund Direct Growth | +11.05% | +19.73% | 1,05,142.69
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +18.55% | +24.19% | 6,792.14
+ | Edelweiss Mid Cap Direct Plan Growth | +12.19% | +23.35% | 18,693.49
+ | Sundaram Mid Cap Fund Direct Growth | +12.42% | +21.37% | 14,504.36
+ | Nippon India Growth Mid Cap Fund Direct Growth | +12.38% | +21.15% | 50,750.81
+ | HDFC Mid Cap Fund Direct Growth | +12.11% | +19.66% | 1,05,142.69
 Compare
 [TABLE END]
 Fund management
@@ -466,7 +474,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 25 Aug 2026 is ₹252.34.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 26 Aug 2026 is ₹251.77.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective

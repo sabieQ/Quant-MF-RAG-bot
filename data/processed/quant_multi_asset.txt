@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+23.87
++23.51
 %
 3Y annualised
-+0.65
+-0.83
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 25 Aug '26
-₹185.66
+NAV: 26 Aug '26
+₹184.12
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -90,79 +90,79 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,833 |  | + 8.05 %
-3 years | ₹1,80,000 | ₹2,33,542 |  | + 29.75 %
-5 years | ₹3,00,000 | ₹4,94,577 |  | + 64.86 %
-10 years | ₹6,00,000 | ₹19,32,043 |  | + 222.01 %
+1 year | ₹60,000 | ₹64,335 |  | + 7.22 %
+3 years | ₹1,80,000 | ₹2,31,577 |  | + 28.65 %
+5 years | ₹3,00,000 | ₹4,90,319 |  | + 63.44 %
+10 years | ₹6,00,000 | ₹19,15,119 |  | + 219.19 %
 [TABLE END]
 Holdings (
 63
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-ICICI Bank Ltd | Financial | Equity | 9.53%
-Nippon India ETF Gold BeES IDCW | Unspecified | Mutual Fund | 8.44%
-Adani Enterprises Ltd | Materials | Equity | 7.96%
-Adani Green Energy Ltd | Energy & Utilities | Equity | 7.94%
-Bharti Airtel Ltd | Technology | Equity | 7.38%
-Repo | Unspecified | Repo | 6.15%
-Others Silver Future | Unspecified | Silver Future | 5.69%
-Others Crude Oil Future | Unspecified | Crude Oil Future | 5.16%
-Aurobindo Pharma Ltd | Healthcare | Equity | 4.74%
-Net Current Assets | Unspecified | Net Current Assets | 4.70%
-HDFC Life Insurance Co Ltd | Financial | Equity | 4.04%
-ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 3.61%
-Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 2.83%
-HDFC Bank Ltd | Financial | Equity | 2.56%
-Indus Towers Ltd | Technology | Equity | 2.46%
-Black Box Ltd | Technology | Equity | 2.24%
-Premier Energies Ltd. | Energy & Utilities | Equity | 2.06%
-Larsen & Toubro Ltd | Industrials | Equity | 1.79%
-NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 19JAN27 | Financial | Certificate of Deposit | 1.61%
-Nippon India Silver ETF - Growth | Unspecified | Mutual Fund | 1.52%
-Tech Mahindra Ltd | Technology | Equity | 1.38%
-EXPORT IMPORT BANK OF INDIA CD 11NOV26 | Financial | Certificate of Deposit | 1.22%
-Tata Steel Ltd | Materials | Equity | 1.20%
-GOVERNMENT OF INDIA 35152 GOI 18NV39 6.92 FV RS 100 | Entities | GOI Securities | 1.09%
-Tata Motors Ltd | Consumer Discretionary | Equity | 0.95%
-Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.83%
+Repo | Unspecified | Repo | 11.37%
+Net Current Assets | Unspecified | Net Current Assets | 10.78%
+ICICI Bank Ltd | Financial | Equity | 9.36%
+Nippon India ETF Gold BeES IDCW | Unspecified | Mutual Fund | 8.51%
+Bharti Airtel Ltd | Technology | Equity | 8.36%
+Adani Enterprises Ltd | Materials | Equity | 7.42%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 6.92%
+Aurobindo Pharma Ltd | Healthcare | Equity | 4.47%
+HDFC Life Insurance Co Ltd | Financial | Equity | 3.62%
+Indus Towers Ltd | Technology | Equity | 3.46%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 3.19%
+Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 2.75%
+HDFC Bank Ltd | Financial | Equity | 2.26%
+Premier Energies Ltd. | Energy & Utilities | Equity | 1.88%
+Black Box Ltd | Technology | Equity | 1.68%
+Larsen & Toubro Ltd | Industrials | Equity | 1.60%
+Nippon India Silver ETF - Growth | Unspecified | Mutual Fund | 1.57%
+Tech Mahindra Ltd | Technology | Equity | 1.53%
+NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CD 19JAN27 | Financial | Certificate of Deposit | 1.52%
+EXPORT IMPORT BANK OF INDIA CD 11NOV26 | Financial | Certificate of Deposit | 1.16%
+Tata Steel Ltd | Materials | Equity | 1.14%
+GOVERNMENT OF INDIA 35152 GOI 18NV39 6.92 FV RS 100 | Entities | GOI Securities | 1.02%
+Tata Motors Ltd | Consumer Discretionary | Equity | 0.86%
 DLF Ltd | Real Estate | Equity | 0.83%
-GOVERNMENT OF INDIA 37449 182 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.82%
-GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100 | Financial | Treasury Bills | 0.81%
-Varun Beverages Ltd | Consumer Staples | Equity | 0.60%
-Biocon Ltd | Healthcare | Equity | 0.59%
-GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100 | Entities | GOI Securities | 0.59%
-GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100 | Entities | GOI Securities | 0.57%
-Godrej Properties Ltd | Real Estate | Equity | 0.57%
-Bajaj Finserv Ltd | Financial | Equity | 0.55%
-Knowledge Realty Trust | Real Estate | Real Estate Investment Trusts | 0.48%
-Anand Rathi Share and Stock Brokers Ltd. | Financial | Equity | 0.45%
-STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 0.42%
-CAPRI GLOBAL CAPITAL LIMITED 129D CP 31JUL26 | Financial | Commercial Paper | 0.42%
-STATE DEVELOPMENT LOAN 34879 MH 04SP35 7.23 FV RS 100 | Unspecified | State Development Loan | 0.41%
-GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100 | Entities | GOI Securities | 0.39%
-GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100 | Entities | GOI Securities | 0.33%
-0% GOI  - 12SEP27 STRIPS | Entities | GOI Securities | 0.32%
-ITC Ltd | Consumer Staples | Equity | 0.29%
-CENTRAL GOVERNMENT LOAN 30950 GOI 15NV26 5.74 FV RS 100 | Entities | GOI Securities | 0.27%
-MUTHOOT FINANCE LIMITED 308D CP 08SEP26 | Financial | Commercial Paper | 0.25%
-7.36% Government of India (12/09/2026) | Entities | GOI Securities | 0.22%
-6.64% Government of India 16-Jun-2035 | Entities | GOI Securities | 0.19%
-GOVERNMENT OF INDIA 32532 GOI SGRB 27JN33 7.29 FV RS 100 | Entities | GOI Securities | 0.17%
-GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100 | Entities | GOI Securities | 0.17%
-SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 27OCT26 | Financial | Certificate of Deposit | 0.16%
+Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.78%
+GOVERNMENT OF INDIA 37449 182 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.77%
+GOVERNMENT OF INDIA 36940 364 DAYS TBILL 15JN27 FV RS 100 | Financial | Treasury Bills | 0.77%
+CANARA BANK CD 28JAN27 | Financial | Certificate of Deposit | 0.76%
+Adani Transmission Ltd | Energy & Utilities | Equity | 0.72%
+Godrej Properties Ltd | Real Estate | Equity | 0.60%
+CANARA BANK CD 29JUN27 | Financial | Certificate of Deposit | 0.59%
+Bajaj Finserv Ltd | Financial | Equity | 0.59%
+Biocon Ltd | Healthcare | Equity | 0.56%
+GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100 | Entities | GOI Securities | 0.55%
+GOVERNMENT OF INDIA 34733 GOI 05AG54 7.09 FV RS 100 | Entities | GOI Securities | 0.53%
+Varun Beverages Ltd | Consumer Staples | Equity | 0.49%
+Knowledge Realty Trust | Real Estate | Real Estate Investment Trusts | 0.47%
+STATE DEVELOPMENT LOAN 36823 GUJ 17DC34 7.27 FV RS 100 | Industrials | State Development Loan | 0.39%
+STATE DEVELOPMENT LOAN 34879 MH 04SP35 7.23 FV RS 100 | Unspecified | State Development Loan | 0.39%
+Anand Rathi Share and Stock Brokers Ltd. | Financial | Equity | 0.39%
+GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100 | Entities | GOI Securities | 0.36%
+GOVERNMENT OF INDIA 36574 GOI 06OT35 6.48 FV RS 100 | Entities | GOI Securities | 0.31%
+0% GOI  - 12SEP27 STRIPS | Entities | GOI Securities | 0.30%
+ITC Ltd | Consumer Staples | Equity | 0.27%
+CENTRAL GOVERNMENT LOAN 30950 GOI 15NV26 5.74 FV RS 100 | Entities | GOI Securities | 0.25%
+MUTHOOT FINANCE LIMITED 308D CP 08SEP26 | Financial | Commercial Paper | 0.23%
+7.36% Government of India (12/09/2026) | Entities | GOI Securities | 0.20%
+6.64% Government of India 16-Jun-2035 | Entities | GOI Securities | 0.18%
+GOVERNMENT OF INDIA 32532 GOI SGRB 27JN33 7.29 FV RS 100 | Entities | GOI Securities | 0.16%
+GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100 | Entities | GOI Securities | 0.16%
+SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 27OCT26 | Financial | Certificate of Deposit | 0.15%
 GOVERNMENT OF INDIA 37223 364 DAYS TBILL 19MR27 FV RS 100 | Financial | Treasury Bills | 0.03%
 Quant Gilt Fund Direct - Growth | Unspecified | Mutual Fund | 0.02%
-ITC Ltd Futures | Consumer Staples | Futures | -0.29%
-Bajaj Finserv Ltd.delete Futures | Financial | Futures | -0.55%
-Godrej Properties Ltd Futures | Real Estate | Futures | -0.57%
-Biocon Ltd Futures | Healthcare | Futures | -0.59%
-Varun Beverages Ltd | Consumer Staples | Futures | -0.60%
-DLF Ltd Futures | Real Estate | Futures | -0.84%
-Tata Motors Ltd Futures | Consumer Discretionary | Futures | -0.96%
-Tata Steel Ltd Futures | Materials | Futures | -1.21%
-Larsen & Toubro Ltd Futures | Industrials | Futures | -1.80%
-HDFC Bank Ltd Futures | Financial | Futures | -2.58%
+ITC Limited_25/08/2026 | Consumer Staples | Futures | -0.27%
+Varun Beverages Limited 25/08/2026 | Consumer Staples | Futures | -0.49%
+Biocon Ltd. 25.08.2026 | Healthcare | Futures | -0.57%
+Bajaj Finserv Ltd. 25.08.2026 | Financial | Futures | -0.59%
+Godrej Properties Ltd. 25.08.2026 | Real Estate | Futures | -0.61%
+DLF_25/08/2026 | Real Estate | Futures | -0.83%
+Tata Motors Passenger Vehicles Ltd. 25.08.2026 | Consumer Discretionary | Futures | -0.87%
+Tata Steel Ltd. 25.08.2026 | Materials | Futures | -1.15%
+Larsen & Toubro Ltd. 25.08.2026 | Industrials | Futures | -1.60%
+HDFC Bank Limited_25/08/2026 | Financial | Futures | -2.27%
 [TABLE END]
 See All
 Minimum investments
@@ -182,7 +182,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +23.9% | +21.2% | +19.1% | +16.0%
+Fund returns | +23.5% | +21.2% | +19.0% | +16.0%
 Category average ( Hybrid Multi Asset Allocation ) | +17.8% | +16.1% | +11.5% | --
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -212,11 +212,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +21.98% | +23.87% | 6,356.37
- | Nippon India Multi Asset Allocation Fund Direct Growth | +18.06% | +20.71% | 16,926.22
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +15.38% | +17.75% | 8,187.32
- | SBI Multi Asset Allocation Fund Direct Growth | +14.52% | +16.33% | 20,240.34
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +9.14% | +16.21% | 86,785.04
+ | Quant Multi Asset Allocation Fund Direct Growth | +21.64% | +23.51% | 6,356.37
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +18.11% | +20.88% | 16,926.22
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +15.53% | +17.84% | 8,187.32
+ | SBI Multi Asset Allocation Fund Direct Growth | +14.58% | +16.51% | 20,240.34
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +9.01% | +16.43% | 86,785.04
 Compare
 [TABLE END]
 Fund management
@@ -494,7 +494,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Multi Asset Allocation Fund Direct Growth
-Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 25 Aug 2026 is ₹185.66.
+Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 26 Aug 2026 is ₹184.12.
 The Quant Multi Asset Allocation Fund Direct Growth is rated High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
