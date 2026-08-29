@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+18.06
++17.90
 %
 3Y annualised
-+0.27
++0.15
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 27 Aug '26
-₹123.39
+NAV: 28 Aug '26
+₹123.58
 Min. for SIP
 ₹250
 Fund size (AUM)
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹65,836 |  | + 9.73 %
-3 years | ₹1,80,000 | ₹2,12,165 |  | + 17.87 %
-5 years | ₹3,00,000 | ₹4,41,570 |  | + 47.19 %
-10 years | ₹6,00,000 | ₹17,77,468 |  | + 196.24 %
+1 year | ₹60,000 | ₹65,892 |  | + 9.82 %
+3 years | ₹1,80,000 | ₹2,12,416 |  | + 18.01 %
+5 years | ₹3,00,000 | ₹4,42,056 |  | + 47.35 %
+10 years | ₹6,00,000 | ₹17,79,256 |  | + 196.54 %
 [TABLE END]
 Holdings (
 50
@@ -169,7 +169,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +18.1% | +16.7% | +19.7% | +18.7%
+Fund returns | +17.9% | +16.7% | +19.7% | +18.7%
 Category average ( Equity Flexi Cap ) | +16.0% | +15.6% | +13.5% | --
 Rank ( Equity Flexi Cap ) | 9 | -- | -- | --
 [TABLE END]
@@ -201,11 +201,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bank of India Flexi Cap Fund Direct Growth | +16.96% | +22.27% | 2,786.40
- | ITI Flexi Cap Fund Direct Growth | +16.30% | +20.11% | 1,467.30
- | HDFC Flexi Cap Direct Plan Growth | +5.65% | +17.72% | 1,10,736.41
+ | Bank of India Flexi Cap Fund Direct Growth | +18.05% | +22.17% | 2,786.40
+ | ITI Flexi Cap Fund Direct Growth | +17.78% | +20.00% | 1,467.30
+ | HDFC Flexi Cap Direct Plan Growth | +6.56% | +17.65% | 1,10,736.41
  | Parag Parikh Flexi Cap Fund Direct Growth | -0.99% | +14.40% | 1,48,429.00
- | Franklin India Flexi Cap Fund Direct Growth | +0.65% | +13.33% | 19,509.44
+ | Franklin India Flexi Cap Fund Direct Growth | +1.80% | +13.23% | 19,509.44
 Compare
 [TABLE END]
 Fund management
@@ -506,7 +506,7 @@ qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
 About
 Quant Flexi Cap Fund Direct Growth
-Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 27 Aug 2026 is ₹123.39.
+Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 28 Aug 2026 is ₹123.58.
 The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
