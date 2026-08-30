@@ -204,7 +204,7 @@ Compare similar funds
  | Bank of India Flexi Cap Fund Direct Growth | +18.05% | +22.17% | 2,786.40
  | ITI Flexi Cap Fund Direct Growth | +17.78% | +20.00% | 1,467.30
  | HDFC Flexi Cap Direct Plan Growth | +6.56% | +17.65% | 1,10,736.41
- | Parag Parikh Flexi Cap Fund Direct Growth | -0.99% | +14.40% | 1,48,429.00
+ | Parag Parikh Flexi Cap Fund Direct Growth | +0.00% | +14.43% | 1,48,429.00
  | Franklin India Flexi Cap Fund Direct Growth | +1.80% | +13.23% | 19,509.44
 Compare
 [TABLE END]
