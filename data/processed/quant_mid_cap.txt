@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+12.64
++12.37
 %
 3Y annualised
--0.91
+-0.68
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 01 Sep '26
-₹250.66
+NAV: 02 Sep '26
+₹248.95
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹63,677 |  | + 6.13 %
-3 years | ₹1,80,000 | ₹1,92,655 |  | + 7.03 %
-5 years | ₹3,00,000 | ₹4,10,469 |  | + 36.82 %
-10 years | ₹6,00,000 | ₹17,02,330 |  | + 183.72 %
+1 year | ₹60,000 | ₹63,221 |  | + 5.37 %
+3 years | ₹1,80,000 | ₹1,91,314 |  | + 6.29 %
+5 years | ₹3,00,000 | ₹4,07,528 |  | + 35.84 %
+10 years | ₹6,00,000 | ₹16,89,844 |  | + 181.64 %
 [TABLE END]
 Holdings (
 43
@@ -162,9 +162,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +12.6% | +16.7% | +18.3% | +16.6%
+Fund returns | +12.4% | +16.3% | +18.2% | +16.6%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
-Rank ( Equity Mid Cap ) | 34 | 16 | -- | --
+Rank ( Equity Mid Cap ) | 34 | 15 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -192,11 +192,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Invesco India Mid Cap Fund Direct Growth | +12.35% | +24.50% | 14,721.45
- | WhiteOak Capital Mid Cap Fund Direct Growth | +17.75% | +23.23% | 6,792.14
- | Edelweiss Mid Cap Direct Plan Growth | +11.43% | +22.08% | 18,693.49
- | Nippon India Growth Mid Cap Fund Direct Growth | +11.08% | +19.59% | 50,750.81
- | HDFC Mid Cap Fund Direct Growth | +11.63% | +18.81% | 1,05,142.69
+ | Invesco India Mid Cap Fund Direct Growth | +12.49% | +24.38% | 14,721.45
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +17.42% | +23.05% | 6,792.14
+ | Edelweiss Mid Cap Direct Plan Growth | +10.96% | +21.93% | 18,693.49
+ | Nippon India Growth Mid Cap Fund Direct Growth | +10.46% | +19.37% | 50,750.81
+ | HDFC Mid Cap Fund Direct Growth | +10.80% | +18.59% | 1,05,142.69
 Compare
 [TABLE END]
 Fund management
@@ -474,7 +474,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 01 Sep 2026 is ₹250.66.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 02 Sep 2026 is ₹248.95.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
