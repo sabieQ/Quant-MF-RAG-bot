@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 03 Sep '26
-₹321.42
+NAV: 04 Sep '26
+₹322.64
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹68,592 |  | + 14.32 %
-3 years | ₹1,80,000 | ₹2,18,017 |  | + 21.12 %
-5 years | ₹3,00,000 | ₹4,83,264 |  | + 61.09 %
-10 years | ₹6,00,000 | ₹23,41,970 |  | + 290.33 %
+1 year | ₹60,000 | ₹68,796 |  | + 14.66 %
+3 years | ₹1,80,000 | ₹2,18,765 |  | + 21.54 %
+5 years | ₹3,00,000 | ₹4,84,855 |  | + 61.62 %
+10 years | ₹6,00,000 | ₹23,49,363 |  | + 291.56 %
 [TABLE END]
 Holdings (
 128
@@ -249,7 +249,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +17.9% | +20.5% | +21.0% | +17.8%
 Category average ( Equity Small Cap ) | +19.7% | +22.6% | +16.1% | --
-Rank ( Equity Small Cap ) | 14 | 3 | -- | --
+Rank ( Equity Small Cap ) | 12 | 3 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -557,7 +557,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 03 Sep 2026 is ₹321.42.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 04 Sep 2026 is ₹322.64.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
