@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.29
++15.90
 %
 3Y annualised
--0.05
+-0.01
 %
 1D
 1M
@@ -169,7 +169,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.3% | +15.0% | +19.1% | +18.5%
+Fund returns | +15.9% | +15.0% | +19.1% | +18.5%
 Category average ( Equity Flexi Cap ) | +16.0% | +15.6% | +13.5% | --
 Rank ( Equity Flexi Cap ) | 12 | -- | -- | --
 [TABLE END]
@@ -201,10 +201,10 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bank of India Flexi Cap Fund Direct Growth | +14.52% | +21.12% | 2,786.40
- | ITI Flexi Cap Fund Direct Growth | +15.50% | +19.04% | 1,467.30
- | HSBC Flexi Cap Fund Direct Growth | +8.91% | +16.88% | 5,717.88
- | HDFC Flexi Cap Direct Plan Growth | +4.00% | +16.65% | 1,10,736.41
+ | Bank of India Flexi Cap Fund Direct Growth | +15.35% | +20.40% | 2,786.40
+ | ITI Flexi Cap Fund Direct Growth | +15.83% | +18.82% | 1,467.30
+ | HSBC Flexi Cap Fund Direct Growth | +9.62% | +16.73% | 5,717.88
+ | HDFC Flexi Cap Direct Plan Growth | +4.23% | +16.38% | 1,10,736.41
  | Franklin India Flexi Cap Fund Direct Growth | -0.13% | +12.02% | 19,509.44
 Compare
 [TABLE END]

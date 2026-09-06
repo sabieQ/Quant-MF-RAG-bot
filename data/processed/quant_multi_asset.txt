@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+22.19
++22.14
 %
 3Y annualised
-+0.12
++0.27
 %
 1D
 1M
@@ -182,7 +182,7 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +22.2% | +20.1% | +18.7% | +15.8%
+Fund returns | +22.1% | +20.1% | +18.8% | +15.8%
 Category average ( Hybrid Multi Asset Allocation ) | +17.8% | +16.1% | +11.5% | --
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -212,11 +212,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +17.99% | +22.19% | 6,356.37
- | Nippon India Multi Asset Allocation Fund Direct Growth | +15.54% | +19.65% | 16,926.22
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +13.97% | +17.19% | 8,187.32
- | SBI Multi Asset Allocation Fund Direct Growth | +13.19% | +15.51% | 20,240.34
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +7.09% | +15.21% | 86,785.04
+ | Quant Multi Asset Allocation Fund Direct Growth | +18.70% | +22.14% | 6,356.37
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +15.65% | +19.57% | 16,926.22
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +13.85% | +17.14% | 8,187.32
+ | SBI Multi Asset Allocation Fund Direct Growth | +13.22% | +15.35% | 20,240.34
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +7.39% | +15.12% | 86,785.04
 Compare
 [TABLE END]
 Fund management
