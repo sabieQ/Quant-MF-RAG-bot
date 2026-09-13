@@ -96,53 +96,54 @@ Over the past | Total investment | Would've become | Historic returns | Returns
 10 years | ₹6,00,000 | ₹16,75,343 |  | + 179.22 %
 [TABLE END]
 Holdings (
-43
+44
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Repo | Unspecified | Repo | 12.44%
-Aurobindo Pharma Ltd | Healthcare | Equity | 9.95%
-Lloyds Metals and Energy Ltd | Materials | Equity | 9.27%
-Tata Communications Ltd | Technology | Equity | 8.50%
-MIDCAPNIFTY 25/08/2026 | Financial | Index Derivatives | 7.65%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 6.16%
+Aurobindo Pharma Ltd | Healthcare | Equity | 10.45%
+Tata Communications Ltd | Technology | Equity | 8.40%
+Lloyds Metals and Energy Ltd | Materials | Equity | 8.18%
+Repo | Unspecified | Repo | 7.85%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 6.00%
 Indus Towers Ltd | Technology | Equity | 5.95%
-Premier Energies Ltd. | Energy & Utilities | Equity | 5.09%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 4.65%
-ICICI Bank Ltd | Financial | Equity | 4.63%
-Nippon Life India Asset Management Ltd | Financial | Equity | 4.54%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 3.92%
-Godrej Properties Ltd. 25.08.2026 | Real Estate | Futures | 3.69%
-Linde India Ltd | Materials | Equity | 3.57%
-Adani Transmission Ltd | Energy & Utilities | Equity | 3.51%
-JSW Infrastructure Ltd | Industrials | Equity | 2.62%
-Dixon Technologies (India) Ltd. 25/08/2026 | Consumer Discretionary | Futures | 1.93%
-Ipca Laboratories Ltd | Healthcare | Equity | 1.72%
-Persistent Systems Ltd | Technology | Equity | 1.70%
-Oracle Financial Services Software Ltd 25/08/2026 | Technology | Futures | 1.43%
-United Breweries Ltd | Consumer Staples | Equity | 1.30%
-Adani Wilmar Ltd | Consumer Staples | Equity | 1.16%
-UPL Ltd | Materials | Equity | 0.87%
-GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100 | Financial | Treasury Bills | 0.74%
-GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100 | Financial | Treasury Bills | 0.62%
-UPL Ltd. 25.08.2026 | Materials | Futures | 0.60%
-L&T Technology Services Ltd | Technology | Equity | 0.56%
-Godrej Properties Ltd | Real Estate | Equity | 0.54%
+Premier Energies Ltd. | Energy & Utilities | Equity | 5.20%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 5.09%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 4.77%
+Nippon Life India Asset Management Ltd | Financial | Equity | 4.61%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 3.76%
+Godrej Properties Limited_29/09/2026 | Real Estate | Futures | 3.54%
+Linde India Ltd | Materials | Equity | 3.41%
+Adani Transmission Ltd | Energy & Utilities | Equity | 3.04%
+Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 2.93%
+JSW Infrastructure Ltd | Industrials | Equity | 2.87%
+COCHIN SHIPYARD LTD-29-Sep-2026 | Industrials | Futures | 2.03%
+Dixon Technologies (India) Ltd.29/09/2026 | Consumer Discretionary | Futures | 2.02%
+Ipca Laboratories Ltd | Healthcare | Equity | 1.96%
+Zydus Lifesciences Ltd | Healthcare | Equity | 1.82%
+Container Corporation Of India Ltd | Industrials | Equity | 1.80%
+Persistent Systems Ltd | Technology | Equity | 1.73%
+United Breweries Ltd | Consumer Staples | Equity | 1.21%
+Adani Wilmar Ltd | Consumer Staples | Equity | 1.19%
+ZYDUS LIFESCIENCES LTD-29-Sep-2026 | Healthcare | Futures | 1.16%
+Welspun Corp Ltd | Materials | Equity | 1.10%
+Cochin Shipyard Ltd | Industrials | Equity | 0.94%
+UPL Ltd | Materials | Equity | 0.81%
+TORRENT PHARMACEUTICALS LTD.-29-Sep-2026 | Healthcare | Futures | 0.68%
+UPL Ltd. 29.09.2026 | Materials | Futures | 0.56%
+Godrej Properties Ltd | Real Estate | Equity | 0.52%
+IDBI Bank Ltd | Financial | Equity | 0.51%
 GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.49%
-Cochin Shipyard Ltd | Industrials | Equity | 0.48%
-91 DAYS T-BILL - 24SEP2026 | Financial | Treasury Bills | 0.44%
+91 DAYS T-BILL - 24SEP2026 | Financial | Treasury Bills | 0.45%
 GOVERNMENT OF INDIA 37477 091 DAYS TBILL 03SP26 FV RS 100 | Financial | Treasury Bills | 0.43%
 91 Days Tbill (MD 17/09/2026) | Financial | Treasury Bills | 0.37%
-Ambuja Cements Ltd | Materials | Equity | 0.34%
-Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 0.33%
-GOVERNMENT OF INDIA 37423 091 DAYS TBILL 06AG26 FV RS 100 | Financial | Treasury Bills | 0.31%
-GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100 | Financial | Treasury Bills | 0.31%
+GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.37%
 GOVERNMENT OF INDIA 37490 091 DAYS TBILL 10SP26 FV RS 100 | Financial | Treasury Bills | 0.31%
-Nippon Life India Asset Management Ltd 25/08/2026 | Financial | Futures | 0.25%
-GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.24%
-GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.24%
-Reserve Bank of India 91-D | Financial | Treasury Bills | 0.24%
-Net Payables | Unspecified | Net Payables | -14.09%
+GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.31%
+Nippon Life India Asset Management Ltd. 29.09.2026 | Financial | Futures | 0.26%
+GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.25%
+GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.25%
+Reserve Bank of India 91-D | Financial | Treasury Bills | 0.25%
+Net Payables | Unspecified | Net Payables | -9.80%
 [TABLE END]
 See All
 Minimum investments
@@ -164,7 +165,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +10.7% | +16.1% | +18.1% | +16.5%
 Category average ( Equity Mid Cap ) | +21.6% | +21.5% | +16.0% | --
-Rank ( Equity Mid Cap ) | 34 | 14 | -- | --
+Rank ( Equity Mid Cap ) | 34 | 13 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio

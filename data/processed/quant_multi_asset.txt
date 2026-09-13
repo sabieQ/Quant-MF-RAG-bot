@@ -214,9 +214,9 @@ Compare similar funds
  | Name | 1Y | 3Y | Fund Size(Cr)
  | Quant Multi Asset Allocation Fund Direct Growth | +17.28% | +21.36% | 6,356.37
  | Nippon India Multi Asset Allocation Fund Direct Growth | +13.40% | +18.77% | 17,983.94
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +12.59% | +16.83% | 8,777.56
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +12.38% | +16.71% | 8,777.56
  | SBI Multi Asset Allocation Fund Direct Growth | +11.63% | +14.75% | 20,935.04
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +5.08% | +14.36% | 87,833.10
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +4.54% | +14.06% | 87,833.10
 Compare
 [TABLE END]
 Fund management
