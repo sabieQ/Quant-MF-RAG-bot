@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+13.98
++14.79
 %
 3Y annualised
-+1.26
++1.47
 %
 1D
 1M
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹63,997 |  | + 6.66 %
-3 years | ₹1,80,000 | ₹2,05,848 |  | + 14.36 %
-5 years | ₹3,00,000 | ₹4,23,273 |  | + 41.09 %
-10 years | ₹6,00,000 | ₹18,13,512 |  | + 202.25 %
+1 year | ₹60,000 | ₹64,831 |  | + 8.05 %
+3 years | ₹1,80,000 | ₹2,08,731 |  | + 15.96 %
+5 years | ₹3,00,000 | ₹4,29,185 |  | + 43.06 %
+10 years | ₹6,00,000 | ₹18,38,860 |  | + 206.48 %
 [TABLE END]
 Holdings (
 34
@@ -153,8 +153,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +14.0% | +15.3% | +19.9% | +19.7%
-Category average ( Equity ELSS ) | +10.6% | +10.6% | +13.3% | +17.1%
+Fund returns | +14.8% | +15.6% | +20.1% | +19.8%
+Category average ( Equity ELSS ) | +11.1% | +10.8% | +13.4% | +17.2%
 Rank ( Equity ELSS ) | 7 | 2 | 1 | --
 [TABLE END]
 Understand terms
@@ -453,7 +453,7 @@ Quant PSU Fund Direct Growth
 Quant Arbitrage Fund Direct Growth
 About
 Quant ELSS Tax Saver Fund Direct Growth
-Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,143 Cr and the Latest NAV as of 18 Sep 2026 is ₹464.97.
+Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,05,044 Cr and the Latest NAV as of 18 Sep 2026 is ₹464.97.
 The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ;
 Investment Objective
@@ -466,7 +466,7 @@ Quant Mutual Fund
 Rank (total assets)
 #34 in India
 Total AUM
-₹1,03,143.35 Cr
+₹1,05,043.97 Cr
 Date of Incorporation
 15 Apr 1996
 Phone
