@@ -171,7 +171,7 @@ Absolute returns
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.6% | +14.9% | +19.4% | +18.5%
 Category average ( Equity Flexi Cap ) | +16.0% | +15.6% | +13.5% | --
-Rank ( Equity Flexi Cap ) | 10 | -- | -- | --
+Rank ( Equity Flexi Cap ) | 9 | -- | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
