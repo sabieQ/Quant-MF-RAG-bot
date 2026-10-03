@@ -188,7 +188,7 @@ Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +21.4% | +18.9% | +18.4% | +15.5%
-Category average ( Hybrid Multi Asset Allocation ) | +14.9% | +12.8% | +12.2% | +11.9%
+Category average ( Hybrid Multi Asset Allocation ) | +14.1% | +12.4% | +12.0% | +11.8%
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
 Understand terms
@@ -218,10 +218,10 @@ Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
  | Quant Multi Asset Allocation Fund Direct Growth | +12.92% | +21.36% | 6,527.78
- | Nippon India Multi Asset Allocation Fund Direct Growth | +9.11% | +18.28% | 17,983.94
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +10.00% | +16.65% | 8,777.55
- | SBI Multi Asset Allocation Fund Direct Growth | +8.26% | +14.35% | 20,935.03
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +1.77% | +13.37% | 87,833.09
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +7.75% | +18.06% | 17,983.94
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +9.19% | +16.51% | 8,777.55
+ | SBI Multi Asset Allocation Fund Direct Growth | +7.18% | +14.16% | 20,935.03
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +0.51% | +13.13% | 87,833.09
 Compare
 [TABLE END]
 Fund management
