@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+13.50
++14.32
 %
 3Y annualised
 +0.76
@@ -80,7 +80,7 @@ NAV: 09 Oct '26
 Min. for SIP
 ₹500
 Fund size (AUM)
-₹13,457.65 Cr
+₹13,103.36 Cr
 Expense ratio
 1.22%
 Rating
@@ -90,50 +90,51 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,474 |  | + 2.46 %
-3 years | ₹1,80,000 | ₹1,96,297 |  | + 9.05 %
-5 years | ₹3,00,000 | ₹4,04,128 |  | + 34.71 %
-10 years | ₹6,00,000 | ₹17,30,315 |  | + 188.39 %
+1 year | ₹60,000 | ₹61,915 |  | + 3.19 %
+3 years | ₹1,80,000 | ₹1,97,747 |  | + 9.86 %
+5 years | ₹3,00,000 | ₹4,07,051 |  | + 35.68 %
+10 years | ₹6,00,000 | ₹17,42,357 |  | + 190.39 %
 [TABLE END]
 Holdings (
-34
+35
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-ICICI Bank Ltd | Financial | Equity | 9.85%
-Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 9.54%
+Repo | Unspecified | Repo | 10.52%
+Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 9.37%
+Adani Power Ltd | Energy & Utilities | Equity | 9.09%
 Aurobindo Pharma Ltd | Healthcare | Equity | 8.49%
-Repo | Unspecified | Repo | 7.75%
-Adani Power Ltd | Energy & Utilities | Equity | 7.70%
-Adani Green Energy Ltd | Energy & Utilities | Equity | 4.43%
-ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 4.40%
-Bharti Airtel Ltd | Technology | Equity | 4.20%
-Adani Transmission Ltd | Energy & Utilities | Equity | 4.13%
-Tata Power Company Ltd | Energy & Utilities | Equity | 4.12%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 3.87%
-DLF Ltd | Real Estate | Equity | 3.45%
-Divi's Laboratories Ltd | Healthcare | Equity | 3.31%
-Premier Energies Ltd. | Energy & Utilities | Equity | 3.14%
-Adani Enterprises Ltd | Materials | Equity | 2.73%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 2.63%
-Infosys Ltd | Technology | Equity | 2.60%
-Capri Global Capital Ltd | Financial | Equity | 2.41%
-Tata Consultancy Services Ltd | Technology | Equity | 2.01%
-Reliance Industries Ltd | Energy & Utilities | Equity | 1.88%
-Kotak Mahindra Bank Ltd | Financial | Equity | 1.43%
-Reliance Naval and Engineering Ltd | Industrials | Equity | 1.20%
-Lloyds Metals and Energy Ltd | Materials | Equity | 0.87%
-Zydus Lifesciences Ltd | Healthcare | Equity | 0.77%
-Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.61%
-LTIMindtree Ltd | Technology | Equity | 0.57%
-Welspun India Ltd | Consumer Discretionary | Equity | 0.47%
-Indus Towers Ltd | Technology | Equity | 0.37%
-Life Insurance Corporation of India | Financial | Equity | 0.35%
-AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.26%
-Krystal Integrated Services Ltd. | Industrials | Equity | 0.24%
-Indiabulls Real Estate Ltd | Real Estate | Equity | 0.24%
-Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.21%
-Net Payables | Unspecified | Net Payables | -0.24%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 7.56%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 4.89%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 4.78%
+Tata Power Company Ltd | Energy & Utilities | Equity | 4.38%
+Bharti Airtel Ltd | Technology | Equity | 4.18%
+Divi's Laboratories Ltd | Healthcare | Equity | 4.12%
+Adani Transmission Ltd | Energy & Utilities | Equity | 3.93%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 3.73%
+Premier Energies Ltd. | Energy & Utilities | Equity | 3.46%
+Adani Enterprises Ltd | Materials | Equity | 2.85%
+Capri Global Capital Ltd | Financial | Equity | 2.39%
+Infosys Ltd | Technology | Equity | 2.34%
+Reliance Industries Ltd | Energy & Utilities | Equity | 1.80%
+Nippon Life India Asset Management Ltd | Financial | Equity | 1.77%
+Zydus Lifesciences Ltd | Healthcare | Equity | 1.60%
+Reliance Naval and Engineering Ltd | Industrials | Equity | 1.38%
+Lloyds Metals and Energy Ltd | Materials | Equity | 0.94%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 0.81%
+Indus Towers Ltd | Technology | Equity | 0.78%
+Coal India Ltd | Materials | Equity | 0.70%
+Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 0.65%
+Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.59%
+Welspun India Ltd | Consumer Discretionary | Equity | 0.56%
+LTIMindtree Ltd | Technology | Equity | 0.53%
+Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 0.37%
+Life Insurance Corporation of India | Financial | Equity | 0.34%
+Krystal Integrated Services Ltd. | Industrials | Equity | 0.25%
+AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.23%
+Indiabulls Real Estate Ltd | Real Estate | Equity | 0.23%
+Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.22%
+Net Current Assets | Unspecified | Net Current Assets | 0.16%
 [TABLE END]
 See All
 Minimum investments
@@ -153,8 +154,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +13.5% | +13.7% | +19.3% | +19.2%
-Category average ( Equity ELSS ) | +9.8% | +9.3% | +12.7% | +16.8%
+Fund returns | +14.3% | +13.9% | +19.4% | +19.3%
+Category average ( Equity ELSS ) | +10.6% | +9.5% | +12.8% | +16.9%
 Rank ( Equity ELSS ) | 6 | 2 | 1 | --
 [TABLE END]
 Understand terms

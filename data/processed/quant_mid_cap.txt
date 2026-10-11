@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+9.58
++10.39
 %
 3Y annualised
 +0.80
@@ -80,7 +80,7 @@ NAV: 09 Oct '26
 Min. for SIP
 ₹1,000
 Fund size (AUM)
-₹8,055.58 Cr
+₹7,653.82 Cr
 Expense ratio
 1.16%
 Rating
@@ -90,60 +90,56 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹60,066 |  | + 0.11 %
-3 years | ₹1,80,000 | ₹1,80,710 |  | + 0.39 %
-5 years | ₹3,00,000 | ₹3,82,806 |  | + 27.60 %
-10 years | ₹6,00,000 | ₹15,85,472 |  | + 164.25 %
+1 year | ₹60,000 | ₹60,529 |  | + 0.88 %
+3 years | ₹1,80,000 | ₹1,82,161 |  | + 1.20 %
+5 years | ₹3,00,000 | ₹3,85,775 |  | + 28.59 %
+10 years | ₹6,00,000 | ₹15,97,339 |  | + 166.22 %
 [TABLE END]
 Holdings (
-44
+40
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Aurobindo Pharma Ltd | Healthcare | Equity | 10.45%
-Tata Communications Ltd | Technology | Equity | 8.40%
-Lloyds Metals and Energy Ltd | Materials | Equity | 8.18%
-Repo | Unspecified | Repo | 7.85%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 6.00%
-Indus Towers Ltd | Technology | Equity | 5.95%
-Premier Energies Ltd. | Energy & Utilities | Equity | 5.20%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 5.09%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 4.77%
-Nippon Life India Asset Management Ltd | Financial | Equity | 4.61%
-Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 3.76%
-Godrej Properties Limited_29/09/2026 | Real Estate | Futures | 3.54%
-Linde India Ltd | Materials | Equity | 3.41%
-Adani Transmission Ltd | Energy & Utilities | Equity | 3.04%
-Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 2.93%
-JSW Infrastructure Ltd | Industrials | Equity | 2.87%
-COCHIN SHIPYARD LTD-29-Sep-2026 | Industrials | Futures | 2.03%
-Dixon Technologies (India) Ltd.29/09/2026 | Consumer Discretionary | Futures | 2.02%
-Ipca Laboratories Ltd | Healthcare | Equity | 1.96%
-Zydus Lifesciences Ltd | Healthcare | Equity | 1.82%
-Container Corporation Of India Ltd | Industrials | Equity | 1.80%
-Persistent Systems Ltd | Technology | Equity | 1.73%
-United Breweries Ltd | Consumer Staples | Equity | 1.21%
-Adani Wilmar Ltd | Consumer Staples | Equity | 1.19%
-ZYDUS LIFESCIENCES LTD-29-Sep-2026 | Healthcare | Futures | 1.16%
-Welspun Corp Ltd | Materials | Equity | 1.10%
-Cochin Shipyard Ltd | Industrials | Equity | 0.94%
-UPL Ltd | Materials | Equity | 0.81%
-TORRENT PHARMACEUTICALS LTD.-29-Sep-2026 | Healthcare | Futures | 0.68%
-UPL Ltd. 29.09.2026 | Materials | Futures | 0.56%
-Godrej Properties Ltd | Real Estate | Equity | 0.52%
-IDBI Bank Ltd | Financial | Equity | 0.51%
-GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.49%
-91 DAYS T-BILL - 24SEP2026 | Financial | Treasury Bills | 0.45%
-GOVERNMENT OF INDIA 37477 091 DAYS TBILL 03SP26 FV RS 100 | Financial | Treasury Bills | 0.43%
-91 Days Tbill (MD 17/09/2026) | Financial | Treasury Bills | 0.37%
-GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.37%
-GOVERNMENT OF INDIA 37490 091 DAYS TBILL 10SP26 FV RS 100 | Financial | Treasury Bills | 0.31%
-GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.31%
-Nippon Life India Asset Management Ltd. 29.09.2026 | Financial | Futures | 0.26%
-GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.25%
-GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.25%
-Reserve Bank of India 91-D | Financial | Treasury Bills | 0.25%
-Net Payables | Unspecified | Net Payables | -9.80%
+Aurobindo Pharma Ltd | Healthcare | Equity | 10.71%
+Repo | Unspecified | Repo | 9.46%
+Lloyds Metals and Energy Ltd | Materials | Equity | 9.04%
+Tata Communications Ltd | Technology | Equity | 8.49%
+Indus Towers Ltd | Technology | Equity | 6.01%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 5.70%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 5.09%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 5.03%
+Nippon Life India Asset Management Ltd | Financial | Equity | 4.67%
+Premier Energies Ltd. | Energy & Utilities | Equity | 4.59%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 4.04%
+Linde India Ltd | Materials | Equity | 3.55%
+Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 3.22%
+Zydus Lifesciences Ltd | Healthcare | Equity | 3.13%
+Godrej Properties Ltd Futures | Real Estate | Futures | 3.04%
+Adani Transmission Ltd | Energy & Utilities | Equity | 2.97%
+Cadila Healthcare Ltd Futures | Healthcare | Futures | 2.44%
+Ipca Laboratories Ltd | Healthcare | Equity | 2.01%
+Cochin Shipyard Ltd. | Industrials | Futures | 1.84%
+Persistent Systems Ltd | Technology | Equity | 1.72%
+Container Corporation Of India Ltd | Industrials | Equity | 1.65%
+Adani Wilmar Ltd | Consumer Staples | Equity | 1.15%
+United Breweries Ltd | Consumer Staples | Equity | 1.13%
+Welspun Corp Ltd | Materials | Equity | 1.09%
+Cochin Shipyard Ltd | Industrials | Equity | 0.86%
+TORRENT PHARMACEUTICALS LTD^ | Healthcare | Futures | 0.70%
+SONA BLW PRECISION FORGINGS LTD^ | Consumer Discretionary | Futures | 0.56%
+GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.52%
+91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.52%
+IDBI Bank Ltd | Financial | Equity | 0.47%
+91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 0.45%
+Godrej Properties Ltd | Real Estate | Equity | 0.44%
+GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.39%
+91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.39%
+91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.39%
+GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.32%
+GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.26%
+GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.26%
+Reserve Bank of India 91-D | Financial | Treasury Bills | 0.26%
+Net Payables | Unspecified | Net Payables | -8.56%
 [TABLE END]
 See All
 Minimum investments
@@ -163,8 +159,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.6% | +13.8% | +17.7% | +16.1%
-Category average ( Equity Mid Cap ) | +14.0% | +13.5% | +15.5% | +18.1%
+Fund returns | +10.4% | +13.9% | +17.8% | +16.1%
+Category average ( Equity Mid Cap ) | +14.9% | +13.7% | +15.6% | +18.2%
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
 Understand terms
@@ -193,11 +189,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | HSBC Midcap Fund Direct Growth | +12.74% | +21.62% | 16,799.59
- | Invesco India Mid Cap Fund Direct Growth | +4.12% | +21.28% | 15,779.54
- | WhiteOak Capital Mid Cap Fund Direct Growth | +8.28% | +19.73% | 7,485.36
- | Edelweiss Mid Cap Direct Plan Growth | +1.88% | +18.78% | 19,890.99
- | Nippon India Growth Mid Cap Fund Direct Growth | +2.97% | +16.37% | 50,176.01
+ | HSBC Midcap Fund Direct Growth | +13.55% | +22.55% | 16,799.59
+ | Invesco India Mid Cap Fund Direct Growth | +4.07% | +22.14% | 15,779.54
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +8.90% | +20.61% | 7,485.36
+ | Edelweiss Mid Cap Direct Plan Growth | +2.50% | +19.71% | 19,230.15
+ | Nippon India Growth Mid Cap Fund Direct Growth | +3.32% | +17.22% | 50,176.01
 Compare
 [TABLE END]
 Fund management
