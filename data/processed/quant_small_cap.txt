@@ -269,7 +269,7 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Small Cap Fund Direct Growth | +17.78% | +23.30% | 3,602.84
+ | ITI Small Cap Fund Direct Growth | +17.78% | +23.30% | 3,666.31
  | Bandhan Small Cap Fund Direct Growth | +9.64% | +23.05% | 34,176.02
  | Invesco India Small Cap Fund Direct Growth | +11.66% | +21.52% | 16,175.35
  | Sundaram Small Cap Fund Direct Growth | +11.26% | +15.48% | 4,106.98
