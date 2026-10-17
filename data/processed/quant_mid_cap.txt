@@ -66,7 +66,7 @@ Loan against securities and Personal loan
 +9.66
 %
 3Y annualised
-+0.13
+-0.21
 %
 1D
 1M
@@ -75,12 +75,12 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 15 Oct '26
-₹242.43
+NAV: 16 Oct '26
+₹241.92
 Min. for SIP
 ₹1,000
 Fund size (AUM)
-₹7,653.82 Cr
+₹7,653.83 Cr
 Expense ratio
 1.15%
 Rating
@@ -160,7 +160,7 @@ Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +9.7% | +13.6% | +18.0% | +16.2%
-Category average ( Equity Mid Cap ) | +14.9% | +13.7% | +15.6% | +18.2%
+Category average ( Equity Mid Cap ) | +14.3% | +13.3% | +15.8% | +18.2%
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
 Understand terms
@@ -190,9 +190,9 @@ Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
  | HSBC Midcap Fund Direct Growth | +11.75% | +21.43% | 16,799.59
- | Invesco India Mid Cap Fund Direct Growth | +1.77% | +21.36% | 15,748.82
- | WhiteOak Capital Mid Cap Fund Direct Growth | +7.46% | +20.03% | 8,399.70
- | Edelweiss Mid Cap Direct Plan Growth | +2.18% | +18.98% | 19,230.15
+ | Invesco India Mid Cap Fund Direct Growth | +1.77% | +21.36% | 15,748.83
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +7.46% | +20.03% | 8,399.71
+ | Edelweiss Mid Cap Direct Plan Growth | +2.18% | +18.98% | 19,230.16
  | Nippon India Growth Mid Cap Fund Direct Growth | +2.57% | +16.54% | 50,176.01
 Compare
 [TABLE END]
@@ -480,7 +480,7 @@ Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 15 Oct 2026 is ₹242.43.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 16 Oct 2026 is ₹241.92.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
