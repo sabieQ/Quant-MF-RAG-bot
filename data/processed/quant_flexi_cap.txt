@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+14.06
++14.07
 %
 3Y annualised
 -0.16
@@ -80,7 +80,7 @@ NAV: 16 Oct '26
 Min. for SIP
 ₹250
 Fund size (AUM)
-₹7,309.35 Cr
+₹7,309.34 Cr
 Expense ratio
 1.07%
 Rating
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,525 |  | + 2.54 %
-3 years | ₹1,80,000 | ₹1,95,658 |  | + 8.70 %
-5 years | ₹3,00,000 | ₹4,08,716 |  | + 36.24 %
-10 years | ₹6,00,000 | ₹16,39,592 |  | + 173.27 %
+1 year | ₹60,000 | ₹61,425 |  | + 2.38 %
+3 years | ₹1,80,000 | ₹1,95,325 |  | + 8.51 %
+5 years | ₹3,00,000 | ₹4,07,932 |  | + 35.98 %
+10 years | ₹6,00,000 | ₹16,36,100 |  | + 172.68 %
 [TABLE END]
 Holdings (
 44
@@ -163,8 +163,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +14.1% | +12.5% | +18.5% | +18.0%
-Category average ( Equity Flexi Cap ) | +11.0% | +9.5% | +13.2% | +14.0%
+Fund returns | +14.1% | +12.4% | +18.4% | +17.9%
+Category average ( Equity Flexi Cap ) | +11.2% | +9.5% | +13.2% | +14.0%
 Rank ( Equity Flexi Cap ) | 13 | -- | -- | --
 [TABLE END]
 Understand terms
@@ -195,11 +195,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Flexi Cap Fund Direct Growth | +9.35% | +17.98% | 1,588.28
- | Bank of India Flexi Cap Fund Direct Growth | +7.52% | +17.73% | 3,098.01
- | HDFC Flexi Cap Direct Plan Growth | -2.73% | +14.74% | 1,08,546.98
- | HSBC Flexi Cap Fund Direct Growth | +2.82% | +14.73% | 5,748.74
- | Franklin India Flexi Cap Fund Direct Growth | -6.54% | +9.54% | 18,188.24
+ | ITI Flexi Cap Fund Direct Growth | +9.04% | +18.00% | 1,588.27
+ | Bank of India Flexi Cap Fund Direct Growth | +7.81% | +17.89% | 3,098.01
+ | HDFC Flexi Cap Direct Plan Growth | -3.40% | +14.74% | 1,08,546.97
+ | HSBC Flexi Cap Fund Direct Growth | +2.31% | +14.71% | 5,748.73
+ | Franklin India Flexi Cap Fund Direct Growth | -6.92% | +9.63% | 18,188.24
 Compare
 [TABLE END]
 Fund management

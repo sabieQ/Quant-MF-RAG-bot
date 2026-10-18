@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+9.66
++9.52
 %
 3Y annualised
 -0.21
@@ -80,7 +80,7 @@ NAV: 16 Oct '26
 Min. for SIP
 ₹1,000
 Fund size (AUM)
-₹7,653.83 Cr
+₹7,653.82 Cr
 Expense ratio
 1.15%
 Rating
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,295 |  | + 2.16 %
-3 years | ₹1,80,000 | ₹1,84,606 |  | + 2.56 %
-5 years | ₹3,00,000 | ₹3,90,455 |  | + 30.15 %
-10 years | ₹6,00,000 | ₹16,15,309 |  | + 169.22 %
+1 year | ₹60,000 | ₹61,168 |  | + 1.95 %
+3 years | ₹1,80,000 | ₹1,84,233 |  | + 2.35 %
+5 years | ₹3,00,000 | ₹3,89,515 |  | + 29.84 %
+10 years | ₹6,00,000 | ₹16,11,012 |  | + 168.50 %
 [TABLE END]
 Holdings (
 40
@@ -159,8 +159,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.7% | +13.6% | +18.0% | +16.2%
-Category average ( Equity Mid Cap ) | +14.3% | +13.3% | +15.8% | +18.2%
+Fund returns | +9.5% | +13.5% | +18.0% | +16.2%
+Category average ( Equity Mid Cap ) | +14.2% | +13.2% | +15.7% | +18.2%
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
 Understand terms
@@ -189,11 +189,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | HSBC Midcap Fund Direct Growth | +11.75% | +21.43% | 16,799.59
- | Invesco India Mid Cap Fund Direct Growth | +1.77% | +21.36% | 15,748.83
- | WhiteOak Capital Mid Cap Fund Direct Growth | +7.46% | +20.03% | 8,399.71
- | Edelweiss Mid Cap Direct Plan Growth | +2.18% | +18.98% | 19,230.16
- | Nippon India Growth Mid Cap Fund Direct Growth | +2.57% | +16.54% | 50,176.01
+ | HSBC Midcap Fund Direct Growth | +11.67% | +21.30% | 16,799.59
+ | Invesco India Mid Cap Fund Direct Growth | +0.95% | +21.20% | 15,748.82
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +7.16% | +19.83% | 8,399.70
+ | Edelweiss Mid Cap Direct Plan Growth | +1.50% | +18.92% | 19,230.15
+ | Nippon India Growth Mid Cap Fund Direct Growth | +1.76% | +16.36% | 50,176.01
 Compare
 [TABLE END]
 Fund management
