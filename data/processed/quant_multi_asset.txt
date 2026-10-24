@@ -184,7 +184,7 @@ Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +21.0% | +17.9% | +18.2% | +15.4%
-Category average ( Hybrid Multi Asset Allocation ) | +13.9% | +11.7% | +11.9% | +11.7%
+Category average ( Hybrid Multi Asset Allocation ) | +13.4% | +11.6% | +11.8% | +11.6%
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
 Understand terms
@@ -214,10 +214,10 @@ Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
  | Quant Multi Asset Allocation Fund Direct Growth | +8.54% | +21.04% | 6,608.27
- | Nippon India Multi Asset Allocation Fund Direct Growth | +3.22% | +17.52% | 18,044.33
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +5.71% | +15.87% | 9,717.16
- | SBI Multi Asset Allocation Fund Direct Growth | +3.36% | +13.51% | 21,044.19
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | -2.88% | +12.71% | 84,108.36
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +2.53% | +17.25% | 18,044.33
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +5.21% | +15.69% | 9,717.16
+ | SBI Multi Asset Allocation Fund Direct Growth | +2.86% | +13.32% | 21,044.19
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | -3.47% | +12.46% | 84,108.36
 Compare
 [TABLE END]
 Fund management
@@ -584,7 +584,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.0
+8.1.1
 Share Market
 Indices
 F&O

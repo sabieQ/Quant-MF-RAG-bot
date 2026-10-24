@@ -66,7 +66,7 @@ Loan against securities and Personal loan
 +9.01
 %
 3Y annualised
--0.26
+-2.10
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 22 Oct '26
-₹233.70
+NAV: 23 Oct '26
+₹228.79
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -160,7 +160,7 @@ Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +9.0% | +13.6% | +17.4% | +15.9%
-Category average ( Equity Mid Cap ) | +14.0% | +13.2% | +15.6% | +18.1%
+Category average ( Equity Mid Cap ) | +13.4% | +13.3% | +15.2% | +17.9%
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
 Understand terms
@@ -480,7 +480,7 @@ Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 22 Oct 2026 is ₹233.70.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 23 Oct 2026 is ₹228.79.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
@@ -560,7 +560,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.0
+8.1.1
 Share Market
 Indices
 F&O
