@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+13.44
++13.87
 %
 3Y annualised
 -2.11
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹59,650 |  | -0.58 %
-3 years | ₹1,80,000 | ₹1,89,236 |  | + 5.13 %
-5 years | ₹3,00,000 | ₹3,94,521 |  | + 31.51 %
-10 years | ₹6,00,000 | ₹15,80,414 |  | + 163.40 %
+1 year | ₹60,000 | ₹58,531 |  | -2.45 %
+3 years | ₹1,80,000 | ₹1,85,355 |  | + 2.97 %
+5 years | ₹3,00,000 | ₹3,86,240 |  | + 28.75 %
+10 years | ₹6,00,000 | ₹15,46,290 |  | + 157.72 %
 [TABLE END]
 Holdings (
 44
@@ -163,9 +163,9 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +13.4% | +12.9% | +18.0% | +17.7%
-Category average ( Equity Flexi Cap ) | +10.4% | +9.4% | +12.8% | +13.8%
-Rank ( Equity Flexi Cap ) | 14 | -- | -- | --
+Fund returns | +13.9% | +12.4% | +17.8% | +17.5%
+Category average ( Equity Flexi Cap ) | +10.6% | +9.1% | +12.6% | +13.7%
+Rank ( Equity Flexi Cap ) | 13 | -- | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -195,11 +195,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bank of India Flexi Cap Fund Direct Growth | +3.26% | +17.05% | 3,098.01
- | ITI Flexi Cap Fund Direct Growth | +4.85% | +16.67% | 1,588.28
- | HDFC Flexi Cap Direct Plan Growth | -5.96% | +14.05% | 1,08,546.98
- | HSBC Flexi Cap Fund Direct Growth | -1.83% | +13.72% | 5,748.74
- | Franklin India Flexi Cap Fund Direct Growth | -9.65% | +9.05% | 18,188.24
+ | Bank of India Flexi Cap Fund Direct Growth | +0.88% | +17.37% | 3,098.01
+ | ITI Flexi Cap Fund Direct Growth | +3.37% | +17.20% | 1,588.28
+ | HDFC Flexi Cap Direct Plan Growth | -6.76% | +14.38% | 1,08,546.98
+ | HSBC Flexi Cap Fund Direct Growth | -4.01% | +13.71% | 5,748.74
+ | Franklin India Flexi Cap Fund Direct Growth | -10.52% | +9.43% | 18,188.24
 Compare
 [TABLE END]
 Fund management

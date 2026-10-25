@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.68
++16.41
 %
 3Y annualised
 -2.38
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹63,543 |  | + 5.91 %
-3 years | ₹1,80,000 | ₹2,01,572 |  | + 11.98 %
-5 years | ₹3,00,000 | ₹4,44,930 |  | + 48.31 %
-10 years | ₹6,00,000 | ₹21,53,893 |  | + 258.98 %
+1 year | ₹60,000 | ₹62,180 |  | + 3.63 %
+3 years | ₹1,80,000 | ₹1,96,910 |  | + 9.39 %
+5 years | ₹3,00,000 | ₹4,34,342 |  | + 44.78 %
+10 years | ₹6,00,000 | ₹21,01,593 |  | + 250.27 %
 [TABLE END]
 Holdings (
 122
@@ -241,8 +241,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +15.7% | +17.1% | +20.1% | +17.1%
-Category average ( Equity Small Cap ) | +12.9% | +14.4% | +16.6% | +19.6%
+Fund returns | +16.4% | +16.5% | +19.8% | +16.9%
+Category average ( Equity Small Cap ) | +13.3% | +13.8% | +16.3% | +19.4%
 Rank ( Equity Small Cap ) | 6 | 4 | -- | --
 [TABLE END]
 Understand terms
@@ -269,11 +269,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +5.16% | +21.31% | 35,855.60
- | ITI Small Cap Fund Direct Growth | +10.28% | +20.19% | 3,666.32
- | Invesco India Small Cap Fund Direct Growth | +5.55% | +19.19% | 16,130.64
- | Sundaram Small Cap Fund Direct Growth | +5.23% | +13.27% | 4,106.99
- | Nippon India Small Cap Fund Direct Growth | +1.58% | +12.23% | 80,905.55
+ | Bandhan Small Cap Fund Direct Growth | +2.32% | +22.08% | 35,855.60
+ | ITI Small Cap Fund Direct Growth | +7.49% | +20.56% | 3,666.32
+ | Invesco India Small Cap Fund Direct Growth | +2.88% | +19.44% | 16,130.64
+ | Sundaram Small Cap Fund Direct Growth | +2.24% | +13.69% | 4,106.99
+ | Nippon India Small Cap Fund Direct Growth | -1.40% | +12.61% | 80,905.55
 Compare
 [TABLE END]
 Fund management

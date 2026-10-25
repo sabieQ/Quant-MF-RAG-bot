@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+9.01
++9.21
 %
 3Y annualised
 -2.10
@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹59,276 |  | -1.21 %
-3 years | ₹1,80,000 | ₹1,78,143 |  | -1.03 %
-5 years | ₹3,00,000 | ₹3,75,931 |  | + 25.31 %
-10 years | ₹6,00,000 | ₹15,52,062 |  | + 158.68 %
+1 year | ₹60,000 | ₹58,174 |  | -3.04 %
+3 years | ₹1,80,000 | ₹1,74,569 |  | -3.02 %
+5 years | ₹3,00,000 | ₹3,68,097 |  | + 22.70 %
+10 years | ₹6,00,000 | ₹15,19,373 |  | + 153.23 %
 [TABLE END]
 Holdings (
 40
@@ -159,8 +159,8 @@ Annualised returns
 Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.0% | +13.6% | +17.4% | +15.9%
-Category average ( Equity Mid Cap ) | +13.4% | +13.3% | +15.2% | +17.9%
+Fund returns | +9.2% | +13.1% | +17.2% | +15.7%
+Category average ( Equity Mid Cap ) | +13.6% | +12.9% | +15.0% | +17.7%
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
 Understand terms
@@ -189,11 +189,11 @@ Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Invesco India Mid Cap Fund Direct Growth | -2.24% | +20.27% | 15,748.83
- | HSBC Midcap Fund Direct Growth | +7.51% | +20.15% | 16,799.59
- | WhiteOak Capital Mid Cap Fund Direct Growth | +3.44% | +19.02% | 8,399.71
- | Edelweiss Mid Cap Direct Plan Growth | -1.82% | +18.16% | 19,230.16
- | Nippon India Growth Mid Cap Fund Direct Growth | -1.50% | +15.46% | 50,176.01
+ | Invesco India Mid Cap Fund Direct Growth | -4.01% | +20.34% | 15,748.83
+ | HSBC Midcap Fund Direct Growth | +6.26% | +20.19% | 16,799.59
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +1.49% | +19.16% | 8,399.71
+ | Edelweiss Mid Cap Direct Plan Growth | -3.68% | +18.17% | 19,230.16
+ | Nippon India Growth Mid Cap Fund Direct Growth | -3.33% | +15.63% | 50,176.01
 Compare
 [TABLE END]
 Fund management
