@@ -90,10 +90,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹60,556 |  | + 0.93 %
-3 years | ₹1,80,000 | ₹2,14,609 |  | + 19.23 %
-5 years | ₹3,00,000 | ₹4,56,617 |  | + 52.21 %
-10 years | ₹6,00,000 | ₹17,93,297 |  | + 198.88 %
+1 year | ₹60,000 | ₹59,994 |  | -0.01 %
+3 years | ₹1,80,000 | ₹2,12,374 |  | + 17.99 %
+5 years | ₹3,00,000 | ₹4,51,759 |  | + 50.59 %
+10 years | ₹6,00,000 | ₹17,74,256 |  | + 195.71 %
 [TABLE END]
 Holdings (
 64
