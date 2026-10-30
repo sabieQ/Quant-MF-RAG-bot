@@ -63,20 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+21.47
++21.26
 %
 3Y annualised
-+0.48
+-0.48
 %
 1D
-1M
-6M
-1Y
-3Y
-5Y
-All
-NAV: 28 Oct '26
-₹175.99
+NAV: 29 Oct '26
+₹177.11
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -90,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹60,747 |  | + 1.24 %
-3 years | ₹1,80,000 | ₹2,15,081 |  | + 19.49 %
-5 years | ₹3,00,000 | ₹4,57,377 |  | + 52.46 %
-10 years | ₹6,00,000 | ₹17,96,170 |  | + 199.36 %
+1 year | ₹60,000 | ₹60,493 |  | + 0.82 %
+3 years | ₹1,80,000 | ₹2,14,019 |  | + 18.90 %
+5 years | ₹3,00,000 | ₹4,55,101 |  | + 51.70 %
+10 years | ₹6,00,000 | ₹17,86,609 |  | + 197.77 %
 [TABLE END]
 Holdings (
 64
@@ -165,7 +159,6 @@ Larsen & Toubro Ltd Futures | Industrials | Futures | -1.47%
 HDFC Bank Ltd Futures | Financial | Futures | -2.08%
 ICICI Bank Ltd Futures | Financial | Futures | -5.23%
 [TABLE END]
-See All
 Minimum investments
 Min. for 1st investment
 ₹5,000
@@ -179,11 +172,9 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +21.5% | +17.8% | +18.2% | +15.4%
+Fund returns | +21.3% | +18.1% | +18.2% | +15.4%
 Category average ( Hybrid Multi Asset Allocation ) | +13.4% | +11.4% | +11.7% | +11.5%
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -209,23 +200,17 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.
-Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +8.96% | +21.47% | 6,608.27
- | Nippon India Multi Asset Allocation Fund Direct Growth | +3.13% | +17.79% | 18,044.33
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +5.96% | +16.03% | 9,717.16
- | SBI Multi Asset Allocation Fund Direct Growth | +2.27% | +13.63% | 21,044.19
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | -3.80% | +12.71% | 84,108.36
+ | Quant Multi Asset Allocation Fund Direct Growth | +8.70% | +21.26% | 6,608.27
+ | Nippon India Multi Asset Allocation Fund Direct Growth | +3.52% | +17.77% | 18,044.33
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +6.06% | +15.99% | 9,717.16
+ | SBI Multi Asset Allocation Fund Direct Growth | +2.77% | +13.72% | 21,044.19
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | -3.45% | +12.75% | 84,108.36
 Compare
 [TABLE END]
 Fund management
-VP
-Varun Pattani
-Feb 2025
-- Present
-View details
 Education
 Mr. Pattani is an ACA
 Experience
@@ -257,11 +242,6 @@ Quant Consumption Fund Direct Growth
 Quant PSU Fund Direct Growth
 Quant Equity Savings Fund Direct Growth
 Quant Income Plus Arbitrage Active FoF Direct Growth
-AK
-Ayusha Kumbhat
-Feb 2025
-- Present
-View details
 Education
 CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics
 Experience
@@ -292,11 +272,6 @@ Quant Commodities Fund Direct Growth
 Quant Consumption Fund Direct Growth
 Quant PSU Fund Direct Growth
 Quant Equity Savings Fund Direct Growth
-SK
-Sameer Kate
-Feb 2025
-- Present
-View details
 Education
 Bachelor of Computer Science, MBA from IME Pune.
 Experience
@@ -337,11 +312,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-SS
-Sanjeev Sharma
-Oct 2019
-- Present
-View details
 Education
 Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.
 Experience
@@ -385,11 +355,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-ST
-Sandeep Tandon
-Apr 2022
-- Present
-View details
 Education
 Mr. Tandon has done MBA (Finance)
 Experience
@@ -424,11 +389,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-AAP
-Ankit A Pande
-May 2020
-- Present
-View details
 Education
 Mr. Pande has done CFA and MBA
 Experience
@@ -464,11 +424,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-YT
-Yug Tibrewal
-Mar 2025
-- Present
-View details
 Education
 B.M.S, CFA L1
 Experience
@@ -504,7 +459,7 @@ Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 About
 Quant Multi Asset Allocation Fund Direct Growth
-Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 28 Oct 2026 is ₹175.99.
+Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 29 Oct 2026 is ₹177.11.
 The Quant Multi Asset Allocation Fund Direct Growth is rated High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -584,7 +539,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O

@@ -63,20 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+14.39
++14.84
 %
 3Y annualised
--0.33
++1.23
 %
 1D
-1M
-6M
-1Y
-3Y
-5Y
-All
-NAV: 28 Oct '26
-₹438.84
+NAV: 29 Oct '26
+₹444.21
 Min. for SIP
 ₹500
 Fund size (AUM)
@@ -90,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,065 |  | + 1.77 %
-3 years | ₹1,80,000 | ₹1,94,799 |  | + 8.22 %
-5 years | ₹3,00,000 | ₹3,99,683 |  | + 33.23 %
-10 years | ₹6,00,000 | ₹17,04,663 |  | + 184.11 %
+1 year | ₹60,000 | ₹61,703 |  | + 2.84 %
+3 years | ₹1,80,000 | ₹1,97,049 |  | + 9.47 %
+5 years | ₹3,00,000 | ₹4,04,322 |  | + 34.77 %
+10 years | ₹6,00,000 | ₹17,24,785 |  | + 187.46 %
 [TABLE END]
 Holdings (
 35
@@ -136,7 +130,6 @@ Indiabulls Real Estate Ltd | Real Estate | Equity | 0.23%
 Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.22%
 Net Current Assets | Unspecified | Net Current Assets | 0.16%
 [TABLE END]
-See All
 Minimum investments
 Min. for 1st investment
 ₹500
@@ -150,11 +143,9 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +14.4% | +13.9% | +19.1% | +19.1%
+Fund returns | +14.8% | +14.2% | +19.2% | +19.2%
 Category average ( Equity ELSS ) | +10.1% | +8.9% | +12.4% | +16.7%
 Rank ( Equity ELSS ) | 5 | 2 | 1 | --
 [TABLE END]
@@ -178,13 +169,7 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
-Check past data
 Fund management
-VP
-Varun Pattani
-Feb 2025
-- Present
-View details
 Education
 Mr. Pattani is an ACA
 Experience
@@ -216,11 +201,6 @@ Quant Consumption Fund Direct Growth
 Quant PSU Fund Direct Growth
 Quant Equity Savings Fund Direct Growth
 Quant Income Plus Arbitrage Active FoF Direct Growth
-AK
-Ayusha Kumbhat
-Feb 2025
-- Present
-View details
 Education
 CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics
 Experience
@@ -251,11 +231,6 @@ Quant Commodities Fund Direct Growth
 Quant Consumption Fund Direct Growth
 Quant PSU Fund Direct Growth
 Quant Equity Savings Fund Direct Growth
-SK
-Sameer Kate
-Mar 2025
-- Present
-View details
 Education
 Bachelor of Computer Science, MBA from IME Pune.
 Experience
@@ -296,11 +271,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-SS
-Sanjeev Sharma
-Feb 2025
-- Present
-View details
 Education
 Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.
 Experience
@@ -344,11 +314,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-ST
-Sandeep Tandon
-Feb 2025
-- Present
-View details
 Education
 Mr. Tandon has done MBA (Finance)
 Experience
@@ -383,11 +348,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-AAP
-Ankit A Pande
-May 2020
-- Present
-View details
 Education
 Mr. Pande has done CFA and MBA
 Experience
@@ -423,11 +383,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-YT
-Yug Tibrewal
-Mar 2025
-- Present
-View details
 Education
 B.M.S, CFA L1
 Experience
@@ -463,7 +418,7 @@ Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 About
 Quant ELSS Tax Saver Fund Direct Growth
-Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 28 Oct 2026 is ₹438.84.
+Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 29 Oct 2026 is ₹444.21.
 The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ;
 Investment Objective
@@ -543,7 +498,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O

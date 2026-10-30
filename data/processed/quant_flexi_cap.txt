@@ -63,26 +63,20 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+14.61
++15.14
 %
 3Y annualised
--0.27
++1.42
 %
 1D
-1M
-6M
-1Y
-3Y
-5Y
-All
-NAV: 28 Oct '26
-₹113.58
+NAV: 29 Oct '26
+₹115.19
 Min. for SIP
 ₹250
 Fund size (AUM)
 ₹7,309.35 Cr
 Expense ratio
-1.13%
+1.12%
 Rating
 4
 Return calculator
@@ -90,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹60,236 |  | + 0.39 %
-3 years | ₹1,80,000 | ₹1,91,142 |  | + 6.19 %
-5 years | ₹3,00,000 | ₹3,98,147 |  | + 32.72 %
-10 years | ₹6,00,000 | ₹15,93,091 |  | + 165.52 %
+1 year | ₹60,000 | ₹60,967 |  | + 1.61 %
+3 years | ₹1,80,000 | ₹1,93,694 |  | + 7.61 %
+5 years | ₹3,00,000 | ₹4,03,545 |  | + 34.52 %
+10 years | ₹6,00,000 | ₹16,15,309 |  | + 169.22 %
 [TABLE END]
 Holdings (
 44
@@ -145,7 +139,6 @@ GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury
 GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.20%
 Net Payables | Unspecified | Net Payables | -15.66%
 [TABLE END]
-See All
 Minimum investments
 Min. for 1st investment
 ₹5,000
@@ -159,11 +152,9 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +14.6% | +13.4% | +18.1% | +17.7%
+Fund returns | +15.1% | +13.6% | +18.3% | +17.9%
 Category average ( Equity Flexi Cap ) | +10.6% | +9.1% | +12.6% | +13.7%
 Rank ( Equity Flexi Cap ) | 13 | -- | -- | --
 [TABLE END]
@@ -191,23 +182,17 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
-Check past data
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Flexi Cap Fund Direct Growth | +5.98% | +18.17% | 1,588.28
- | Bank of India Flexi Cap Fund Direct Growth | +2.09% | +18.16% | 3,098.01
- | HDFC Flexi Cap Direct Plan Growth | -4.97% | +15.48% | 1,08,546.98
- | HSBC Flexi Cap Fund Direct Growth | -1.71% | +14.90% | 5,748.74
- | Franklin India Flexi Cap Fund Direct Growth | -9.90% | +10.08% | 18,188.24
+ | Bank of India Flexi Cap Fund Direct Growth | +3.07% | +18.63% | 3,098.01
+ | ITI Flexi Cap Fund Direct Growth | +6.52% | +18.52% | 1,588.28
+ | HDFC Flexi Cap Direct Plan Growth | -4.80% | +15.72% | 1,08,546.98
+ | HSBC Flexi Cap Fund Direct Growth | -0.90% | +15.29% | 5,748.74
+ | Franklin India Flexi Cap Fund Direct Growth | -9.42% | +10.44% | 18,188.24
 Compare
 [TABLE END]
 Fund management
-VP
-Varun Pattani
-Feb 2025
-- Present
-View details
 Education
 Mr. Pattani is an ACA
 Experience
@@ -239,11 +224,6 @@ Quant Consumption Fund Direct Growth
 Quant PSU Fund Direct Growth
 Quant Equity Savings Fund Direct Growth
 Quant Income Plus Arbitrage Active FoF Direct Growth
-AK
-Ayusha Kumbhat
-Feb 2025
-- Present
-View details
 Education
 CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics
 Experience
@@ -274,11 +254,6 @@ Quant Commodities Fund Direct Growth
 Quant Consumption Fund Direct Growth
 Quant PSU Fund Direct Growth
 Quant Equity Savings Fund Direct Growth
-SK
-Sameer Kate
-Mar 2025
-- Present
-View details
 Education
 Bachelor of Computer Science, MBA from IME Pune.
 Experience
@@ -319,11 +294,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-SS
-Sanjeev Sharma
-Oct 2019
-- Present
-View details
 Education
 Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.
 Experience
@@ -367,11 +337,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-ST
-Sandeep Tandon
-Jan 2022
-- Present
-View details
 Education
 Mr. Tandon has done MBA (Finance)
 Experience
@@ -406,11 +371,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-AAP
-Ankit A Pande
-May 2020
-- Present
-View details
 Education
 Mr. Pande has done CFA and MBA
 Experience
@@ -446,11 +406,6 @@ qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
 qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
-YT
-Yug Tibrewal
-Mar 2025
-- Present
-View details
 Education
 B.M.S, CFA L1
 Experience
@@ -484,11 +439,6 @@ Quant Arbitrage Fund Direct Growth
 Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
-JS
-Jignesh Shah
-Feb 2026
-- Present
-View details
 Education
 Graduate - Sydenham College of Commerce and Economics, Mumbai, CFA - ICFAI
 Experience
@@ -509,7 +459,7 @@ qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
 About
 Quant Flexi Cap Fund Direct Growth
-Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 28 Oct 2026 is ₹113.58.
+Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 29 Oct 2026 is ₹115.19.
 The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -589,7 +539,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O
