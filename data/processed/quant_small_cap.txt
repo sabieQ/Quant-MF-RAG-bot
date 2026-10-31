@@ -66,11 +66,11 @@ Loan against securities and Personal loan
 +16.95
 %
 3Y annualised
-+0.66
+-1.97
 %
 1D
-NAV: 29 Oct '26
-₹303.71
+NAV: 30 Oct '26
+₹297.72
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -233,7 +233,7 @@ Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +16.9% | +17.6% | +20.2% | +17.1%
-Category average ( Equity Small Cap ) | +13.3% | +13.8% | +16.3% | +19.4%
+Category average ( Equity Small Cap ) | +14.6% | +14.9% | +16.8% | +19.7%
 Rank ( Equity Small Cap ) | 9 | 4 | -- | --
 [TABLE END]
 Understand terms
@@ -515,7 +515,7 @@ Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 29 Oct 2026 is ₹303.71.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 30 Oct 2026 is ₹297.72.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
