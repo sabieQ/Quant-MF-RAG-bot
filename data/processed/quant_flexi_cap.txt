@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.14
++14.81
 %
 3Y annualised
 -0.40
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹60,967 |  | + 1.61 %
-3 years | ₹1,80,000 | ₹1,93,694 |  | + 7.61 %
-5 years | ₹3,00,000 | ₹4,03,545 |  | + 34.52 %
-10 years | ₹6,00,000 | ₹16,15,309 |  | + 169.22 %
+1 year | ₹60,000 | ₹60,753 |  | + 1.26 %
+3 years | ₹1,80,000 | ₹1,92,924 |  | + 7.18 %
+5 years | ₹3,00,000 | ₹4,01,803 |  | + 33.93 %
+10 years | ₹6,00,000 | ₹16,07,583 |  | + 167.93 %
 [TABLE END]
 Holdings (
 44
@@ -154,8 +154,8 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +15.1% | +13.6% | +18.3% | +17.9%
-Category average ( Equity Flexi Cap ) | +11.8% | +9.9% | +13.0% | +13.9%
+Fund returns | +14.8% | +13.5% | +18.3% | +17.8%
+Category average ( Equity Flexi Cap ) | +11.6% | +9.8% | +12.9% | +13.9%
 Rank ( Equity Flexi Cap ) | 14 | -- | -- | --
 [TABLE END]
 Understand terms
@@ -185,11 +185,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bank of India Flexi Cap Fund Direct Growth | +3.07% | +18.63% | 3,098.01
- | ITI Flexi Cap Fund Direct Growth | +6.52% | +18.52% | 1,588.28
- | HDFC Flexi Cap Direct Plan Growth | -4.80% | +15.72% | 1,08,546.98
- | HSBC Flexi Cap Fund Direct Growth | -0.90% | +15.29% | 5,748.74
- | Franklin India Flexi Cap Fund Direct Growth | -9.42% | +10.44% | 18,188.24
+ | ITI Flexi Cap Fund Direct Growth | +6.93% | +18.29% | 1,588.28
+ | Bank of India Flexi Cap Fund Direct Growth | +2.37% | +18.11% | 3,098.01
+ | HDFC Flexi Cap Direct Plan Growth | -3.47% | +15.79% | 1,08,546.98
+ | HSBC Flexi Cap Fund Direct Growth | -1.06% | +14.85% | 5,748.74
+ | Franklin India Flexi Cap Fund Direct Growth | -8.33% | +10.47% | 18,188.24
 Compare
 [TABLE END]
 Fund management

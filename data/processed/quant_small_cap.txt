@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.95
++16.09
 %
 3Y annualised
 -1.97
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹63,641 |  | + 6.07 %
-3 years | ₹1,80,000 | ₹2,02,082 |  | + 12.27 %
-5 years | ₹3,00,000 | ₹4,45,460 |  | + 48.49 %
-10 years | ₹6,00,000 | ₹21,52,743 |  | + 258.79 %
+1 year | ₹60,000 | ₹62,543 |  | + 4.24 %
+3 years | ₹1,80,000 | ₹1,98,250 |  | + 10.14 %
+5 years | ₹3,00,000 | ₹4,36,733 |  | + 45.58 %
+10 years | ₹6,00,000 | ₹21,10,596 |  | + 251.77 %
 [TABLE END]
 Holdings (
 122
@@ -232,9 +232,9 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.9% | +17.6% | +20.2% | +17.1%
-Category average ( Equity Small Cap ) | +14.6% | +14.9% | +16.8% | +19.7%
-Rank ( Equity Small Cap ) | 9 | 4 | -- | --
+Fund returns | +16.1% | +17.1% | +19.9% | +17.0%
+Category average ( Equity Small Cap ) | +13.9% | +14.5% | +16.6% | +19.6%
+Rank ( Equity Small Cap ) | 9 | 5 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -259,11 +259,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +2.47% | +22.53% | 35,855.60
- | ITI Small Cap Fund Direct Growth | +12.66% | +22.52% | 3,666.32
- | Invesco India Small Cap Fund Direct Growth | +6.93% | +20.65% | 16,130.64
- | Sundaram Small Cap Fund Direct Growth | +5.13% | +14.82% | 4,106.99
- | Nippon India Small Cap Fund Direct Growth | +1.35% | +13.68% | 80,905.55
+ | ITI Small Cap Fund Direct Growth | +11.57% | +21.97% | 3,666.32
+ | Bandhan Small Cap Fund Direct Growth | +1.22% | +21.58% | 35,855.60
+ | Invesco India Small Cap Fund Direct Growth | +7.22% | +20.26% | 16,130.64
+ | Sundaram Small Cap Fund Direct Growth | +3.17% | +14.05% | 4,106.99
+ | Nippon India Small Cap Fund Direct Growth | +0.28% | +12.95% | 80,905.55
 Compare
 [TABLE END]
 Fund management

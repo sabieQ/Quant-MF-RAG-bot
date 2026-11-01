@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+10.47
++10.20
 %
 3Y annualised
 -0.43
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹60,066 |  | + 0.11 %
-3 years | ₹1,80,000 | ₹1,80,710 |  | + 0.39 %
-5 years | ₹3,00,000 | ₹3,80,778 |  | + 26.93 %
-10 years | ₹6,00,000 | ₹15,70,348 |  | + 161.72 %
+1 year | ₹60,000 | ₹59,846 |  | -0.26 %
+3 years | ₹1,80,000 | ₹1,79,974 |  | -0.01 %
+5 years | ₹3,00,000 | ₹3,79,125 |  | + 26.38 %
+10 years | ₹6,00,000 | ₹15,62,841 |  | + 160.47 %
 [TABLE END]
 Holdings (
 40
@@ -150,8 +150,8 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +10.5% | +14.4% | +17.6% | +16.0%
-Category average ( Equity Mid Cap ) | +14.9% | +13.9% | +15.4% | +18.0%
+Fund returns | +10.2% | +14.3% | +17.6% | +15.9%
+Category average ( Equity Mid Cap ) | +14.5% | +13.6% | +15.3% | +17.9%
 Rank ( Equity Mid Cap ) | 35 | 11 | -- | --
 [TABLE END]
 Understand terms
@@ -179,11 +179,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | HSBC Midcap Fund Direct Growth | +10.90% | +22.13% | 16,799.59
- | Invesco India Mid Cap Fund Direct Growth | -0.14% | +21.96% | 15,748.83
- | WhiteOak Capital Mid Cap Fund Direct Growth | +4.52% | +20.63% | 8,399.71
- | Edelweiss Mid Cap Direct Plan Growth | -1.08% | +19.23% | 19,230.16
- | Nippon India Growth Mid Cap Fund Direct Growth | -1.06% | +16.79% | 50,176.01
+ | Invesco India Mid Cap Fund Direct Growth | +0.32% | +21.88% | 15,748.83
+ | HSBC Midcap Fund Direct Growth | +10.54% | +21.56% | 16,799.59
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +4.25% | +20.27% | 8,399.71
+ | Edelweiss Mid Cap Direct Plan Growth | -1.67% | +18.90% | 19,230.16
+ | Nippon India Growth Mid Cap Fund Direct Growth | -1.19% | +16.40% | 50,176.01
 Compare
 [TABLE END]
 Fund management
