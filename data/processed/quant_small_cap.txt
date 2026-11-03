@@ -63,14 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.09
++16.11
 %
 3Y annualised
--1.97
++0.94
 %
 1D
-NAV: 30 Oct '26
-₹297.72
+NAV: 02 Nov '26
+₹300.51
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -259,11 +259,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Small Cap Fund Direct Growth | +11.57% | +21.97% | 3,666.32
- | Bandhan Small Cap Fund Direct Growth | +1.22% | +21.58% | 35,855.60
- | Invesco India Small Cap Fund Direct Growth | +7.22% | +20.26% | 16,130.64
- | Sundaram Small Cap Fund Direct Growth | +3.17% | +14.05% | 4,106.99
- | Nippon India Small Cap Fund Direct Growth | +0.28% | +12.95% | 80,905.55
+ | Bandhan Small Cap Fund Direct Growth | +2.57% | +21.96% | 35,855.60
+ | ITI Small Cap Fund Direct Growth | +12.22% | +21.79% | 3,666.32
+ | Invesco India Small Cap Fund Direct Growth | +8.66% | +20.12% | 16,130.64
+ | Sundaram Small Cap Fund Direct Growth | +3.99% | +13.92% | 4,106.99
+ | Nippon India Small Cap Fund Direct Growth | +1.69% | +13.18% | 80,905.55
 Compare
 [TABLE END]
 Fund management
@@ -515,7 +515,7 @@ Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 30 Oct 2026 is ₹297.72.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 02 Nov 2026 is ₹300.51.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
