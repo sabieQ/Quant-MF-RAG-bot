@@ -63,14 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+14.75
++15.23
 %
 3Y annualised
-+0.96
++1.20
 %
 1D
-NAV: 03 Nov '26
-₹454.37
+NAV: 04 Nov '26
+₹459.81
 Min. for SIP
 ₹500
 Fund size (AUM)
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹62,516 |  | + 4.19 %
-3 years | ₹1,80,000 | ₹1,97,887 |  | + 9.94 %
-5 years | ₹3,00,000 | ₹4,08,422 |  | + 36.14 %
-10 years | ₹6,00,000 | ₹17,47,011 |  | + 191.17 %
+1 year | ₹60,000 | ₹63,819 |  | + 6.37 %
+3 years | ₹1,80,000 | ₹2,02,082 |  | + 12.27 %
+5 years | ₹3,00,000 | ₹4,17,035 |  | + 39.01 %
+10 years | ₹6,00,000 | ₹17,82,799 |  | + 197.13 %
 [TABLE END]
 Holdings (
 35
@@ -145,7 +145,7 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +14.8% | +13.8% | +19.4% | +19.3%
+Fund returns | +15.2% | +14.2% | +19.9% | +19.5%
 Category average ( Equity ELSS ) | +11.3% | +9.6% | +13.1% | +16.9%
 Rank ( Equity ELSS ) | 5 | 2 | 1 | --
 [TABLE END]
@@ -266,6 +266,7 @@ Quant Income Plus Arbitrage Active FoF Direct Growth
 Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
+Quant Silver ETF FoF Direct Growth
 qsif Equity Long Short Fund Direct Plan Growth
 qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
@@ -309,6 +310,7 @@ Quant Income Plus Arbitrage Active FoF Direct Growth
 Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
+Quant Silver ETF FoF Direct Growth
 qsif Equity Long Short Fund Direct Plan Growth
 qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
@@ -416,9 +418,10 @@ Quant Arbitrage Fund Direct Growth
 Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
+Quant Silver ETF FoF Direct Growth
 About
 Quant ELSS Tax Saver Fund Direct Growth
-Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 03 Nov 2026 is ₹454.37.
+Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 04 Nov 2026 is ₹459.81.
 The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ;
 Investment Objective
