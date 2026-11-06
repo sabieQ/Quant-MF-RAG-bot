@@ -66,11 +66,11 @@ Loan against securities and Personal loan
 +15.74
 %
 3Y annualised
-+1.37
++1.83
 %
 1D
-NAV: 04 Nov '26
-₹119.39
+NAV: 05 Nov '26
+₹121.58
 Min. for SIP
 ₹250
 Fund size (AUM)
@@ -155,8 +155,8 @@ Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.7% | +14.2% | +19.2% | +18.1%
-Category average ( Equity Flexi Cap ) | +11.9% | +9.8% | +13.2% | +13.9%
-Rank ( Equity Flexi Cap ) | 13 | -- | -- | --
+Category average ( Equity Flexi Cap ) | +12.5% | +10.3% | +13.7% | +14.1%
+Rank ( Equity Flexi Cap ) | 14 | -- | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -462,7 +462,7 @@ qsif Active Asset Allocator Long Short Fund Direct Growth
 qsif Sector Rotation Long Short Fund Direct Growth
 About
 Quant Flexi Cap Fund Direct Growth
-Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 04 Nov 2026 is ₹119.39.
+Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 05 Nov 2026 is ₹121.58.
 The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
