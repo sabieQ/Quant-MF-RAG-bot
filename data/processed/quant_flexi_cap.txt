@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.42
++16.02
 %
 3Y annualised
 -0.24
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,146 |  | + 6.91 %
-3 years | ₹1,80,000 | ₹2,02,195 |  | + 12.33 %
-5 years | ₹3,00,000 | ₹4,24,287 |  | + 41.43 %
-10 years | ₹6,00,000 | ₹17,00,124 |  | + 183.35 %
+1 year | ₹60,000 | ₹63,971 |  | + 6.62 %
+3 years | ₹1,80,000 | ₹2,01,657 |  | + 12.03 %
+5 years | ₹3,00,000 | ₹4,23,172 |  | + 41.06 %
+10 years | ₹6,00,000 | ₹16,95,596 |  | + 182.60 %
 [TABLE END]
 Holdings (
 44
@@ -154,8 +154,8 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.4% | +14.6% | +19.4% | +18.3%
-Category average ( Equity Flexi Cap ) | +13.2% | +10.7% | +13.9% | +14.2%
+Fund returns | +16.0% | +14.5% | +19.4% | +18.3%
+Category average ( Equity Flexi Cap ) | +13.1% | +10.8% | +14.0% | +14.3%
 Rank ( Equity Flexi Cap ) | 14 | -- | -- | --
 [TABLE END]
 Understand terms
@@ -185,11 +185,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Flexi Cap Fund Direct Growth | +13.32% | +19.94% | 1,588.28
- | Bank of India Flexi Cap Fund Direct Growth | +8.01% | +19.30% | 3,098.01
- | 360 ONE Flexicap Fund Direct Growth | +7.39% | +18.21% | 2,245.86
- | HDFC Flexi Cap Direct Plan Growth | +2.04% | +17.31% | 1,08,546.98
- | HSBC Flexi Cap Fund Direct Growth | +4.96% | +16.67% | 5,748.74
+ | ITI Flexi Cap Fund Direct Growth | +14.79% | +19.76% | 1,588.28
+ | Bank of India Flexi Cap Fund Direct Growth | +9.43% | +19.02% | 3,098.01
+ | 360 ONE Flexicap Fund Direct Growth | +8.64% | +17.97% | 2,245.86
+ | HDFC Flexi Cap Direct Plan Growth | +4.04% | +17.63% | 1,08,546.98
+ | HSBC Flexi Cap Fund Direct Growth | +6.31% | +16.45% | 5,748.74
 Compare
 [TABLE END]
 Fund management

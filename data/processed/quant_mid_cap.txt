@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+10.88
++10.56
 %
 3Y annualised
 -0.06
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹62,359 |  | + 3.93 %
-3 years | ₹1,80,000 | ₹1,85,757 |  | + 3.20 %
-5 years | ₹3,00,000 | ₹3,92,720 |  | + 30.91 %
-10 years | ₹6,00,000 | ₹16,26,537 |  | + 171.09 %
+1 year | ₹60,000 | ₹62,308 |  | + 3.85 %
+3 years | ₹1,80,000 | ₹1,85,623 |  | + 3.12 %
+5 years | ₹3,00,000 | ₹3,92,341 |  | + 30.78 %
+10 years | ₹6,00,000 | ₹16,24,805 |  | + 170.80 %
 [TABLE END]
 Holdings (
 40
@@ -150,8 +150,8 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +10.9% | +14.7% | +18.4% | +16.3%
-Category average ( Equity Mid Cap ) | +15.9% | +14.4% | +16.4% | +18.3%
+Fund returns | +10.6% | +14.7% | +18.3% | +16.3%
+Category average ( Equity Mid Cap ) | +15.5% | +14.4% | +16.4% | +18.3%
 Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
 [TABLE END]
 Understand terms
@@ -179,11 +179,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Invesco India Mid Cap Fund Direct Growth | +6.93% | +23.72% | 15,831.89
- | HSBC Midcap Fund Direct Growth | +15.34% | +22.39% | 16,799.59
- | WhiteOak Capital Mid Cap Fund Direct Growth | +7.88% | +21.31% | 8,399.71
- | Edelweiss Mid Cap Direct Plan Growth | +3.13% | +20.17% | 19,230.16
- | Nippon India Growth Mid Cap Fund Direct Growth | +3.69% | +17.60% | 50,176.01
+ | Invesco India Mid Cap Fund Direct Growth | +8.03% | +23.50% | 15,831.89
+ | HSBC Midcap Fund Direct Growth | +15.85% | +21.85% | 16,799.59
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +8.62% | +20.89% | 8,399.71
+ | Edelweiss Mid Cap Direct Plan Growth | +4.10% | +19.73% | 19,230.16
+ | Nippon India Growth Mid Cap Fund Direct Growth | +4.57% | +17.26% | 50,176.01
 Compare
 [TABLE END]
 Fund management
