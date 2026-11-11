@@ -233,7 +233,7 @@ Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +16.5% | +16.5% | +20.4% | +17.3%
-Category average ( Equity Small Cap ) | +14.2% | +14.8% | +17.4% | +19.8%
+Category average ( Equity Small Cap ) | +14.3% | +14.4% | +17.6% | +19.9%
 Rank ( Equity Small Cap ) | 7 | 6 | -- | --
 [TABLE END]
 Understand terms

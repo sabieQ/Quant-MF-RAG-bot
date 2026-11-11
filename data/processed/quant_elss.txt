@@ -146,7 +146,7 @@ Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +15.6% | +14.2% | +20.2% | +19.7%
-Category average ( Equity ELSS ) | +12.6% | +10.7% | +13.8% | +17.2%
+Category average ( Equity ELSS ) | +12.6% | +10.4% | +13.9% | +17.2%
 Rank ( Equity ELSS ) | 6 | 2 | 1 | --
 [TABLE END]
 Understand terms

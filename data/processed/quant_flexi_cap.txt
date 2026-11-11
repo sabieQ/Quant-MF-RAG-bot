@@ -155,8 +155,8 @@ Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
 Fund returns | +16.0% | +14.1% | +19.4% | +18.3%
-Category average ( Equity Flexi Cap ) | +13.1% | +10.8% | +14.0% | +14.3%
-Rank ( Equity Flexi Cap ) | 13 | -- | -- | --
+Category average ( Equity Flexi Cap ) | +13.1% | +10.6% | +14.1% | +14.3%
+Rank ( Equity Flexi Cap ) | 14 | -- | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -186,8 +186,8 @@ Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
  | ITI Flexi Cap Fund Direct Growth | +15.54% | +19.82% | 1,588.28
- | Bank of India Flexi Cap Fund Direct Growth | +10.08% | +18.84% | 3,098.01
- | 360 ONE Flexicap Fund Direct Growth | +9.38% | +18.05% | 2,245.86
+ | Bank of India Flexi Cap Fund Direct Growth | +10.08% | +18.84% | 3,137.40
+ | 360 ONE Flexicap Fund Direct Growth | +9.38% | +18.05% | 2,200.58
  | HDFC Flexi Cap Direct Plan Growth | +4.45% | +17.51% | 1,08,546.98
  | HSBC Flexi Cap Fund Direct Growth | +7.16% | +16.53% | 5,748.74
 Compare
