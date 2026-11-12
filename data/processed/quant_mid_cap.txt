@@ -63,18 +63,18 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+10.77
++10.70
 %
 3Y annualised
-+1.68
++0.12
 %
 1D
-NAV: 09 Nov '26
-₹250.22
+NAV: 11 Nov '26
+₹250.51
 Min. for SIP
 ₹1,000
 Fund size (AUM)
-₹7,653.83 Cr
+₹7,477.70 Cr
 Expense ratio
 1.17%
 Rating
@@ -84,56 +84,54 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹63,267 |  | + 5.45 %
-3 years | ₹1,80,000 | ₹1,88,667 |  | + 4.81 %
-5 years | ₹3,00,000 | ₹3,98,530 |  | + 32.84 %
-10 years | ₹6,00,000 | ₹16,49,233 |  | + 174.87 %
+1 year | ₹60,000 | ₹63,298 |  | + 5.50 %
+3 years | ₹1,80,000 | ₹1,88,856 |  | + 4.92 %
+5 years | ₹3,00,000 | ₹3,98,722 |  | + 32.91 %
+10 years | ₹6,00,000 | ₹16,50,112 |  | + 175.02 %
 [TABLE END]
 Holdings (
-40
+38
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Aurobindo Pharma Ltd | Healthcare | Equity | 10.71%
-Repo | Unspecified | Repo | 9.46%
-Lloyds Metals and Energy Ltd | Materials | Equity | 9.04%
-Tata Communications Ltd | Technology | Equity | 8.49%
-Indus Towers Ltd | Technology | Equity | 6.01%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 5.70%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 5.09%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 5.03%
-Nippon Life India Asset Management Ltd | Financial | Equity | 4.67%
-Premier Energies Ltd. | Energy & Utilities | Equity | 4.59%
-Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 4.04%
-Linde India Ltd | Materials | Equity | 3.55%
-Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 3.22%
-Zydus Lifesciences Ltd | Healthcare | Equity | 3.13%
-Godrej Properties Ltd Futures | Real Estate | Futures | 3.04%
-Adani Transmission Ltd | Energy & Utilities | Equity | 2.97%
-Cadila Healthcare Ltd Futures | Healthcare | Futures | 2.44%
-Ipca Laboratories Ltd | Healthcare | Equity | 2.01%
-Cochin Shipyard Ltd. | Industrials | Futures | 1.84%
-Persistent Systems Ltd | Technology | Equity | 1.72%
-Container Corporation Of India Ltd | Industrials | Equity | 1.65%
-Adani Wilmar Ltd | Consumer Staples | Equity | 1.15%
-United Breweries Ltd | Consumer Staples | Equity | 1.13%
-Welspun Corp Ltd | Materials | Equity | 1.09%
-Cochin Shipyard Ltd | Industrials | Equity | 0.86%
-TORRENT PHARMACEUTICALS LTD^ | Healthcare | Futures | 0.70%
-SONA BLW PRECISION FORGINGS LTD^ | Consumer Discretionary | Futures | 0.56%
-GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.52%
-91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.52%
-IDBI Bank Ltd | Financial | Equity | 0.47%
-91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 0.45%
-Godrej Properties Ltd | Real Estate | Equity | 0.44%
-GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.39%
-91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.39%
-91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.39%
-GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.32%
-GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.26%
-GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.26%
-Reserve Bank of India 91-D | Financial | Treasury Bills | 0.26%
-Net Payables | Unspecified | Net Payables | -8.56%
+Repo | Unspecified | Repo | 10.22%
+Aurobindo Pharma Ltd | Healthcare | Equity | 10.14%
+Lloyds Metals and Energy Ltd | Materials | Equity | 8.96%
+Tata Communications Ltd | Technology | Equity | 8.79%
+Indus Towers Ltd | Technology | Equity | 6.24%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 5.25%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 5.02%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 4.81%
+Premier Energies Ltd. | Energy & Utilities | Equity | 4.73%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 4.61%
+Nippon Life India Asset Management Ltd | Financial | Equity | 4.04%
+Zydus Lifesciences Ltd | Healthcare | Equity | 3.44%
+Linde India Ltd | Materials | Equity | 3.25%
+Adani Transmission Ltd | Energy & Utilities | Equity | 3.12%
+Godrej Properties Ltd Futures | Real Estate | Futures | 3.01%
+Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 2.97%
+Cadila Healthcare Ltd Futures | Healthcare | Futures | 2.67%
+Persistent Systems Ltd | Technology | Equity | 2.42%
+Ipca Laboratories Ltd | Healthcare | Equity | 2.06%
+Cochin Shipyard Ltd. | Industrials | Futures | 1.61%
+Container Corporation Of India Ltd | Industrials | Equity | 1.57%
+PERSISTENT SYSTEMS LTD^ | Technology | Futures | 1.52%
+United Breweries Ltd | Consumer Staples | Equity | 1.17%
+Adani Wilmar Ltd | Consumer Staples | Equity | 1.09%
+Welspun Corp Ltd | Materials | Equity | 0.96%
+Cochin Shipyard Ltd | Industrials | Equity | 0.74%
+TORRENT PHARMACEUTICALS LTD^ | Healthcare | Futures | 0.69%
+SONA BLW PRECISION FORGINGS LTD^ | Consumer Discretionary | Futures | 0.61%
+IDBI Bank Ltd | Financial | Equity | 0.53%
+91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.53%
+91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 0.47%
+Godrej Properties Ltd | Real Estate | Equity | 0.43%
+GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.40%
+91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.40%
+91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.40%
+91 DAY T-BILL 28.01.27 | Financial | Treasury Bills | 0.37%
+GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.33%
+Net Payables | Unspecified | Net Payables | -9.57%
 [TABLE END]
 Minimum investments
 Min. for 1st investment
@@ -150,9 +148,9 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +10.8% | +14.1% | +18.6% | +16.4%
+Fund returns | +10.7% | +14.6% | +18.6% | +16.4%
 Category average ( Equity Mid Cap ) | +15.3% | +13.9% | +16.5% | +18.3%
-Rank ( Equity Mid Cap ) | 35 | 12 | -- | --
+Rank ( Equity Mid Cap ) | 34 | 11 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -179,11 +177,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Invesco India Mid Cap Fund Direct Growth | +7.64% | +23.05% | 15,831.89
- | HSBC Midcap Fund Direct Growth | +16.02% | +21.55% | 16,799.59
- | WhiteOak Capital Mid Cap Fund Direct Growth | +9.23% | +20.64% | 8,399.71
- | Edelweiss Mid Cap Direct Plan Growth | +4.20% | +19.24% | 19,230.16
- | Nippon India Growth Mid Cap Fund Direct Growth | +4.73% | +17.01% | 50,176.01
+ | Invesco India Mid Cap Fund Direct Growth | +10.51% | +23.63% | 15,831.89
+ | HSBC Midcap Fund Direct Growth | +16.09% | +21.80% | 16,799.59
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +9.28% | +20.92% | 8,399.71
+ | Edelweiss Mid Cap Direct Plan Growth | +4.43% | +19.57% | 18,724.52
+ | Nippon India Growth Mid Cap Fund Direct Growth | +5.53% | +17.19% | 48,905.07
 Compare
 [TABLE END]
 Fund management
@@ -438,7 +436,7 @@ Quant Nifty 100 Index Fund Direct Growth
 Quant Silver ETF FoF Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 09 Nov 2026 is ₹250.22.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 11 Nov 2026 is ₹250.51.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
@@ -514,11 +512,12 @@ Groww AMC
 PMS
 Bonds
 Credit
+US Stocks
 © 2016-
 2026
 Groww. All rights reserved.
 Version:
-8.1.7
+8.1.8
 Share Market
 Indices
 F&O

@@ -63,18 +63,18 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.49
++16.67
 %
 3Y annualised
-+0.88
++1.08
 %
 1D
-NAV: 09 Nov '26
-₹310.60
+NAV: 11 Nov '26
+₹313.95
 Min. for SIP
 ₹1,000
 Fund size (AUM)
-₹35,572.02 Cr
+₹33,809.27 Cr
 Expense ratio
 0.96%
 Rating
@@ -84,138 +84,131 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹65,182 |  | + 8.64 %
-3 years | ₹1,80,000 | ₹2,04,473 |  | + 13.60 %
-5 years | ₹3,00,000 | ₹4,53,158 |  | + 51.05 %
-10 years | ₹6,00,000 | ₹22,00,429 |  | + 266.74 %
+1 year | ₹60,000 | ₹65,787 |  | + 9.64 %
+3 years | ₹1,80,000 | ₹2,06,537 |  | + 14.74 %
+5 years | ₹3,00,000 | ₹4,57,595 |  | + 52.53 %
+10 years | ₹6,00,000 | ₹22,21,697 |  | + 270.28 %
 [TABLE END]
 Holdings (
-122
+115
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Repo | Unspecified | Repo | 10.48%
-HFCL Ltd | Technology | Equity | 6.10%
-RBL Bank Ltd | Financial | Equity | 4.78%
-Adani Enterprises Ltd | Materials | Equity | 4.36%
-Adani Power Ltd | Energy & Utilities | Equity | 3.56%
-Aegis Logistics Ltd | Energy & Utilities | Equity | 3.50%
-Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 3.11%
-Anand Rathi Wealth Ltd | Financial | Equity | 2.83%
-Welspun Corp Ltd | Materials | Equity | 2.76%
-Adani Green Energy Ltd | Energy & Utilities | Equity | 2.61%
-Sun TV Network Ltd | Consumer Discretionary | Equity | 2.49%
-DEWAN HOUSING FINANCE CORP. LTD. EQ | Financial | Equity | 2.49%
-Manappuram Finance Ltd | Financial | Equity | 2.40%
-Capri Global Capital Ltd | Financial | Equity | 2.31%
-Arvind Ltd | Consumer Discretionary | Equity | 2.25%
-Aster DM Healthcare Ltd | Healthcare | Equity | 2.09%
-Poly Medicure Ltd | Healthcare | Equity | 2.05%
+Repo | Unspecified | Repo | 9.35%
+HFCL Ltd | Technology | Equity | 6.54%
+RBL Bank Ltd | Financial | Equity | 4.38%
+Adani Enterprises Ltd | Materials | Equity | 4.08%
+Adani Power Ltd | Energy & Utilities | Equity | 3.58%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 3.51%
+Anand Rathi Wealth Ltd | Financial | Equity | 3.16%
+Jio Platforms Ltd | Technology | Equity | 3.05%
+Aegis Logistics Ltd | Energy & Utilities | Equity | 2.93%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 2.79%
+Sun TV Network Ltd | Consumer Discretionary | Equity | 2.63%
+DEWAN HOUSING FINANCE CORP. LTD. EQ | Financial | Equity | 2.60%
+Welspun Corp Ltd | Materials | Equity | 2.50%
+Manappuram Finance Ltd | Financial | Equity | 2.31%
+Capri Global Capital Ltd | Financial | Equity | 2.26%
+Aster DM Healthcare Ltd | Healthcare | Equity | 2.15%
+Arvind Ltd | Consumer Discretionary | Equity | 2.15%
+Poly Medicure Ltd | Healthcare | Equity | 1.87%
 Pfizer Ltd | Healthcare | Equity | 1.77%
-The Karnataka Bank Ltd | Financial | Equity | 1.62%
-Indegene Ltd. | Healthcare | Equity | 1.51%
-Usha Martin Ltd | Materials | Equity | 1.50%
-Welspun India Ltd | Consumer Discretionary | Equity | 1.43%
-Welspun Enterprises Ltd | Industrials | Equity | 1.40%
+Indegene Ltd. | Healthcare | Equity | 1.58%
+The Karnataka Bank Ltd | Financial | Equity | 1.54%
+Welspun India Ltd | Consumer Discretionary | Equity | 1.45%
+Net Current Assets | Unspecified | Net Current Assets | 1.43%
+Usha Martin Ltd | Materials | Equity | 1.41%
 Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 1.32%
-Zydus Wellness Ltd | Consumer Staples | Equity | 1.30%
-Bikaji Foods International Ltd | Consumer Staples | Equity | 1.27%
 Strides Pharma Science Ltd | Healthcare | Equity | 1.24%
-Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 1.22%
-Bayer CropScience Ltd | Materials | Equity | 1.06%
-HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 1.05%
-EPL Ltd | Materials | Equity | 1.05%
-Orchid Pharma Ltd | Healthcare | Equity | 0.97%
-Glenmark Life Sciences Ltd | Healthcare | Equity | 0.86%
-Aditya Birla Lifestyle Brands Ltd | Consumer Discretionary | Equity | 0.86%
-Jubilant Pharmova Ltd | Healthcare | Equity | 0.85%
-Net Current Assets | Unspecified | Net Current Assets | 0.75%
-Just Dial Ltd | Technology | Equity | 0.73%
-Marathon Nextgen Realty Ltd | Real Estate | Equity | 0.73%
-Black Box Ltd | Technology | Equity | 0.72%
-Keystone Realtors Ltd | Real Estate | Equity | 0.63%
-NCC Ltd | Industrials | Equity | 0.63%
-JM Financial Ltd | Financial | Equity | 0.61%
-Gujarat Themis Biosyn Ltd | Healthcare | Equity | 0.59%
-Zinka Logistics Solutions Ltd. | Industrials | Equity | 0.49%
-TVS Srichakra Ltd | Consumer Discretionary | Equity | 0.47%
-AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.46%
-Nitin Spinners Ltd | Consumer Discretionary | Equity | 0.46%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 0.44%
-LIC Housing Finance Ltd | Financial | Equity | 0.43%
-Apollo Tyres Ltd | Consumer Discretionary | Equity | 0.42%
-Aurobindo Pharma Ltd | Healthcare | Equity | 0.42%
-Lloyds Metals and Energy Ltd | Materials | Equity | 0.41%
-Ethos Ltd | Consumer Discretionary | Equity | 0.38%
-Redington Ltd | Technology | Equity | 0.37%
-NBCC India Ltd | Industrials | Equity | 0.36%
-Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.36%
-Gabriel India Ltd | Consumer Discretionary | Equity | 0.32%
-Apeejay Surrendra Park Hotels Ltd. | Consumer Discretionary | Equity | 0.32%
-Indoco Remedies Ltd | Healthcare | Equity | 0.31%
-Sonata Software Ltd | Technology | Equity | 0.30%
-Gujarat State Fertilizers & Chemicals Ltd | Materials | Equity | 0.28%
-Maharashtra Seamless Ltd | Industrials | Equity | 0.27%
-Aditya Birla Fashion and Retail Ltd | Consumer Discretionary | Equity | 0.24%
-Bandhan Bank Ltd | Financial | Equity | 0.23%
-KPIT Technologies Ltd | Technology | Equity | 0.22%
-SP Apparels Ltd | Consumer Discretionary | Equity | 0.22%
-KPR Mills Ltd | Consumer Discretionary | Equity | 0.22%
-Sumitomo Chemical India Ltd | Materials | Equity | 0.20%
+Zydus Wellness Ltd | Consumer Staples | Equity | 1.23%
+Welspun Enterprises Ltd | Industrials | Equity | 1.23%
+Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 1.23%
+Bikaji Foods International Ltd | Consumer Staples | Equity | 1.16%
+HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 1.13%
+EPL Ltd | Materials | Equity | 1.01%
+Bayer CropScience Ltd | Materials | Equity | 1.00%
+Glenmark Life Sciences Ltd | Healthcare | Equity | 0.93%
+Orchid Pharma Ltd | Healthcare | Equity | 0.86%
+Aditya Birla Lifestyle Brands Ltd | Consumer Discretionary | Equity | 0.83%
+Black Box Ltd | Technology | Equity | 0.75%
+Just Dial Ltd | Technology | Equity | 0.75%
+Marathon Nextgen Realty Ltd | Real Estate | Equity | 0.74%
+Keystone Realtors Ltd | Real Estate | Equity | 0.62%
+NCC Ltd | Industrials | Equity | 0.59%
+Gujarat Themis Biosyn Ltd | Healthcare | Equity | 0.58%
+JM Financial Ltd | Financial | Equity | 0.53%
+Nitin Spinners Ltd | Consumer Discretionary | Equity | 0.53%
+LIC Housing Finance Ltd | Financial | Equity | 0.50%
+Zinka Logistics Solutions Ltd. | Industrials | Equity | 0.48%
+TVS Srichakra Ltd | Consumer Discretionary | Equity | 0.46%
+Aurobindo Pharma Ltd | Healthcare | Equity | 0.44%
+Lloyds Metals and Energy Ltd | Materials | Equity | 0.42%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 0.42%
+Apollo Tyres Ltd | Consumer Discretionary | Equity | 0.41%
+AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.40%
+Ethos Ltd | Consumer Discretionary | Equity | 0.40%
+Gabriel India Ltd | Consumer Discretionary | Equity | 0.36%
+Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.35%
+NBCC India Ltd | Industrials | Equity | 0.34%
+Redington Ltd | Technology | Equity | 0.31%
+Apeejay Surrendra Park Hotels Ltd. | Consumer Discretionary | Equity | 0.31%
+Sonata Software Ltd | Technology | Equity | 0.28%
+Indoco Remedies Ltd | Healthcare | Equity | 0.26%
+Gujarat State Fertilizers & Chemicals Ltd | Materials | Equity | 0.26%
+KPIT Technologies Ltd | Technology | Equity | 0.25%
+KPR Mills Ltd | Consumer Discretionary | Equity | 0.23%
+Info Edge (India) Ltd | Technology | Equity | 0.23%
+Aditya Birla Fashion and Retail Ltd | Consumer Discretionary | Equity | 0.21%
 Castrol India Ltd | Materials | Equity | 0.20%
-Info Edge (India) Ltd | Technology | Equity | 0.19%
+SP Apparels Ltd | Consumer Discretionary | Equity | 0.19%
+Maharashtra Seamless Ltd | Industrials | Equity | 0.19%
 Emami Ltd | Consumer Staples | Equity | 0.17%
-Bata India Ltd | Consumer Discretionary | Equity | 0.15%
-GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.15%
-Max Estates Ltd | Real Estate | Equity | 0.14%
-91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.14%
-Prime Securities Ltd | Financial | Equity | 0.14%
-Triveni Turbine Ltd | Industrials | Equity | 0.14%
+Zetwerk Manufacturing Businesses Ltd. | Industrials | Equity | 0.16%
+Bata India Ltd | Consumer Discretionary | Equity | 0.16%
+Sumitomo Chemical India Ltd | Materials | Equity | 0.16%
+91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.15%
 91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.14%
-Indiabulls Real Estate Ltd | Real Estate | Equity | 0.13%
+Bandhan Bank Ltd | Financial | Equity | 0.14%
+Bharti Airtel Ltd | Technology | Equity | 0.14%
+Prime Securities Ltd | Financial | Equity | 0.14%
 GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.13%
-Bharti Airtel Ltd | Technology | Equity | 0.12%
-GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.11%
+Max Estates Ltd | Real Estate | Equity | 0.13%
+Triveni Turbine Ltd | Industrials | Equity | 0.13%
+GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.12%
+Indiabulls Real Estate Ltd | Real Estate | Equity | 0.12%
 Ravindra Energy Ltd | Energy & Utilities | Equity | 0.11%
-Orissa Minerals Development Company Ltd | Materials | Equity | 0.11%
-Delhivery Ltd | Industrials | Equity | 0.11%
-91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.10%
-GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.10%
-Capacite Infraprojects Ltd | Industrials | Equity | 0.10%
-GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.10%
+91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.11%
+Orissa Minerals Development Company Ltd | Materials | Equity | 0.10%
+Oriental Hotels Ltd | Consumer Discretionary | Equity | 0.10%
 Graphite India Ltd | Industrials | Equity | 0.09%
-Intellect Design Arena Ltd | Technology | Equity | 0.09%
-Sula Vineyards Ltd | Consumer Staples | Equity | 0.08%
-Oriental Hotels Ltd | Consumer Discretionary | Equity | 0.08%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 0.08%
 91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 0.08%
-Reserve Bank of India 91-D | Financial | Treasury Bills | 0.08%
-Rishabh Instruments Ltd. | Industrials | Equity | 0.08%
-Sudarshan Chemical Industries Ltd | Materials | Equity | 0.07%
+Capacite Infraprojects Ltd | Industrials | Equity | 0.08%
+Sula Vineyards Ltd | Consumer Staples | Equity | 0.08%
+Aequs Ltd. | Technology | Equity | 0.08%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 0.08%
+Intellect Design Arena Ltd | Technology | Equity | 0.08%
+Rishabh Instruments Ltd. | Industrials | Equity | 0.07%
 Newgen Software Technologies Ltd | Technology | Equity | 0.07%
-Sanofi India Ltd | Healthcare | Equity | 0.05%
-Digitide Solutions Ltd | Industrials | Equity | 0.05%
+Sudarshan Chemical Industries Ltd | Materials | Equity | 0.06%
+Sanofi India Ltd | Healthcare | Equity | 0.06%
 Mahindra Holidays & Resorts India Ltd | Consumer Discretionary | Equity | 0.05%
-Aequs Ltd. | Technology | Equity | 0.05%
+Digitide Solutions Ltd | Industrials | Equity | 0.05%
 PTC India Ltd | Energy & Utilities | Equity | 0.05%
 Sudeep Pharma Ltd. | Healthcare | Equity | 0.05%
 Sai Silks (Kalamandir) Ltd. | Consumer Discretionary | Equity | 0.04%
 Vishnu Prakash R Punglia Ltd. | Industrials | Equity | 0.04%
-Best Agrolife Ltd | Materials | Equity | 0.04%
-Punjab Alkalies & Chemicals Ltd | Materials | Equity | 0.03%
 Gillette India Ltd | Consumer Staples | Equity | 0.03%
+Best Agrolife Ltd | Materials | Equity | 0.03%
+Punjab Alkalies & Chemicals Ltd | Materials | Equity | 0.03%
+Mangalore Refinery & Petrochemicals Ltd | Energy & Utilities | Equity | 0.03%
 Safari Industries (India) Ltd | Consumer Discretionary | Equity | 0.03%
 Prabha Energy Ltd | Energy & Utilities | Equity | 0.03%
-Moneyview Ltd. | Financial | Equity | 0.01%
 Kalyani Steels Ltd | Materials | Equity | 0.01%
 Caliber Mining and Logistics Ltd. | Materials | Equity | 0.01%
 Om Infra Ltd | Industrials | Equity | 0.00%
-KPIT Technologies Ltd. $$ | Technology | Futures | -0.01%
-Bharat Heavy Electricals Ltd Futures | Industrials | Futures | -0.08%
-L I C Housing Finance Ltd Futures | Financial | Futures | -0.10%
-Delhivery Limited | Industrials | Futures | -0.11%
-Ratnakar Bank Ltd Futures | Financial | Futures | -0.11%
-Bandhan Bank Ltd Futures | Financial | Futures | -0.23%
+KPIT TECHNOLOGIES LTD^ | Technology | Futures | -0.01%
+BANDHAN BANK LTD^ | Financial | Futures | -0.14%
+Anand Rathi Wealth Ltd. | Financial | Futures | -0.74%
 [TABLE END]
 Minimum investments
 Min. for 1st investment
@@ -232,9 +225,9 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.5% | +16.5% | +20.4% | +17.3%
+Fund returns | +16.7% | +17.1% | +20.5% | +17.4%
 Category average ( Equity Small Cap ) | +14.3% | +14.4% | +17.6% | +19.9%
-Rank ( Equity Small Cap ) | 7 | 6 | -- | --
+Rank ( Equity Small Cap ) | 7 | 4 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -259,11 +252,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +7.19% | +22.37% | 35,855.60
- | ITI Small Cap Fund Direct Growth | +16.75% | +21.65% | 3,666.32
- | Invesco India Small Cap Fund Direct Growth | +16.48% | +21.21% | 16,320.57
- | Sundaram Small Cap Fund Direct Growth | +7.66% | +14.38% | 4,106.99
- | Nippon India Small Cap Fund Direct Growth | +6.05% | +13.46% | 80,905.55
+ | Bandhan Small Cap Fund Direct Growth | +9.25% | +22.73% | 35,203.84
+ | ITI Small Cap Fund Direct Growth | +18.12% | +21.79% | 3,597.03
+ | Invesco India Small Cap Fund Direct Growth | +19.07% | +21.50% | 16,320.57
+ | Sundaram Small Cap Fund Direct Growth | +8.93% | +14.49% | 3,862.20
+ | Nippon India Small Cap Fund Direct Growth | +7.29% | +13.85% | 76,902.83
 Compare
 [TABLE END]
 Fund management
@@ -518,7 +511,7 @@ Quant Nifty 100 Index Fund Direct Growth
 Quant Silver ETF FoF Direct Growth
 About
 Quant Small Cap Fund Direct Plan Growth
-Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 09 Nov 2026 is ₹310.60.
+Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,03,329 Cr and the Latest NAV as of 11 Nov 2026 is ₹313.95.
 The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
@@ -594,11 +587,12 @@ Groww AMC
 PMS
 Bonds
 Credit
+US Stocks
 © 2016-
 2026
 Groww. All rights reserved.
 Version:
-8.1.7
+8.1.8
 Share Market
 Indices
 F&O
