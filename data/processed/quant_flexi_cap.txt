@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.07
++15.73
 %
 3Y annualised
 -0.53
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,885 |  | + 8.14 %
-3 years | ₹1,80,000 | ₹2,04,873 |  | + 13.82 %
-5 years | ₹3,00,000 | ₹4,29,596 |  | + 43.20 %
-10 years | ₹6,00,000 | ₹17,20,191 |  | + 186.70 %
+1 year | ₹60,000 | ₹64,532 |  | + 7.55 %
+3 years | ₹1,80,000 | ₹2,03,759 |  | + 13.20 %
+5 years | ₹3,00,000 | ₹4,27,138 |  | + 42.38 %
+10 years | ₹6,00,000 | ₹17,10,127 |  | + 185.02 %
 [TABLE END]
 Holdings (
 44
@@ -154,9 +154,9 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +16.1% | +14.2% | +19.5% | +18.4%
-Category average ( Equity Flexi Cap ) | +13.6% | +10.9% | +14.4% | +14.4%
-Rank ( Equity Flexi Cap ) | 15 | -- | -- | --
+Fund returns | +15.7% | +14.1% | +19.4% | +18.3%
+Category average ( Equity Flexi Cap ) | +13.3% | +10.8% | +14.3% | +14.3%
+Rank ( Equity Flexi Cap ) | 16 | -- | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -185,11 +185,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | ITI Flexi Cap Fund Direct Growth | +16.46% | +20.37% | 1,620.64
- | Bank of India Flexi Cap Fund Direct Growth | +11.23% | +19.35% | 3,137.40
- | 360 ONE Flexicap Fund Direct Growth | +10.70% | +18.75% | 2,200.58
- | HDFC Flexi Cap Direct Plan Growth | +4.97% | +17.84% | 1,10,441.27
- | HSBC Flexi Cap Fund Direct Growth | +8.01% | +17.10% | 5,610.75
+ | ITI Flexi Cap Fund Direct Growth | +15.91% | +19.80% | 1,620.64
+ | Bank of India Flexi Cap Fund Direct Growth | +11.34% | +18.68% | 3,137.40
+ | 360 ONE Flexicap Fund Direct Growth | +10.50% | +18.59% | 2,200.58
+ | HDFC Flexi Cap Direct Plan Growth | +4.38% | +17.70% | 1,10,441.27
+ | HSBC Flexi Cap Fund Direct Growth | +8.19% | +16.83% | 5,610.75
 Compare
 [TABLE END]
 Fund management

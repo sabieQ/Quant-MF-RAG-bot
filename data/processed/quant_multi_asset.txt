@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+21.04
++20.94
 %
 3Y annualised
--0.56
+-0.24
 %
 1D
 NAV: 13 Nov '26
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,538 |  | + 2.56 %
-3 years | ₹1,80,000 | ₹2,16,325 |  | + 20.18 %
-5 years | ₹3,00,000 | ₹4,62,729 |  | + 54.24 %
-10 years | ₹6,00,000 | ₹18,23,219 |  | + 203.87 %
+1 year | ₹60,000 | ₹61,393 |  | + 2.32 %
+3 years | ₹1,80,000 | ₹2,15,762 |  | + 19.87 %
+5 years | ₹3,00,000 | ₹4,61,523 |  | + 53.84 %
+10 years | ₹6,00,000 | ₹18,18,359 |  | + 203.06 %
 [TABLE END]
 Holdings (
 64
@@ -174,8 +174,8 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +21.0% | +17.8% | +18.4% | +15.5%
-Category average ( Hybrid Multi Asset Allocation ) | +15.0% | +12.4% | +12.5% | +11.9%
+Fund returns | +20.9% | +17.8% | +18.3% | +15.5%
+Category average ( Hybrid Multi Asset Allocation ) | +14.8% | +12.3% | +12.5% | +11.9%
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
 Understand terms
@@ -203,11 +203,11 @@ If you redeem within two years, returns are taxed as per your Income Tax slab. I
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +9.67% | +21.04% | 6,685.48
- | DSP Multi Asset Allocation Fund Direct Growth | +8.22% | +18.28% | 10,837.57
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +8.08% | +16.59% | 9,294.29
- | SBI Multi Asset Allocation Fund Direct Growth | +5.14% | +14.78% | 20,692.53
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +1.61% | +14.53% | 82,433.47
+ | Quant Multi Asset Allocation Fund Direct Growth | +8.86% | +20.94% | 6,685.48
+ | DSP Multi Asset Allocation Fund Direct Growth | +7.34% | +18.11% | 10,837.57
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +7.92% | +16.55% | 9,294.29
+ | SBI Multi Asset Allocation Fund Direct Growth | +4.63% | +14.61% | 20,692.53
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +0.73% | +14.21% | 82,433.47
 Compare
 [TABLE END]
 Fund management
