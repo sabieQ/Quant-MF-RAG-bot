@@ -90,45 +90,46 @@ Over the past | Total investment | Would've become | Historic returns | Returns
 10 years | ₹6,00,000 | ₹18,29,068 |  | + 204.84 %
 [TABLE END]
 Holdings (
-35
+36
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Repo | Unspecified | Repo | 10.52%
-Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 9.37%
-Adani Power Ltd | Energy & Utilities | Equity | 9.09%
-Aurobindo Pharma Ltd | Healthcare | Equity | 8.49%
-ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 7.56%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 4.89%
-Adani Green Energy Ltd | Energy & Utilities | Equity | 4.78%
-Tata Power Company Ltd | Energy & Utilities | Equity | 4.38%
-Bharti Airtel Ltd | Technology | Equity | 4.18%
-Divi's Laboratories Ltd | Healthcare | Equity | 4.12%
-Adani Transmission Ltd | Energy & Utilities | Equity | 3.93%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 3.73%
-Premier Energies Ltd. | Energy & Utilities | Equity | 3.46%
-Adani Enterprises Ltd | Materials | Equity | 2.85%
-Capri Global Capital Ltd | Financial | Equity | 2.39%
-Infosys Ltd | Technology | Equity | 2.34%
-Reliance Industries Ltd | Energy & Utilities | Equity | 1.80%
-Nippon Life India Asset Management Ltd | Financial | Equity | 1.77%
-Zydus Lifesciences Ltd | Healthcare | Equity | 1.60%
-Reliance Naval and Engineering Ltd | Industrials | Equity | 1.38%
+Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 9.21%
+Aurobindo Pharma Ltd | Healthcare | Equity | 8.75%
+Adani Power Ltd | Energy & Utilities | Equity | 8.63%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 7.03%
+Repo | Unspecified | Repo | 6.43%
+Divi's Laboratories Ltd | Healthcare | Equity | 5.53%
+Bharti Airtel Ltd | Technology | Equity | 5.22%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 4.98%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 4.83%
+Tata Power Company Ltd | Energy & Utilities | Equity | 4.32%
+Adani Transmission Ltd | Energy & Utilities | Equity | 4.14%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 3.57%
+Premier Energies Ltd. | Energy & Utilities | Equity | 3.57%
+Indus Towers Ltd | Technology | Equity | 3.09%
+Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 2.73%
+ITC Ltd | Consumer Staples | Equity | 2.66%
+Adani Enterprises Ltd | Materials | Equity | 2.59%
+Capri Global Capital Ltd | Financial | Equity | 2.28%
+Zydus Lifesciences Ltd | Healthcare | Equity | 2.18%
+Nippon Life India Asset Management Ltd | Financial | Equity | 1.74%
+Reliance Naval and Engineering Ltd | Industrials | Equity | 1.35%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 1.00%
 Lloyds Metals and Energy Ltd | Materials | Equity | 0.94%
-Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 0.81%
-Indus Towers Ltd | Technology | Equity | 0.78%
-Coal India Ltd | Materials | Equity | 0.70%
-Glenmark Pharmaceuticals Ltd | Healthcare | Equity | 0.65%
-Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.59%
+Ventive Hospitality Ltd. | Consumer Discretionary | Equity | 0.58%
+LTIMindtree Ltd | Technology | Equity | 0.56%
 Welspun India Ltd | Consumer Discretionary | Equity | 0.56%
-LTIMindtree Ltd | Technology | Equity | 0.53%
-Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 0.37%
+Glaxosmithkline Pharmaceuticals Ltd | Healthcare | Equity | 0.34%
 Life Insurance Corporation of India | Financial | Equity | 0.34%
-Krystal Integrated Services Ltd. | Industrials | Equity | 0.25%
-AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.23%
-Indiabulls Real Estate Ltd | Real Estate | Equity | 0.23%
-Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.22%
-Net Current Assets | Unspecified | Net Current Assets | 0.16%
+Krystal Integrated Services Ltd. | Industrials | Equity | 0.23%
+Juniper Hotels Ltd. | Consumer Discretionary | Equity | 0.21%
+Indiabulls Real Estate Ltd | Real Estate | Equity | 0.20%
+AFCONS INFRASTRUCTURE LIMITED EQ | Industrials | Equity | 0.20%
+Quant Nifty 50 Index Fund Direct-Growth | Unspecified | Mutual Fund | 0.01%
+Quant Nifty 100 Index Fund Direct-Growth | Unspecified | Mutual Fund | 0.01%
+Quant Nifty Midcap 150 Index Fund Direct-Growth | Unspecified | Mutual Fund | 0.01%
+Net Payables | Unspecified | Net Payables | -0.00%
 [TABLE END]
 Minimum investments
 Min. for 1st investment

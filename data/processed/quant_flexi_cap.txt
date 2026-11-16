@@ -90,54 +90,56 @@ Over the past | Total investment | Would've become | Historic returns | Returns
 10 years | ₹6,00,000 | ₹17,10,127 |  | + 185.02 %
 [TABLE END]
 Holdings (
-44
+46
 )
 [TABLE START]
 Name | Sector | Instruments | Assets
-Repo | Unspecified | Repo | 23.92%
-Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 9.28%
-Adani Enterprises Ltd | Materials | Equity | 8.05%
-Adani Power Ltd | Energy & Utilities | Equity | 8.01%
-Aurobindo Pharma Ltd | Healthcare | Equity | 6.87%
-ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 6.38%
-Reliance Industries Ltd Futures | Energy & Utilities | Futures | 4.94%
-Adani Green Energy Ltd | Energy & Utilities | Equity | 3.67%
-Glenmark Pharmaceuticals Limited | Healthcare | Futures | 3.44%
-Tata Power Company Ltd Futures | Energy & Utilities | Futures | 3.38%
-Adani Transmission Ltd | Energy & Utilities | Equity | 3.18%
-Tata Power Company Ltd | Energy & Utilities | Equity | 2.88%
-Bharti Airtel Ltd | Technology | Equity | 2.77%
-Zydus Lifesciences Ltd | Healthcare | Equity | 2.75%
-Nippon Life India Asset Management Ltd | Financial | Equity | 2.43%
-Glenmark Life Sciences Ltd | Healthcare | Equity | 2.05%
-KPR Mills Ltd | Consumer Discretionary | Equity | 1.99%
-Divi's Laboratories Ltd. | Healthcare | Futures | 1.96%
-JSW Infrastructure Ltd | Industrials | Equity | 1.95%
-SONA BLW PRECISION FORGINGS LTD^ | Consumer Discretionary | Futures | 1.75%
-Swan Energy Ltd | Consumer Discretionary | Equity | 1.62%
-LG Electronics India Ltd. | Consumer Discretionary | Equity | 1.39%
-Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 1.32%
-Indus Towers Ltd | Technology | Equity | 1.18%
-Bharat Heavy Electricals Ltd | Industrials | Equity | 1.07%
-DEWAN HOUSING FINANCE CORP. LTD. EQ | Financial | Equity | 1.04%
-LIC Housing Finance Ltd | Financial | Equity | 0.76%
-Lloyds Metals and Energy Ltd | Materials | Equity | 0.66%
-91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.54%
-91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 0.47%
-Aditya Birla Lifestyle Brands Ltd | Consumer Discretionary | Equity | 0.42%
-GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.41%
-91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.41%
-GOVERNMENT OF INDIA 37705 091 DAYS TBILL 29OT26 FV RS 100 | Financial | Treasury Bills | 0.34%
-91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.34%
-Tata Communications Ltd | Technology | Equity | 0.30%
-IRB Infrastructure Developers Ltd | Industrials | Equity | 0.28%
-GOVERNMENT OF INDIA 37629 091 DAYS TBILL 01OT26 FV RS 100 | Financial | Treasury Bills | 0.27%
-Reserve Bank of India 91-D | Financial | Treasury Bills | 0.27%
-GOVERNMENT OF INDIA 37693 091 DAYS TBILL 22OT26 FV RS 100 | Financial | Treasury Bills | 0.27%
-Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.24%
-GOVERNMENT OF INDIA 37642 091 DAYS TBILL 08OT26 FV RS 100 | Financial | Treasury Bills | 0.21%
-GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.20%
-Net Payables | Unspecified | Net Payables | -15.66%
+Repo | Unspecified | Repo | 15.24%
+Samvardhana Motherson International Ltd | Consumer Discretionary | Equity | 9.08%
+Adani Power Ltd | Energy & Utilities | Equity | 7.58%
+Adani Enterprises Ltd | Materials | Equity | 7.30%
+Aurobindo Pharma Ltd | Healthcare | Equity | 7.05%
+Bharti Airtel Ltd | Technology | Equity | 6.23%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 6.22%
+Adani Green Energy Ltd | Energy & Utilities | Equity | 3.81%
+Glenmark Pharmaceuticals Limited | Healthcare | Futures | 3.46%
+Jio Platforms Ltd | Technology | Equity | 3.35%
+Adani Transmission Ltd | Energy & Utilities | Equity | 3.33%
+Bharti Airtel Ltd Futures | Technology | Futures | 3.13%
+Zydus Lifesciences Ltd | Healthcare | Equity | 3.01%
+Tata Power Company Ltd | Energy & Utilities | Equity | 2.83%
+Divi's Laboratories Ltd. | Healthcare | Futures | 2.26%
+Sona BLW Precision Forgings Ltd | Consumer Discretionary | Equity | 2.21%
+Glenmark Life Sciences Ltd | Healthcare | Equity | 2.15%
+Nippon Life India Asset Management Ltd | Financial | Equity | 2.10%
+KPR Mills Ltd | Consumer Discretionary | Equity | 2.06%
+ITC Ltd Futures | Consumer Staples | Futures | 1.94%
+SONA BLW PRECISION FORGINGS LTD^ | Consumer Discretionary | Futures | 1.92%
+JSW Infrastructure Ltd | Industrials | Equity | 1.76%
+ITC Ltd | Consumer Staples | Equity | 1.48%
+LG Electronics India Ltd. | Consumer Discretionary | Equity | 1.37%
+Swan Energy Ltd | Consumer Discretionary | Equity | 1.34%
+Indus Towers Ltd | Technology | Equity | 1.22%
+Aurobindo Pharma Ltd Futures | Healthcare | Futures | 1.18%
+Divi's Laboratories Ltd | Healthcare | Equity | 1.11%
+Bharat Heavy Electricals Ltd | Industrials | Equity | 1.02%
+ADANI ENERGY SOLUTIONS LTD^ | Energy & Utilities | Futures | 0.97%
+DEWAN HOUSING FINANCE CORP. LTD. EQ | Financial | Equity | 0.94%
+LIC Housing Finance Ltd | Financial | Equity | 0.72%
+Lloyds Metals and Energy Ltd | Materials | Equity | 0.65%
+91 DTB  (24-DEC-2026) | Financial | Treasury Bills | 0.55%
+91 Days Treasury Bill 03-Dec-2026 | Financial | Treasury Bills | 0.49%
+GOVERNMENT OF INDIA 37846 091 DAYS TBILL 19NV26 FV RS 100 | Financial | Treasury Bills | 0.42%
+91 DTB  (17-DEC-2026) | Financial | Treasury Bills | 0.42%
+Aditya Birla Lifestyle Brands Ltd | Consumer Discretionary | Equity | 0.39%
+91 DAYS TBILL RED 10-12-2026 | Financial | Treasury Bills | 0.35%
+91 Days Tbill (MD 14/01/2027) | Financial | Treasury Bills | 0.32%
+Tata Communications Ltd | Technology | Equity | 0.31%
+IRB Infrastructure Developers Ltd | Industrials | Equity | 0.25%
+Colgate-Palmolive (India) Ltd | Consumer Staples | Equity | 0.22%
+GOVERNMENT OF INDIA 37861 091 DAYS TBILL 27NV26 FV RS 100 | Financial | Treasury Bills | 0.21%
+91 DAY T-BILL 28.01.27 | Financial | Treasury Bills | 0.21%
+Net Payables | Unspecified | Net Payables | -14.16%
 [TABLE END]
 Minimum investments
 Min. for 1st investment
