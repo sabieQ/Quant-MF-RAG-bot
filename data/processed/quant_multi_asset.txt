@@ -63,14 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+20.04
++20.13
 %
 3Y annualised
--0.41
++0.09
 %
 1D
-NAV: 17 Nov '26
-₹179.33
+NAV: 18 Nov '26
+₹177.79
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,141 |  | + 1.90 %
-3 years | ₹1,80,000 | ₹2,14,697 |  | + 19.28 %
-5 years | ₹3,00,000 | ₹4,59,010 |  | + 53.00 %
-10 years | ₹6,00,000 | ₹18,07,713 |  | + 201.29 %
+1 year | ₹60,000 | ₹61,182 |  | + 1.97 %
+3 years | ₹1,80,000 | ₹2,14,815 |  | + 19.34 %
+5 years | ₹3,00,000 | ₹4,59,228 |  | + 53.08 %
+10 years | ₹6,00,000 | ₹18,08,678 |  | + 201.45 %
 [TABLE END]
 Holdings (
 64
@@ -174,7 +174,7 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +20.0% | +17.7% | +18.1% | +15.4%
+Fund returns | +20.1% | +17.6% | +18.2% | +15.5%
 Category average ( Hybrid Multi Asset Allocation ) | +14.8% | +12.3% | +12.5% | +11.9%
 Rank ( Hybrid Multi Asset Allocation ) | 1 | 1 | -- | --
 [TABLE END]
@@ -203,11 +203,11 @@ If you redeem within two years, returns are taxed as per your Income Tax slab. I
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Quant Multi Asset Allocation Fund Direct Growth | +8.75% | +20.04% | 6,685.48
- | DSP Multi Asset Allocation Fund Direct Growth | +7.71% | +17.56% | 10,837.57
- | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +7.96% | +16.17% | 9,294.29
- | SBI Multi Asset Allocation Fund Direct Growth | +4.41% | +14.27% | 20,692.53
- | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +0.90% | +13.68% | 82,433.47
+ | Quant Multi Asset Allocation Fund Direct Growth | +8.94% | +20.13% | 6,685.48
+ | DSP Multi Asset Allocation Fund Direct Growth | +7.92% | +17.49% | 10,837.57
+ | WhiteOak Capital Multi Asset Allocation Fund Direct Growth | +8.06% | +16.15% | 9,294.29
+ | SBI Multi Asset Allocation Fund Direct Growth | +4.49% | +14.28% | 20,692.53
+ | ICICI Prudential Multi Asset Allocation Fund Direct Growth | +1.06% | +13.84% | 82,433.47
 Compare
 [TABLE END]
 Fund management
@@ -462,7 +462,7 @@ Quant Nifty 100 Index Fund Direct Growth
 Quant Silver ETF FoF Direct Growth
 About
 Quant Multi Asset Allocation Fund Direct Growth
-Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,00,751 Cr and the Latest NAV as of 17 Nov 2026 is ₹179.33.
+Quant Multi Asset Allocation Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Asset Allocation Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,00,751 Cr and the Latest NAV as of 18 Nov 2026 is ₹177.79.
 The Quant Multi Asset Allocation Fund Direct Growth is rated High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
