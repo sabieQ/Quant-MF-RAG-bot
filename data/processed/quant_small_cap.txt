@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.21
++15.31
 %
 3Y annualised
 +0.06
@@ -84,9 +84,9 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹64,859 |  | + 8.10 %
-3 years | ₹1,80,000 | ₹2,03,873 |  | + 13.26 %
-5 years | ₹3,00,000 | ₹4,50,900 |  | + 50.30 %
+1 year | ₹60,000 | ₹64,864 |  | + 8.11 %
+3 years | ₹1,80,000 | ₹2,03,931 |  | + 13.30 %
+5 years | ₹3,00,000 | ₹4,51,008 |  | + 50.34 %
 10 years | ₹6,00,000 | ₹21,86,364 |  | + 264.39 %
 [TABLE END]
 Holdings (
@@ -225,9 +225,9 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +15.2% | +17.5% | +20.3% | +17.3%
-Category average ( Equity Small Cap ) | +13.6% | +15.1% | +18.5% | +20.0%
-Rank ( Equity Small Cap ) | 9 | 5 | -- | --
+Fund returns | +15.3% | +17.5% | +20.3% | +17.3%
+Category average ( Equity Small Cap ) | +13.5% | +15.1% | +18.5% | +20.0%
+Rank ( Equity Small Cap ) | 7 | 5 | -- | --
 [TABLE END]
 Understand terms
 Expense ratio
@@ -252,11 +252,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Bandhan Small Cap Fund Direct Growth | +8.57% | +21.47% | 35,203.84
- | ITI Small Cap Fund Direct Growth | +18.68% | +20.66% | 3,597.03
- | Invesco India Small Cap Fund Direct Growth | +18.52% | +20.63% | 16,319.58
- | Sundaram Small Cap Fund Direct Growth | +9.39% | +13.64% | 3,862.20
- | Nippon India Small Cap Fund Direct Growth | +6.38% | +12.91% | 76,902.83
+ | Bandhan Small Cap Fund Direct Growth | +8.99% | +21.18% | 35,203.84
+ | Invesco India Small Cap Fund Direct Growth | +19.83% | +20.96% | 16,319.58
+ | ITI Small Cap Fund Direct Growth | +18.19% | +20.38% | 3,597.03
+ | Sundaram Small Cap Fund Direct Growth | +9.33% | +13.49% | 3,862.20
+ | Nippon India Small Cap Fund Direct Growth | +6.39% | +12.78% | 76,902.83
 Compare
 [TABLE END]
 Fund management
