@@ -63,14 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+9.36
++9.10
 %
 3Y annualised
--0.91
+-0.11
 %
 1D
-NAV: 23 Nov '26
-₹245.01
+NAV: 25 Nov '26
+₹244.75
 Min. for SIP
 ₹1,000
 Fund size (AUM)
@@ -84,10 +84,10 @@ Monthly investment
 ₹5,000
 [TABLE START]
 Over the past | Total investment | Would've become | Historic returns | Returns
-1 year | ₹60,000 | ₹61,856 |  | + 3.09 %
-3 years | ₹1,80,000 | ₹1,84,686 |  | + 2.60 %
-5 years | ₹3,00,000 | ₹3,88,764 |  | + 29.59 %
-10 years | ₹6,00,000 | ₹16,05,015 |  | + 167.50 %
+1 year | ₹60,000 | ₹61,781 |  | + 2.97 %
+3 years | ₹1,80,000 | ₹1,84,473 |  | + 2.48 %
+5 years | ₹3,00,000 | ₹3,88,202 |  | + 29.40 %
+10 years | ₹6,00,000 | ₹16,01,599 |  | + 166.93 %
 [TABLE END]
 Holdings (
 38
@@ -148,7 +148,7 @@ The total return of a mutual fund over a given period.
 Returns and rankings
 [TABLE START]
 Name | 3Y | 5Y | 10Y | All
-Fund returns | +9.4% | +14.1% | +18.6% | +16.2%
+Fund returns | +9.1% | +14.0% | +18.6% | +16.1%
 Category average ( Equity Mid Cap ) | +14.4% | +14.9% | +17.3% | +18.4%
 Rank ( Equity Mid Cap ) | 36 | 19 | -- | --
 [TABLE END]
@@ -177,11 +177,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 Compare similar funds
 [TABLE START]
  | Name | 1Y | 3Y | Fund Size(Cr)
- | Invesco India Mid Cap Fund Direct Growth | +12.34% | +23.56% | 15,831.37
- | HSBC Midcap Fund Direct Growth | +16.06% | +21.08% | 16,771.54
- | WhiteOak Capital Mid Cap Fund Direct Growth | +10.00% | +19.86% | 7,785.51
- | Edelweiss Mid Cap Direct Plan Growth | +4.66% | +18.39% | 18,724.52
- | Nippon India Growth Mid Cap Fund Direct Growth | +5.00% | +15.97% | 48,905.07
+ | Invesco India Mid Cap Fund Direct Growth | +12.47% | +23.83% | 15,831.37
+ | HSBC Midcap Fund Direct Growth | +16.18% | +20.90% | 16,771.54
+ | WhiteOak Capital Mid Cap Fund Direct Growth | +9.78% | +19.83% | 7,785.51
+ | Edelweiss Mid Cap Direct Plan Growth | +4.92% | +18.38% | 18,724.52
+ | Nippon India Growth Mid Cap Fund Direct Growth | +5.85% | +16.03% | 48,905.07
 Compare
 [TABLE END]
 Fund management
@@ -282,6 +282,7 @@ Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 Quant Silver ETF FoF Direct Growth
+Quant Nifty Next 50 Index Fund Direct Growth
 qsif Equity Long Short Fund Direct Plan Growth
 qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
@@ -326,6 +327,7 @@ Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 Quant Silver ETF FoF Direct Growth
+Quant Nifty Next 50 Index Fund Direct Growth
 qsif Equity Long Short Fund Direct Plan Growth
 qsif Hybrid Long Short Fund Direct Plan Growth
 qsif Equity Ex Top 100 Long Short Fund Direct Plan Growth
@@ -434,9 +436,10 @@ Quant Nifty Midcap 150 Index Fund Direct Growth
 Quant Nifty 50 Index Fund Direct Growth
 Quant Nifty 100 Index Fund Direct Growth
 Quant Silver ETF FoF Direct Growth
+Quant Nifty Next 50 Index Fund Direct Growth
 About
 Quant Mid Cap Fund Direct Growth
-Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,00,751 Cr and the Latest NAV as of 23 Nov 2026 is ₹245.01.
+Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹1,00,751 Cr and the Latest NAV as of 25 Nov 2026 is ₹244.75.
 The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months.
 ;
 Investment Objective
@@ -517,7 +520,7 @@ US Stocks
 2026
 Groww. All rights reserved.
 Version:
-8.2.2
+8.2.4
 Share Market
 Indices
 F&O
